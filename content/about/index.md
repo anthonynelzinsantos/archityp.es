@@ -6,7 +6,7 @@ layout: single
 url: /about/
 ---
 
-Bonjour ! Je m'appelle <a href="https://anthonynelzinsantos.com/" rel="noreferrer">Anthony Nelzin-Santos</a>. Au fil des années et de mes voyages, j'ai photographié des milliers de devantures pour documenter une tradition typographique en voie de disparition. Ce sont mes « architypes », les mémoires d'un passé (pas si) lointain qui alimentent ma pratique artistique.
+Bonjour ! Je m'appelle [Anthony Nelzin-Santos](https://anthonynelzinsantos.com/). Au fil des années et de mes voyages, j'ai photographié des milliers de devantures pour documenter une tradition typographique en voie de disparition. Ce sont mes « architypes », les mémoires d'un passé (pas si) lointain qui alimentent ma pratique artistique.
 
 **Naviguer sur Architypes**
 
@@ -25,9 +25,9 @@ Vous pouvez revenir à la page d'accueil :
 
 Vous pouvez être informé de la publication de nouveaux architypes :
 
-- en vous abonnant <a href="/feed" rel="noreferrer">au flux RSS</a> ;
-- en suivant *Architypes* <a href="https://mastodon.social/@architypes" rel="noreferrer">sur Mastodon</a> ;
-- en suivant *Architypes* <a href="https://www.threads.com/@archityp.es" rel="noreferrer">sur Threads</a>.
+- en vous abonnant [au flux RSS](https://archityp.es/index.xml) ;
+- en suivant *Architypes* [sur Mastodon](https://mastodon.social/@architypes) ;
+- en suivant *Architypes* [sur Threads](https://www.threads.com/@archityp.es).
 
 ---
 
@@ -39,16 +39,16 @@ Les contenus publiés sur *Architypes* sont mis à disposition selon les termes 
 - de n'en faire aucune utilisation commerciale ;
 - d'utiliser la même licence d'utilisation pour vos éventuels travaux dérivés.
 
-En cas de doute sur les conditions d'utilisation de la licence Creative Commons BY-NC-SA 4.0, n'hésitez pas à <a href="mailto:bonjour@archityp.es" rel="noreferrer">me contacter par e-mail</a>.
+En cas de doute sur les conditions d'utilisation de la licence Creative Commons BY-NC-SA 4.0, n'hésitez pas à [me contacter par e-mail](mailto:bonjour@archityp.es).
 
 **Hébergement**
 
-*Architypes* est hébergé par <a href="https://www.magicpages.co/?aff=28KZ2RKopuJG" rel="noreferrer">Magic Pages</a> sur un serveur alimenté par des sources d'énergie renouvelables.
+*Architypes* est [hébergé par Infomaniak](https://www.infomaniak.com/goto/fr/hosting.web?utm_term=5fd3bff1d1501) dans un centre de données alimenté par des sources d'énergie renouvelables.
 
-<a href="https://www.magicpages.co/?aff=28KZ2RKopuJG&amp;ref=z1nz0l1n.com" rel="noreferrer">Magic Pages</a>  
-Wiesingerstraße 2  
-4820 Bad Ischl  
-Austria
+[Infomaniak Network SA](https://www.infomaniak.com/goto/fr/hosting.web?utm_term=5fd3bff1d1501)   
+Rue Eugène Marziano 25   
+1227 Les Acacias (GE)   
+Suisse
 
 **Vie privée**
 
