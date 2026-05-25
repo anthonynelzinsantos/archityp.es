@@ -8,7 +8,8 @@
 		{{ with resources.Get "css/screen.css" | minify | fingerprint }}
 			<link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}">
 		{{ end }}
-
+		{{ partial "opengraph.html" . }}
+		{{ partial "schema.html" . }}
 		{{ partial "head-extra.html" . }}
 	</head>
 

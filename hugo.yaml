@@ -11,6 +11,8 @@ params:
     author: "Anthony Nelzin-Santos"
     contactEmail: "bonjour@archityp.es"
     description: "Mémoires d’un passé (pas si) lointain"
+    images:
+        - banner.jpg
     mainSections:
         - "posts"
 
