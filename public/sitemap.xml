@@ -251,10 +251,13 @@
     <loc>http://localhost:1313/de/saint-gervais-les-bains-fr/</loc>
     <lastmod>2025-10-17T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/relieur-toulon/</loc>
-    <lastmod>2025-10-13T15:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/horlogerie-bijouterie-toulon/</loc>
+    <lastmod>2025-10-15T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/de/toulon-fr/</loc>
+    <lastmod>2025-10-15T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/relieur-toulon/</loc>
     <lastmod>2025-10-13T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/la-fregate-toulon/</loc>
@@ -280,9 +283,6 @@
   </url><url>
     <loc>http://localhost:1313/kleber-gravure-toulon/</loc>
     <lastmod>2025-09-27T15:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/horlogerie-chaslin-toulon/</loc>
-    <lastmod>2025-09-25T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/horlogerie-chaslin-toulon/</loc>
     <lastmod>2025-09-25T15:00:00+00:00</lastmod>
@@ -522,6 +522,9 @@
     <lastmod>2025-04-24T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
+    <lastmod>2025-04-24T06:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/404/</loc>
     <lastmod>2025-04-24T06:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/au-fil-du-vin-paris/</loc>

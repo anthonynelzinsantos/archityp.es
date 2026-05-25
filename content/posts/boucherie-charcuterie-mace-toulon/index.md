@@ -3,8 +3,6 @@ title: "Boucherie charcuterie Macé (Toulon)"
 date: 2025-10-07T15:00:00Z
 de:
   - "toulon-fr"
-feature_image_alt: ""
-feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
 slug: "boucherie-charcuterie-mace-toulon"
 ---
 

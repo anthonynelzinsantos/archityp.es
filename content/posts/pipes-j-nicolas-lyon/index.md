@@ -3,8 +3,6 @@ title: "Pipes J. Nicolas (Lyon)"
 date: 2026-04-21T15:00:55Z
 de:
   - "lyon-fr"
-feature_image_alt: ""
-feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
 slug: "pipes-j-nicolas-lyon"
 ---
 

@@ -237,7 +237,7 @@ FileETag None
 </IfModule>
 
 # ═════════════════════════════════════════════════════════════════════
-#  8. Pretty 404 (optional — Hugo emits 404.html at the site root)
+#  8. Pretty 404
 # ═════════════════════════════════════════════════════════════════════
 
-ErrorDocument 404 /404.html
+ErrorDocument 404 /404

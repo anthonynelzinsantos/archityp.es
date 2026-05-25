@@ -3,8 +3,6 @@ title: "Bistro Ernest (Paris)"
 date: 2025-09-19T15:00:00Z
 de:
   - "paris-fr"
-feature_image_alt: ""
-feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
 slug: "bistro-ernest-paris"
 ---
 

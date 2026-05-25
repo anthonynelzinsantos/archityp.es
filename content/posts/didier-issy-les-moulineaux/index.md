@@ -3,8 +3,6 @@ title: "Didier (Issy-les-Moulineaux)"
 date: 2025-12-31T15:00:00Z
 de:
   - "issy-les-moulineaux-fr"
-feature_image_alt: ""
-feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
 slug: "didier-issy-les-moulineaux"
 ---
 

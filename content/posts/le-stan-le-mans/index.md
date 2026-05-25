@@ -3,8 +3,6 @@ title: "Le Stan (Le Mans)"
 date: 2026-03-01T16:00:49Z
 de:
   - "le-mans-fr"
-feature_image_alt: ""
-feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
 slug: "le-stan-le-mans"
 ---
 

@@ -3,8 +3,6 @@ title: "Restauration de meubles anciens (Lyon)"
 date: 2026-04-06T15:00:05Z
 de:
   - "lyon-fr"
-feature_image_alt: ""
-feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
 slug: "restauration-de-meubles-anciens-lyon"
 ---
 

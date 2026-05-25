@@ -3,8 +3,6 @@ title: "Bar Gaspart (Barcelone)"
 date: 2026-05-21T15:00:29Z
 de:
   - "barcelone-es"
-feature_image_alt: ""
-feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
 slug: "bar-gaspart-barcelone"
 ---
 

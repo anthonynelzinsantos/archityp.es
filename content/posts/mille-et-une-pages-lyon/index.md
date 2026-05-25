@@ -3,8 +3,6 @@ title: "Mille et une pages (Lyon)"
 date: 2026-04-18T15:00:27Z
 de:
   - "lyon-fr"
-feature_image_alt: ""
-feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
 slug: "mille-et-une-pages-lyon"
 ---
 

@@ -3,8 +3,6 @@ title: "Boucherie Jeandel (Lyon)"
 date: 2026-04-30T15:00:31Z
 de:
   - "lyon-fr"
-feature_image_alt: ""
-feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
 slug: "boucherie-jeandel-lyon"
 ---
 

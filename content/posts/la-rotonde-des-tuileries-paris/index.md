@@ -3,8 +3,6 @@ title: "La rotonde des Tuileries (Paris)"
 date: 2025-05-22T15:30:00Z
 de:
   - "paris-fr"
-feature_image_alt: ""
-feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
 slug: "la-rotonde-des-tuileries-paris"
 ---
 

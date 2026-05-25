@@ -3,8 +3,6 @@ title: "Maison du tapis (Lyon)"
 date: 2025-11-04T15:00:00Z
 de:
   - "lyon-fr"
-feature_image_alt: ""
-feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
 slug: "maison-du-tapis-lyon"
 ---
 

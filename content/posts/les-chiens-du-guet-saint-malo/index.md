@@ -3,8 +3,6 @@ title: "Les chiens du guet (Saint-Malo)"
 date: 2025-07-24T15:00:00Z
 de:
   - "saint-malo-fr"
-feature_image_alt: ""
-feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
 slug: "les-chiens-du-guet-saint-malo"
 ---
 

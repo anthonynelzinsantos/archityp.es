@@ -3,8 +3,6 @@ title: "Le petit Maillot (Paris)"
 date: 2025-06-12T15:30:00Z
 de:
   - "paris-fr"
-feature_image_alt: ""
-feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
 slug: "le-petit-maillot-paris"
 ---
 

@@ -3,8 +3,6 @@ title: "Café de l’Ouest (Saint-Malo)"
 date: 2025-07-22T15:00:00Z
 de:
   - "saint-malo-fr"
-feature_image_alt: ""
-feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
 slug: "cafe-de-louest-saint-malo"
 ---
 

@@ -3,8 +3,6 @@ title: "Fleca Els Àngels (Barcelone)"
 date: 2026-06-17T15:00:00Z
 de:
   - "barcelone-es"
-feature_image_alt: ""
-feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
 slug: "fleca-els-angels-barcelone"
 ---
 

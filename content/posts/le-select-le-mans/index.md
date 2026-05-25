@@ -3,8 +3,6 @@ title: "Le Sélect (Le Mans)"
 date: 2026-03-07T16:00:45Z
 de:
   - "le-mans-fr"
-feature_image_alt: ""
-feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
 slug: "le-select-le-mans"
 ---
 
