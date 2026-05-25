@@ -1,28 +1,56 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
-  <channel>
-    <title>{{ site.Title }}</title>
-    <link>{{ site.BaseURL }}</link>
-    <description>{{ with site.Params.description }}{{ . }}{{ else }}Recent content on {{ site.Title }}{{ end }}</description>
-    <language>{{ site.Language.LanguageCode | default site.Language.Lang }}</language>
-    <managingEditor>{{ site.Params.contactEmail }} ({{ site.Params.author }})</managingEditor>
-    <atom:link href="{{ "/index.xml" | absURL }}" rel="self" type="application/rss+xml" />
-    {{ $posts := where site.RegularPages "Section" "posts" }}
-    {{ range first 24 $posts }}
-    <item>
-      <title>{{ .Title }}</title>
-      <link>{{ .Permalink }}</link>
-      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
-      <guid>{{ .Permalink }}</guid>
-      <description>
-      	{{ $feature := .Resources.GetMatch "feature.*" }}
-		{{ if $feature }}
-			{{ $xl := $feature.Resize "1920x" }}
-			&lt;img src="{{ $xl.Permalink }}" alt="{{ with .Params.feature_image_alt }}{{ . }}{{ else }}{{ .Title }}{{ end }}" /&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     version="2.0">
+	<channel>
+    	<title>{{ site.Title }}</title>
+    	<link>{{ site.BaseURL }}</link>
+    	<description>{{ with site.Params.description }}{{ . }}{{ else }}Recent content on {{ site.Title }}{{ end }}</description>
+    	<language>{{ site.Language.LanguageCode | default site.Language.Lang }}</language>
+    	<managingEditor>{{ site.Params.contactEmail }} ({{ site.Params.author }})</managingEditor>
+    	<webMaster>{{ site.Params.contactEmail }} ({{ site.Params.author }})</webMaster>
+    	<copyright>© {{ now.Year }} {{ site.Params.author }}</copyright>
+    	<lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
+    	<generator>Hugo {{ hugo.Version }}</generator>
+    	<atom:link href="{{ "/index.xml" | absURL }}" rel="self" type="application/rss+xml" />
+
+		{{ $posts := where site.RegularPages "Section" "posts" }}
+		{{ range first 24 $posts }}
+		{{ $feature := .Resources.GetMatch "feature.*" }}
+		{{ $xl := "" }}
+		{{ $alt := .Title }}
+		{{ with .Params.feature_image_alt }}{{ $alt = . }}{{ end }}
+		{{ if $feature }}{{ $xl = $feature.Resize "1920x" }}{{ end }}
+		<item>
+			<title>{{ "<![CDATA[" | safeHTML }}{{ .Title }}{{ "]]>" | safeHTML }}</title>
+			<link>{{ .Permalink }}</link>
+			<pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+			<guid isPermaLink="true">{{ .Permalink }}</guid>
+			<dc:creator>{{ site.Params.author }}</dc:creator>
+			
+			{{ range .Params.de }}
+				{{ $de := site.GetPage (printf "/de/%s" .) }}
+				<category{{ with $de }} domain="{{ .Permalink }}"{{ end }}>{{ with $de }}{{ .Title }}{{ else }}{{ . }}{{ end }}</category>
+			{{ end }}
+			
+			<description>{{ "<![CDATA[" | safeHTML }}{{ .Summary | plainify | truncate 280 }}{{ "]]>" | safeHTML }}</description>
+			
+			<content:encoded>{{ "<![CDATA[" | safeHTML }}
+			{{ with $xl }}<p><img src="{{ .Permalink }}" alt="{{ $alt }}" /></p>{{ end }}
+			{{ .Content | safeHTML }}
+			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path={{ .RelPermalink }}" alt="" style="width:1px;height:1px;border:0;" />
+			{{ "]]>" | safeHTML }}</content:encoded>
+			
+			{{ with $xl }}
+			<enclosure url="{{ .Permalink }}" type="image/jpeg" length="0" />
+			<media:content url="{{ .Permalink }}" medium="image" type="image/jpeg">
+			<media:title type="plain">{{ $alt }}</media:title>
+			{{ with $.Params.feature_image_caption }}<media:description type="plain">{{ . | plainify }}</media:description>{{ end }}
+			</media:content>
+			<media:thumbnail url="{{ ($feature.Resize "750x").Permalink }}" />
+			{{ end }}
+		</item>
 		{{ end }}
-      	{{ .Content | html }}
-      	&lt;img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path={{ .RelPermalink | html }}" alt="" style="width:1px;height:1px;border:0;" /&gt;
-      </description>
-    </item>
-    {{ end }}
-  </channel>
+	</channel>
 </rss>
