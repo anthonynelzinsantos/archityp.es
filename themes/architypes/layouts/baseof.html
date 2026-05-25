@@ -8,6 +8,11 @@
 		{{ with resources.Get "css/screen.css" | minify | fingerprint }}
 			<link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}">
 		{{ end }}
+		
+		{{ with .OutputFormats.Get "rss" }}
+			{{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
+		{{ end }}
+		
 		{{ partial "opengraph.html" . }}
 		{{ partial "schema.html" . }}
 		{{ partial "head-extra.html" . }}
