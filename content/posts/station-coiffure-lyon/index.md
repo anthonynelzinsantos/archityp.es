@@ -5,6 +5,7 @@ de:
   - "lyon-fr"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "station-coiffure-lyon"
 ---
 
 Photo prise en novembre 2018. Parfois, les traces sont plus intéressantes que ce qui était là.

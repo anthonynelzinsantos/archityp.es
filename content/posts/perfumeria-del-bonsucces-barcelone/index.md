@@ -5,6 +5,7 @@ de:
   - "barcelone-es"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "perfumeria-del-bonsucces-barcelone"
 ---
 
 Photo prise en novembre 2021. Parait-il que les chanteuses Amaia et Rosalía s'y fournissent en collants. (Moi aussi, mais en chaussettes, et tout le monde s'en fout.)

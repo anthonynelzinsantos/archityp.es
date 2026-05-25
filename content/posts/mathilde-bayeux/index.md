@@ -5,6 +5,7 @@ de:
   - "bayeux-fr"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "mathilde-bayeux"
 ---
 
 Photo prise en aout 2018. Le plein, le délié et l'appareil photo fracassé.

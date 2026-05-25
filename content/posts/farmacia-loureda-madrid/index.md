@@ -5,6 +5,7 @@ de:
   - "madrid-es"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "farmacia-loureda-madrid"
 ---
 
 Photo prise en novembre 2017. Trois points pour le C.

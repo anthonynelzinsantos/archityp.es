@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/de/le-mans-fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Éts Raymond Alline (Le Mans)</title>
-      <link>http://localhost:1313/%C3%A9ts-raymond-alline-le-mans/</link>
+      <link>http://localhost:1313/ets-raymond-alline-le-mans/</link>
       <pubDate>Fri, 13 Mar 2026 16:00:34 +0000</pubDate>
-      <guid>http://localhost:1313/%C3%A9ts-raymond-alline-le-mans/</guid>
+      <guid>http://localhost:1313/ets-raymond-alline-le-mans/</guid>
       <description>&lt;p&gt;Photo prise en juillet 2020. Un (double) &lt;em&gt;ghost sign&lt;/em&gt; qui donne envie de revenir pour les 24 heures.&lt;/p&gt;</description>
     </item>
     <item>
@@ -24,9 +24,9 @@
     </item>
     <item>
       <title>Le Sélect (Le Mans)</title>
-      <link>http://localhost:1313/le-s%C3%A9lect-le-mans/</link>
+      <link>http://localhost:1313/le-select-le-mans/</link>
       <pubDate>Sat, 07 Mar 2026 16:00:45 +0000</pubDate>
-      <guid>http://localhost:1313/le-s%C3%A9lect-le-mans/</guid>
+      <guid>http://localhost:1313/le-select-le-mans/</guid>
       <description>&lt;p&gt;Photo prise en juillet 2020. La devanture annonce la couleur : une discothèque en plein centre-ville, ce n&amp;rsquo;est pas commun, ou beaucoup moins qu&amp;rsquo;à une époque que je n&amp;rsquo;ai pas connue. Le club qui a repris les locaux quelques années après ma photo n&amp;rsquo;a d&amp;rsquo;ailleurs pas trouvé son public.&lt;/p&gt;</description>
     </item>
     <item>
@@ -52,9 +52,9 @@
     </item>
     <item>
       <title>Éts Camus (Le Mans)</title>
-      <link>http://localhost:1313/%C3%A9ts-camus-le-mans/</link>
+      <link>http://localhost:1313/ets-camus-le-mans/</link>
       <pubDate>Mon, 23 Feb 2026 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/%C3%A9ts-camus-le-mans/</guid>
+      <guid>http://localhost:1313/ets-camus-le-mans/</guid>
       <description>&lt;p&gt;Photo prise en juillet 2020. La rue penche, les lettres aussi !&lt;/p&gt;</description>
     </item>
   </channel>

@@ -6,15 +6,8 @@
     <description>Recent content in Toulon 🇫🇷 on Architypes</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 15 Oct 2025 15:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 15:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/de/toulon-fr/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Horlogerie bijouterie (Toulon)</title>
-      <link>http://localhost:1313/horlogerie-bijouterie-toulon/</link>
-      <pubDate>Wed, 15 Oct 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/horlogerie-bijouterie-toulon/</guid>
-      <description>&lt;p&gt;Photo prise en février 2019. Je ne sais pas si je préfère les néons, les lettres peintes derrière ou l&amp;rsquo;auvent.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Relieur (Toulon)</title>
       <link>http://localhost:1313/relieur-toulon/</link>
@@ -24,9 +17,9 @@
     </item>
     <item>
       <title>La frégate (Toulon)</title>
-      <link>http://localhost:1313/la-fr%C3%A9gate-toulon/</link>
+      <link>http://localhost:1313/la-fregate-toulon/</link>
       <pubDate>Sat, 11 Oct 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/la-fr%C3%A9gate-toulon/</guid>
+      <guid>http://localhost:1313/la-fregate-toulon/</guid>
       <description>&lt;p&gt;Photo prise en février 2019. La proue de l&amp;rsquo;immeuble.&lt;/p&gt;</description>
     </item>
     <item>
@@ -38,9 +31,9 @@
     </item>
     <item>
       <title>Boucherie charcuterie Macé (Toulon)</title>
-      <link>http://localhost:1313/boucherie-charcuterie-mac%C3%A9-toulon/</link>
+      <link>http://localhost:1313/boucherie-charcuterie-mace-toulon/</link>
       <pubDate>Tue, 07 Oct 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/boucherie-charcuterie-mac%C3%A9-toulon/</guid>
+      <guid>http://localhost:1313/boucherie-charcuterie-mace-toulon/</guid>
       <description>&lt;p&gt;Photo prise en février 2019. Sans les affreuses huisseries en PVC balafrées d&amp;rsquo;une police Google Fonts, on se croirait dans les années 1950. À quoi ça tient&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
@@ -66,17 +59,24 @@
     </item>
     <item>
       <title>Boulangerie Pâtisserie (Toulon)</title>
-      <link>http://localhost:1313/boulangerie-p%C3%A2tisserie-toulon/</link>
+      <link>http://localhost:1313/boulangerie-patisserie-toulon/</link>
       <pubDate>Mon, 29 Sep 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/boulangerie-p%C3%A2tisserie-toulon/</guid>
+      <guid>http://localhost:1313/boulangerie-patisserie-toulon/</guid>
       <description>&lt;p&gt;Photo prise en février 2019. On dirait le Sud&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kléber Gravure (Toulon)</title>
-      <link>http://localhost:1313/kl%C3%A9ber-gravure-toulon/</link>
+      <link>http://localhost:1313/kleber-gravure-toulon/</link>
       <pubDate>Sat, 27 Sep 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kl%C3%A9ber-gravure-toulon/</guid>
+      <guid>http://localhost:1313/kleber-gravure-toulon/</guid>
       <description>&lt;p&gt;Photo prise en février 2019. &lt;em&gt;More is more is more&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Horlogerie Chaslin (Toulon)</title>
+      <link>http://localhost:1313/horlogerie-chaslin-toulon/</link>
+      <pubDate>Thu, 25 Sep 2025 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/horlogerie-chaslin-toulon/</guid>
+      <description>&lt;p&gt;Photo prise en février 2019. Mon seul regret : ne pas avoir attendu l&amp;rsquo;ouverture et acheté l&amp;rsquo;un des jolis réveils en vitrine.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Horlogerie Chaslin (Toulon)</title>

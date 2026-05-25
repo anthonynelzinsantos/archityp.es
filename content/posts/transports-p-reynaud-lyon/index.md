@@ -5,6 +5,7 @@ de:
   - "lyon-fr"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "transports-p-reynaud-lyon"
 ---
 
 Photo prise en juillet 2020. Le hangar abrite maintenant une salle de CrossFit -- je suppose qu'il doit y avoir une blague à faire ?

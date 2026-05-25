@@ -5,6 +5,7 @@ de:
   - "lyon-fr"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "bar-jurassien-lyon"
 ---
 
 Photo prise en novembre 2020. Qui sont ces serpents...

@@ -20,7 +20,7 @@
     <loc>http://localhost:1313/farmacia-laboratorio-barcelone/</loc>
     <lastmod>2026-05-18T15:00:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bar-restaurant-guit%C3%B3-barcelone/</loc>
+    <loc>http://localhost:1313/bar-restaurant-guito-barcelone/</loc>
     <lastmod>2026-05-15T15:00:05+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/brocante-lyon/</loc>
@@ -41,13 +41,13 @@
     <loc>http://localhost:1313/boucherie-jeandel-lyon/</loc>
     <lastmod>2026-04-30T15:00:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/le-point-de-rep%C3%A8re-lyon/</loc>
+    <loc>http://localhost:1313/le-point-de-repere-lyon/</loc>
     <lastmod>2026-04-27T15:00:04+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/le-petit-train-bleu-lyon/</loc>
     <lastmod>2026-04-24T15:00:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pipes-j.-nicolas-lyon/</loc>
+    <loc>http://localhost:1313/pipes-j-nicolas-lyon/</loc>
     <lastmod>2026-04-21T15:00:55+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mille-et-une-pages-lyon/</loc>
@@ -56,7 +56,7 @@
     <loc>http://localhost:1313/au-trait-dunion-lyon/</loc>
     <lastmod>2026-04-15T15:00:36+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/au-gen%C3%AAt-lyon/</loc>
+    <loc>http://localhost:1313/au-genet-lyon/</loc>
     <lastmod>2026-04-12T15:00:54+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fournitures-pour-confection-et-tailleurs-lyon/</loc>
@@ -86,7 +86,7 @@
     <loc>http://localhost:1313/press-lyon/</loc>
     <lastmod>2026-03-16T16:00:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/%C3%A9ts-raymond-alline-le-mans/</loc>
+    <loc>http://localhost:1313/ets-raymond-alline-le-mans/</loc>
     <lastmod>2026-03-13T16:00:34+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/de/le-mans-fr/</loc>
@@ -95,7 +95,7 @@
     <loc>http://localhost:1313/quincaillerie-person-taugourdeau-le-mans/</loc>
     <lastmod>2026-03-10T16:00:44+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/le-s%C3%A9lect-le-mans/</loc>
+    <loc>http://localhost:1313/le-select-le-mans/</loc>
     <lastmod>2026-03-07T16:00:45+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/coiffure-masculine-le-mans/</loc>
@@ -107,13 +107,13 @@
     <loc>http://localhost:1313/textile-couleurs-le-mans/</loc>
     <lastmod>2026-02-26T16:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/%C3%A9ts-camus-le-mans/</loc>
+    <loc>http://localhost:1313/ets-camus-le-mans/</loc>
     <lastmod>2026-02-23T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/imprimerie-lyon/</loc>
     <lastmod>2026-02-20T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/transports-p.-reynaud-lyon/</loc>
+    <loc>http://localhost:1313/transports-p-reynaud-lyon/</loc>
     <lastmod>2026-02-17T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carrosserie-tolerie-peinture-lyon/</loc>
@@ -122,22 +122,22 @@
     <loc>http://localhost:1313/jecebel-charpente-traditionnelle-lyon/</loc>
     <lastmod>2026-02-11T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p%C3%A2tisserie-lyon/</loc>
+    <loc>http://localhost:1313/patisserie-lyon/</loc>
     <lastmod>2026-02-08T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/laboratoires-pourquery-lyon/</loc>
     <lastmod>2026-02-05T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/la-maison-de-la-cl%C3%A9-lyon/</loc>
+    <loc>http://localhost:1313/la-maison-de-la-cle-lyon/</loc>
     <lastmod>2026-02-02T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/acad%C3%A9mie-de-billard-de-lyon-lyon/</loc>
+    <loc>http://localhost:1313/academie-de-billard-de-lyon-lyon/</loc>
     <lastmod>2026-01-30T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/maison-lyon/</loc>
     <lastmod>2026-01-27T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/%C3%A9lectro-son-lyon/</loc>
+    <loc>http://localhost:1313/electro-son-lyon/</loc>
     <lastmod>2026-01-24T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/serrurerie-ferronerie-sampaio-lyon/</loc>
@@ -173,7 +173,7 @@
     <loc>http://localhost:1313/langelus-paris/</loc>
     <lastmod>2025-12-28T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rh%C3%B4ne-alpes-gravures-lyon/</loc>
+    <loc>http://localhost:1313/rhone-alpes-gravures-lyon/</loc>
     <lastmod>2025-12-25T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/auto-deal-lyon/</loc>
@@ -185,16 +185,16 @@
     <loc>http://localhost:1313/riquet-city-lyon/</loc>
     <lastmod>2025-12-16T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sp%C3%A9cimen-lyon/</loc>
+    <loc>http://localhost:1313/specimen-lyon/</loc>
     <lastmod>2025-12-13T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/momo-coiffure-lyon/</loc>
     <lastmod>2025-12-10T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tapissier-d%C3%A9corateur-lyon/</loc>
+    <loc>http://localhost:1313/tapissier-decorateur-2-lyon/</loc>
     <lastmod>2025-12-07T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tapissier-d%C3%A9corateur-lyon/</loc>
+    <loc>http://localhost:1313/tapissier-decorateur-lyon/</loc>
     <lastmod>2025-12-04T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/parfumerie-quincaillerie-droguerie-lyon/</loc>
@@ -203,10 +203,10 @@
     <loc>http://localhost:1313/retouches-marine-lyon/</loc>
     <lastmod>2025-11-28T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chat-bott%C3%A9-lyon/</loc>
+    <loc>http://localhost:1313/chat-botte-lyon/</loc>
     <lastmod>2025-11-25T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rh%C3%B4ne-alpes-m%C3%A9nager-lyon/</loc>
+    <loc>http://localhost:1313/rhone-alpes-menager-lyon/</loc>
     <lastmod>2025-11-22T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carrosserie-marcel-perrot-lyon/</loc>
@@ -215,13 +215,13 @@
     <loc>http://localhost:1313/retouches-couture-nelly-lyon/</loc>
     <lastmod>2025-11-16T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sanitaire-g.-pradat-lyon/</loc>
+    <loc>http://localhost:1313/sanitaire-g-pradat-lyon/</loc>
     <lastmod>2025-11-13T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/bureaux-lyon/</loc>
     <lastmod>2025-11-10T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bouquiniste-rochetaill%C3%A9e-sur-sa%C3%B4ne/</loc>
+    <loc>http://localhost:1313/bouquiniste-rochetaillee-sur-saone/</loc>
     <lastmod>2025-11-07T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/de/rochetaillee-sur-saone-fr/</loc>
@@ -233,40 +233,37 @@
     <loc>http://localhost:1313/garcin-lyon/</loc>
     <lastmod>2025-11-01T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/laboratoire-proth%C3%A8ses-dentaires-v.-ceccarelli/</loc>
+    <loc>http://localhost:1313/laboratoire-protheses-dentaires-v-ceccarelli/</loc>
     <lastmod>2025-10-29T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/reygils-lyon/</loc>
     <lastmod>2025-10-26T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/charles-antonin/centracome-lyon/</loc>
+    <loc>http://localhost:1313/charles-antonin-centracome-lyon/</loc>
     <lastmod>2025-10-23T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pressing-lyon/</loc>
     <lastmod>2025-10-20T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/%C3%A9picerie-boulangerie/alimentation-saint-gervais-les-bains/</loc>
+    <loc>http://localhost:1313/epicerie-boulangerie-alimentation-saint-gervais-les-bains/</loc>
     <lastmod>2025-10-17T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/de/saint-gervais-les-bains-fr/</loc>
     <lastmod>2025-10-17T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/horlogerie-bijouterie-toulon/</loc>
-    <lastmod>2025-10-15T15:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/de/toulon-fr/</loc>
-    <lastmod>2025-10-15T15:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/relieur-toulon/</loc>
     <lastmod>2025-10-13T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/la-fr%C3%A9gate-toulon/</loc>
+    <loc>http://localhost:1313/de/toulon-fr/</loc>
+    <lastmod>2025-10-13T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/la-fregate-toulon/</loc>
     <lastmod>2025-10-11T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/garage-pourquier-toulon/</loc>
     <lastmod>2025-10-09T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/boucherie-charcuterie-mac%C3%A9-toulon/</loc>
+    <loc>http://localhost:1313/boucherie-charcuterie-mace-toulon/</loc>
     <lastmod>2025-10-07T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/castel-chabre-toulon/</loc>
@@ -278,16 +275,19 @@
     <loc>http://localhost:1313/monique-couture-toulon/</loc>
     <lastmod>2025-10-01T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/boulangerie-p%C3%A2tisserie-toulon/</loc>
+    <loc>http://localhost:1313/boulangerie-patisserie-toulon/</loc>
     <lastmod>2025-09-29T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/kl%C3%A9ber-gravure-toulon/</loc>
+    <loc>http://localhost:1313/kleber-gravure-toulon/</loc>
     <lastmod>2025-09-27T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/horlogerie-chaslin-toulon/</loc>
     <lastmod>2025-09-25T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cin%C3%A9ma-%C3%A9lys%C3%A9e-lyon/</loc>
+    <loc>http://localhost:1313/horlogerie-chaslin-toulon/</loc>
+    <lastmod>2025-09-25T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cinema-elysee-lyon/</loc>
     <lastmod>2025-09-23T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/station-coiffure-lyon/</loc>
@@ -296,7 +296,7 @@
     <loc>http://localhost:1313/bistro-ernest-paris/</loc>
     <lastmod>2025-09-19T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr%C3%A9d%C3%A9ric-marchand-paris/</loc>
+    <loc>http://localhost:1313/frederic-marchand-paris/</loc>
     <lastmod>2025-09-17T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/optique-paris/</loc>
@@ -305,7 +305,7 @@
     <loc>http://localhost:1313/librairie-jean-claude-vrain-paris/</loc>
     <lastmod>2025-09-13T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/%C3%A0-la-belle-fermi%C3%A8re-paris/</loc>
+    <loc>http://localhost:1313/a-la-belle-fermiere-paris/</loc>
     <lastmod>2025-09-11T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/stylo-city-paris/</loc>
@@ -314,7 +314,7 @@
     <loc>http://localhost:1313/simon-paris/</loc>
     <lastmod>2025-09-07T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/la-maison-de-poup%C3%A9e-paris/</loc>
+    <loc>http://localhost:1313/la-maison-de-poupee-paris/</loc>
     <lastmod>2025-09-05T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/restaurant-paris/</loc>
@@ -329,7 +329,7 @@
     <loc>http://localhost:1313/journaux-gigante-lyon/</loc>
     <lastmod>2025-08-28T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chippie-plage-courseulles-sur-mer/</loc>
+    <loc>http://localhost:1313/chippie-plage-courseulles/</loc>
     <lastmod>2025-08-26T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/de/courseulles-sur-mer-fr/</loc>
@@ -338,7 +338,7 @@
     <loc>http://localhost:1313/de/bayeux-fr/</loc>
     <lastmod>2025-08-24T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/caf%C3%A9-de-la-place-bayeux/</loc>
+    <loc>http://localhost:1313/cafe-de-la-place-bayeux/</loc>
     <lastmod>2025-08-24T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mathilde-bayeux/</loc>
@@ -347,7 +347,7 @@
     <loc>http://localhost:1313/troc-saint-martin-bayeux/</loc>
     <lastmod>2025-08-20T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/le-colima%C3%A7on-paris/</loc>
+    <loc>http://localhost:1313/le-colimacon-paris/</loc>
     <lastmod>2025-08-18T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ultramod-paris/</loc>
@@ -356,7 +356,7 @@
     <loc>http://localhost:1313/aux-couleurs-modernes-paris/</loc>
     <lastmod>2025-08-14T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/caf%C3%A9-des-minist%C3%A8res-paris/</loc>
+    <loc>http://localhost:1313/cafe-des-ministeres-paris/</loc>
     <lastmod>2025-08-12T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/choc-corridor-lyon/</loc>
@@ -365,7 +365,7 @@
     <loc>http://localhost:1313/syndicat-dinitiative-de-renaissance-du-vieux-lyon-lyon/</loc>
     <lastmod>2025-08-07T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/h%C3%B4tel-dazur-lyon/</loc>
+    <loc>http://localhost:1313/hotel-dazur-lyon/</loc>
     <lastmod>2025-08-05T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/derotronic-lyon/</loc>
@@ -386,19 +386,19 @@
     <loc>http://localhost:1313/les-chiens-du-guet-saint-malo/</loc>
     <lastmod>2025-07-24T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/caf%C3%A9-de-louest-saint-malo/</loc>
+    <loc>http://localhost:1313/cafe-de-louest-saint-malo/</loc>
     <lastmod>2025-07-22T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/%C3%A9meraude-palace-saint-malo/</loc>
+    <loc>http://localhost:1313/emeraude-palace-saint-malo/</loc>
     <lastmod>2025-07-19T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/amicale-la%C3%AFque-pleudihen-sur-rance/</loc>
+    <loc>http://localhost:1313/amicale-laique-pleudihen-sur-rance/</loc>
     <lastmod>2025-07-17T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/de/pleudihen-sur-rance-fr/</loc>
     <lastmod>2025-07-17T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/el-pabell%C3%B3n-del-espejo-madrid/</loc>
+    <loc>http://localhost:1313/el-pabellon-del-espejo-madrid/</loc>
     <lastmod>2025-07-15T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/de/madrid-es/</loc>
@@ -407,7 +407,7 @@
     <loc>http://localhost:1313/farmacia-loureda-madrid/</loc>
     <lastmod>2025-07-12T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mercado-jam%C3%B3n-ib%C3%A9rico-madrid/</loc>
+    <loc>http://localhost:1313/mercado-jamon-iberico-madrid/</loc>
     <lastmod>2025-07-10T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/segovia-17-madrid/</loc>
@@ -416,7 +416,7 @@
     <loc>http://localhost:1313/farmacia-los-asturias-madrid/</loc>
     <lastmod>2025-07-05T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sucesores-de-ignacio-l%C3%B3pez-madrid/</loc>
+    <loc>http://localhost:1313/sucesores-de-ignacio-lopez-madrid/</loc>
     <lastmod>2025-07-03T15:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carbones-calvin-madrid/</loc>
@@ -434,13 +434,13 @@
     <loc>http://localhost:1313/de/villeurbanne-fr/</loc>
     <lastmod>2025-06-24T15:30:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bisness-caf%C3%A9-lyon/</loc>
+    <loc>http://localhost:1313/bisness-cafe-lyon/</loc>
     <lastmod>2025-06-21T15:30:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/la-renaissance-lyon/</loc>
     <lastmod>2025-06-19T15:30:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/h%C3%B4tel-de-la-gare-parsac-rimondeix/</loc>
+    <loc>http://localhost:1313/hotel-de-la-gare-parsac-rimondeix/</loc>
     <lastmod>2025-06-17T15:30:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/de/parsac-rimondeix-fr/</loc>
@@ -494,7 +494,7 @@
     <loc>http://localhost:1313/aux-neuf-triomphes-lyon/</loc>
     <lastmod>2025-05-20T15:30:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/la-pharmacop%C3%A9e-antiquit%C3%A9s-lyon/</loc>
+    <loc>http://localhost:1313/la-pharmacopee-antiquites-lyon/</loc>
     <lastmod>2025-05-17T15:30:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/de/avignon-fr/</loc>
@@ -515,7 +515,7 @@
     <loc>http://localhost:1313/ciml-lyon/</loc>
     <lastmod>2025-05-01T15:30:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/roskillys-ice-cream-truck-londres/</loc>
+    <loc>http://localhost:1313/roskillys-ice-cream-truck-london/</loc>
     <lastmod>2025-04-25T10:30:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/bicloune-paris/</loc>

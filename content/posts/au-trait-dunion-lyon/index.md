@@ -5,6 +5,7 @@ de:
   - "lyon-fr"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "au-trait-dunion-lyon"
 ---
 
 Photo prise en février 2021. Tracé avec une plume acérée.

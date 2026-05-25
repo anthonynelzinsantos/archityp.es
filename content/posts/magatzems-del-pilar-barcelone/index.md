@@ -5,6 +5,7 @@ de:
   - "barcelone-es"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "magatzems-del-pilar-barcelone"
 ---
 
 Photo prise en novembre 2021. Ça ne paye pas de mine, comme ça, mais derrière ces murs se cachent l'une des plus belles boutiques de broderies de la planète.

@@ -5,6 +5,7 @@ de:
   - "lyon-fr"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "garcin-lyon"
 ---
 
 Photo prise en juillet 2019. Comme quoi, ce crime typographique que sont les mini-majuscules ne date pas d'hier.

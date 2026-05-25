@@ -5,6 +5,7 @@ de:
   - "lyon-fr"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "charlemagne-mecanic-lyon"
 ---
 
 Photo prise en juin 2017. Ce n'est pas tous les jours que l'on croise une police qui sent le gasoil.

@@ -5,6 +5,7 @@ de:
   - "londres-gb"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "roskillys-ice-cream-truck-london"
 ---
 
 Photo prise en mai 2011. Même si j'ai perdu l'original et que je n'ai plus que cette copie de mauvaise qualité, elle reste l'une de mes photos favorites.

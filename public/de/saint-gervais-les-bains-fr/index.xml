@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/de/saint-gervais-les-bains-fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Épicerie Boulangerie/Alimentation (Saint-Gervais-les-Bains)</title>
-      <link>http://localhost:1313/%C3%A9picerie-boulangerie/alimentation-saint-gervais-les-bains/</link>
+      <link>http://localhost:1313/epicerie-boulangerie-alimentation-saint-gervais-les-bains/</link>
       <pubDate>Fri, 17 Oct 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/%C3%A9picerie-boulangerie/alimentation-saint-gervais-les-bains/</guid>
+      <guid>http://localhost:1313/epicerie-boulangerie-alimentation-saint-gervais-les-bains/</guid>
       <description>&lt;p&gt;Photo prise en avril 2019. Ce n&amp;rsquo;est pas tous les jours que je croise une devanture doublement abandonnée !&lt;/p&gt;</description>
     </item>
   </channel>

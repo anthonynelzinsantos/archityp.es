@@ -5,6 +5,7 @@ de:
   - "lyon-fr"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "cinema-elysee-lyon"
 ---
 
 Photo prise en janvier 2019. La dernière trace d'un cinéma qui a fermé ses portes... l'année de ma naissance ! C'est aujourd'hui un chouette petit théâtre.

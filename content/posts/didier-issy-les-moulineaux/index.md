@@ -5,6 +5,7 @@ de:
   - "issy-les-moulineaux-fr"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "didier-issy-les-moulineaux"
 ---
 
 Photo prise en février 2020. Droit comme un « i », mais avec un grand sourire.

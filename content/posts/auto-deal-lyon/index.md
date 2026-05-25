@@ -5,6 +5,7 @@ de:
   - "lyon-fr"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "auto-deal-lyon"
 ---
 
 Photo prise en janvier 2020. Quand la police secondaire vole la vedette.

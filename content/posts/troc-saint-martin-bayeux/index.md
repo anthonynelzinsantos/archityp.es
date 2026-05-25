@@ -5,6 +5,7 @@ de:
   - "bayeux-fr"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "troc-saint-martin-bayeux"
 ---
 
 Photo prise en aout 2018. La perfection n'est pas de ce monde, parce qu'elle est de Bayeux.

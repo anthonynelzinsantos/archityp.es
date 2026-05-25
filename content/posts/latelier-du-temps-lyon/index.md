@@ -5,6 +5,7 @@ de:
   - "lyon-fr"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "latelier-du-temps-lyon"
 ---
 
 Photo prise en aout 2021. Avec le temps, va, tout s'en va, y compris cette horlogerie d'art.

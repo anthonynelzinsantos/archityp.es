@@ -5,6 +5,7 @@ de:
   - "bayeux-fr"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "cafe-de-la-place-bayeux"
 ---
 
 Photo prise en aout 2018. Le tout premier *ghost sign* de ma photothèque.

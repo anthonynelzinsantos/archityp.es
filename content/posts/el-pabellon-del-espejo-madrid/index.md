@@ -5,6 +5,7 @@ de:
   - "madrid-es"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "el-pabellon-del-espejo-madrid"
 ---
 
 Photo prise en novembre 2017. Pour y croire, il faut boire, après tout, c'est un bar.

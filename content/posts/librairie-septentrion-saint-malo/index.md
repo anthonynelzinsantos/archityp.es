@@ -5,6 +5,7 @@ de:
   - "saint-malo-fr"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "librairie-septentrion-saint-malo"
 ---
 
 Photo prise en février 2018. Est-ce un « a », ou une pantoufle ?

@@ -5,6 +5,7 @@ de:
   - "bobo-dioulasso-bf"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "konsa-bobo-dioulasso"
 ---
 
 Photo prise en mars 2017. Leur histoire n'est pas moins importante que la nôtre.

@@ -5,6 +5,7 @@ de:
   - "lyon-fr"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "la-pharmacopee-antiquites-lyon"
 ---
 
 Photo prise en mai 2014. Sans mauvais jeu de mots aucun, j'aime beaucoup ce Q.

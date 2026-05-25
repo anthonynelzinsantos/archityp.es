@@ -5,6 +5,7 @@ de:
   - "barcelone-es"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "les-liles-barcelone"
 ---
 
 Photo prise en novembre 2021. C'est du toc, mais puisque le violet est ma couleur favorite...

@@ -5,6 +5,7 @@ de:
   - "lyon-fr"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "papeterie-bossuet-lyon"
 ---
 
 Photo prise en novembre 2019. Je ne me lasserai jamais de ces empilements de devantures, comme des couches sédimentaires qui s'érodent et disparaissent avec le temps.

@@ -5,6 +5,7 @@ de:
   - "barcelone-es"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "farmacia-laboratorio-barcelone"
 ---
 
 Photo prise en novembre 2021. C'est quand même plus classe que nos sempiternelles croix-thermomètres...

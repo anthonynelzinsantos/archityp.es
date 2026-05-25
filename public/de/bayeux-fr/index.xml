@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/de/bayeux-fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Café de la place (Bayeux)</title>
-      <link>http://localhost:1313/caf%C3%A9-de-la-place-bayeux/</link>
+      <link>http://localhost:1313/cafe-de-la-place-bayeux/</link>
       <pubDate>Sun, 24 Aug 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/caf%C3%A9-de-la-place-bayeux/</guid>
+      <guid>http://localhost:1313/cafe-de-la-place-bayeux/</guid>
       <description>&lt;p&gt;Photo prise en aout 2018. Le tout premier &lt;em&gt;ghost sign&lt;/em&gt; de ma photothèque.&lt;/p&gt;</description>
     </item>
     <item>

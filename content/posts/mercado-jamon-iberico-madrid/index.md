@@ -5,6 +5,7 @@ de:
   - "madrid-es"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "mercado-jamon-iberico-madrid"
 ---
 
 Photo prise en novembre 2017. Je mentirais si je disais que j'ai pris cette photo uniquement pour la typographie.

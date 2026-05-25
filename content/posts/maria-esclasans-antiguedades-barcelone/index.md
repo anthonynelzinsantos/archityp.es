@@ -5,6 +5,7 @@ de:
   - "barcelone-es"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "maria-esclasans-antiguedades-barcelone"
 ---
 
 Photo prise en novembre 2021. Si je ne dis pas de bêtises, cette enseigne date de 1917. Autant vous dire que celle qu'elle ne cache plus tout à fait n'est pas de première jeunesse...

@@ -5,6 +5,7 @@ de:
   - "villeurbanne-fr"
 feature_image_alt: ""
 feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+slug: "au-solitaire-villeurbanne"
 ---
 
 Photo prise en septembre 2017. Mais puisqu'on vous dit que les voitures sont bonnes pour le commerce !
