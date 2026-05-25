@@ -1,0 +1,35 @@
+baseURL: "https://archityp.es/"
+languageCode: "fr-FR"
+defaultContentLanguage: "fr"
+title: "Architypes"
+theme: "architypes"
+
+pagination:
+    pagerSize: 24
+
+params:
+    author: "Anthony Nelzin-Santos"
+    contactEmail: "bonjour@archityp.es"
+    description: "Mémoires d’un passé (pas si) lointain"
+    mainSections:
+        - "posts"
+
+markup:
+    markup.goldmark:
+        markup.goldmark.renderer:
+            unsafe: true
+
+taxonomies:
+  de: de
+
+permalinks:
+    page:
+        posts: "/:slug/"
+    section:
+        posts: "/"
+    term:
+        de: "/de/:contentbasename/"
+
+imaging:
+    quality: 90
+    resampleFilter: "Lanczos"

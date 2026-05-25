@@ -1,0 +1,25 @@
+{{ define "main" }}
+<script>
+	window.__openPopover = {
+		url: '{{ .RelPermalink }}'
+	};
+</script>
+<article class="{{ partial "post-class.html" . }}" style="display:none">
+	<header>
+		{{ partial "feature-image.html" . }}
+	</header>
+	<div class="content">
+		<h1>{{ .Title }}</h1>
+		{{ .Content }}
+		<div class="meta">
+			{{ range .Params.de }}
+			{{ $tag := site.GetPage (printf "/de/%s" .) }}
+				{{ if $tag }}
+					<a href="{{ $tag.RelPermalink }}" title="Tous les architypes de {{ $tag.Title }}">{{ $tag.Title }}</a>
+				{{ end }}
+			{{ end }}
+			<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006/01/02" }}</time>
+		</div>
+	</div>
+</article>
+{{ end }}

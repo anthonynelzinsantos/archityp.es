@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Avignon 🇫🇷 on Architypes</title>
+    <link>http://localhost:1313/tag/avignon-fr/</link>
+    <description>Recent content in Avignon 🇫🇷 on Architypes</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Thu, 15 May 2025 15:30:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tag/avignon-fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curious (Avignon)</title>
+      <link>http://localhost:1313/curious-avignon/</link>
+      <pubDate>Thu, 15 May 2025 15:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/curious-avignon/</guid>
+      <description>&lt;p&gt;Photo prise en décembre 2013. Au fond des allées sombres&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,8 @@
+{{- $classes := slice "post" -}}
+{{- range .Params.de -}}
+	{{- $classes = $classes | append (printf "de-%s" (. | anchorize)) -}}
+{{- end -}}
+{{- if not (.Resources.GetMatch "feature.*") -}}
+	{{- $classes = $classes | append "no-image" -}}
+{{- end -}}
+{{- delimit $classes " " -}}

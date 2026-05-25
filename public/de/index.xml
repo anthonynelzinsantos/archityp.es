@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>De on Architypes</title>
+    <link>http://localhost:1313/de/</link>
+    <description>Recent content in De on Architypes</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sun, 24 May 2026 15:00:25 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Barcelone 🇪🇸</title>
+      <link>http://localhost:1313/de/barcelone-es/</link>
+      <pubDate>Sun, 24 May 2026 15:00:25 +0000</pubDate>
+      <guid>http://localhost:1313/de/barcelone-es/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lyon 🇫🇷</title>
+      <link>http://localhost:1313/de/lyon-fr/</link>
+      <pubDate>Tue, 12 May 2026 15:00:24 +0000</pubDate>
+      <guid>http://localhost:1313/de/lyon-fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Le Mans 🇫🇷</title>
+      <link>http://localhost:1313/de/le-mans-fr/</link>
+      <pubDate>Fri, 13 Mar 2026 16:00:34 +0000</pubDate>
+      <guid>http://localhost:1313/de/le-mans-fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paris 🇫🇷</title>
+      <link>http://localhost:1313/de/paris-fr/</link>
+      <pubDate>Tue, 06 Jan 2026 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/paris-fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Issy-les-Moulineaux 🇫🇷</title>
+      <link>http://localhost:1313/de/issy-les-moulineaux-fr/</link>
+      <pubDate>Wed, 31 Dec 2025 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/issy-les-moulineaux-fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rochetaillée-sur-Saône 🇫🇷</title>
+      <link>http://localhost:1313/de/rochetaillee-sur-saone-fr/</link>
+      <pubDate>Fri, 07 Nov 2025 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/rochetaillee-sur-saone-fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Saint-Gervais-les-Bains 🇫🇷</title>
+      <link>http://localhost:1313/de/saint-gervais-les-bains-fr/</link>
+      <pubDate>Fri, 17 Oct 2025 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/saint-gervais-les-bains-fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Toulon 🇫🇷</title>
+      <link>http://localhost:1313/de/toulon-fr/</link>
+      <pubDate>Wed, 15 Oct 2025 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/toulon-fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Courseulles-sur-Mer 🇫🇷</title>
+      <link>http://localhost:1313/de/courseulles-sur-mer-fr/</link>
+      <pubDate>Tue, 26 Aug 2025 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/courseulles-sur-mer-fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bayeux 🇫🇷</title>
+      <link>http://localhost:1313/de/bayeux-fr/</link>
+      <pubDate>Sun, 24 Aug 2025 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/bayeux-fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Saint-Malo 🇫🇷</title>
+      <link>http://localhost:1313/de/saint-malo-fr/</link>
+      <pubDate>Thu, 31 Jul 2025 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/saint-malo-fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pleudihen-sur-Rance 🇫🇷</title>
+      <link>http://localhost:1313/de/pleudihen-sur-rance-fr/</link>
+      <pubDate>Thu, 17 Jul 2025 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/pleudihen-sur-rance-fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Madrid 🇪🇸</title>
+      <link>http://localhost:1313/de/madrid-es/</link>
+      <pubDate>Tue, 15 Jul 2025 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/madrid-es/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Villeurbanne 🇫🇷</title>
+      <link>http://localhost:1313/de/villeurbanne-fr/</link>
+      <pubDate>Tue, 24 Jun 2025 15:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/villeurbanne-fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parsac-Rimondeix 🇫🇷</title>
+      <link>http://localhost:1313/de/parsac-rimondeix-fr/</link>
+      <pubDate>Tue, 17 Jun 2025 15:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/parsac-rimondeix-fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jarnages 🇫🇷</title>
+      <link>http://localhost:1313/de/jarnages-fr/</link>
+      <pubDate>Sat, 14 Jun 2025 15:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/jarnages-fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bobo-Dioulasso 🇧🇫</title>
+      <link>http://localhost:1313/de/bobo-dioulasso-bf/</link>
+      <pubDate>Thu, 05 Jun 2025 15:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/bobo-dioulasso-bf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Londres 🇬🇧</title>
+      <link>http://localhost:1313/de/londres-gb/</link>
+      <pubDate>Sat, 31 May 2025 15:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/londres-gb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Saint-Gaultier 🇫🇷</title>
+      <link>http://localhost:1313/de/saint-gaultier-fr/</link>
+      <pubDate>Sat, 24 May 2025 15:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/saint-gaultier-fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Avignon 🇫🇷</title>
+      <link>http://localhost:1313/de/avignon-fr/</link>
+      <pubDate>Thu, 15 May 2025 15:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/avignon-fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recco 🇮🇹</title>
+      <link>http://localhost:1313/de/recco-it/</link>
+      <pubDate>Tue, 13 May 2025 15:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/recco-it/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

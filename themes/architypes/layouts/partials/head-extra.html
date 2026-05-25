@@ -1,0 +1,7 @@
+{{ if .IsHome }}
+	<meta name="description" content="{{ .Site.Params.Description }}">
+{{ else }}
+{{ with .Description | default .Summary }}
+	<meta name="description" content="{{ . | plainify | truncate 160 }}">
+{{ end }}
+{{ end }}

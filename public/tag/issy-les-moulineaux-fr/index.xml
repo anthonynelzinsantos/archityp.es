@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Issy-les-Moulineaux 🇫🇷 on Architypes</title>
+    <link>http://localhost:1313/tag/issy-les-moulineaux-fr/</link>
+    <description>Recent content in Issy-les-Moulineaux 🇫🇷 on Architypes</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Wed, 31 Dec 2025 15:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tag/issy-les-moulineaux-fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Didier (Issy-les-Moulineaux)</title>
+      <link>http://localhost:1313/didier-issy-les-moulineaux/</link>
+      <pubDate>Wed, 31 Dec 2025 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/didier-issy-les-moulineaux/</guid>
+      <description>&lt;p&gt;Photo prise en février 2020. Droit comme un « i », mais avec un grand sourire.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+---
+title: "Bobo-Dioulasso 🇧🇫"
+---

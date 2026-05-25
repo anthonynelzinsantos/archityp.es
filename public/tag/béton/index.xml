@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Béton on Architypes</title>
+    <link>http://localhost:1313/tag/b%C3%A9ton/</link>
+    <description>Recent content in Béton on Architypes</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Mon, 25 May 2026 10:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tag/b%C3%A9ton/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Un exemple d&#39;architype</title>
+      <link>http://localhost:1313/posts/exemple-architype/</link>
+      <pubDate>Mon, 25 May 2026 10:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/exemple-architype/</guid>
+      <description>&lt;p&gt;Ceci est un article de démonstration en &lt;em&gt;page bundle&lt;/em&gt;. L&amp;rsquo;image &lt;code&gt;feature.jpg&lt;/code&gt;&#xA;posée à côté de ce fichier &lt;code&gt;index.md&lt;/code&gt; est automatiquement détectée par le&#xA;thème et redimensionnée pour la grille (300 / 750 / 1140 / 1920 px) et pour&#xA;la vue popover.&lt;/p&gt;&#xA;&lt;h2 id=&#34;un-sous-titre-pour-tester-la-mise-en-forme&#34;&gt;Un sous-titre pour tester la mise en forme&lt;/h2&gt;&#xA;&lt;p&gt;Du texte courant, &lt;strong&gt;en gras&lt;/strong&gt;, &lt;em&gt;en italique&lt;/em&gt;, avec &lt;a href=&#34;https://archityp.es/&#34;&gt;un lien&lt;/a&gt;,&#xA;pour vérifier que la typographie héritée du thème fonctionne bien.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Une citation pour la bonne mesure. La typo Forma Mono se charge depuis&#xA;&lt;code&gt;/fonts/FormaMono.woff2&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lumière rasante sur la façade</title>
+      <link>http://localhost:1313/posts/lumiere-rasante/</link>
+      <pubDate>Wed, 20 May 2026 18:30:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/lumiere-rasante/</guid>
+      <description>&lt;p&gt;Une étude rapide sur la façon dont la lumière rasante du soir révèle&#xA;le grain et les irrégularités du béton brut.&lt;/p&gt;&#xA;&lt;p&gt;À cette heure-là, ce que la matinée aplatit, le couchant le sculpte :&#xA;chaque banche, chaque coffrage, chaque coup de truelle redevient lisible.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

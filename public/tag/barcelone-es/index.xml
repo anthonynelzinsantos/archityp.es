@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Barcelone 🇪🇸 on Architypes</title>
+    <link>http://localhost:1313/tag/barcelone-es/</link>
+    <description>Recent content in Barcelone 🇪🇸 on Architypes</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sun, 24 May 2026 15:00:25 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tag/barcelone-es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Don Perro (Barcelone)</title>
+      <link>http://localhost:1313/don-perro-barcelone/</link>
+      <pubDate>Sun, 24 May 2026 15:00:25 +0000</pubDate>
+      <guid>http://localhost:1313/don-perro-barcelone/</guid>
+      <description>&lt;p&gt;Photo prise en novembre 2021. Une enseigne qui a du chien (&lt;!-- raw HTML omitted --&gt;bis&lt;!-- raw HTML omitted --&gt;).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bar Gaspart (Barcelone)</title>
+      <link>http://localhost:1313/bar-gaspart-barcelone/</link>
+      <pubDate>Thu, 21 May 2026 15:00:29 +0000</pubDate>
+      <guid>http://localhost:1313/bar-gaspart-barcelone/</guid>
+      <description>&lt;p&gt;Photo prise en novembre 2021. À chacun de mes passages à Barcelone, la devanture historique de l&amp;rsquo;hôtel Oriente avait changé. Elle a d&amp;rsquo;abord perdu sa partie droite, mentionnant l&amp;rsquo;hôtel, grignotée par une suite de minuscules boutiques. Sa partie gauche consacrée au salon de thé subsiste, mais elle a été remodelée avec l&amp;rsquo;ouverture de La Bodega Del Oriente, qui a absorbé le bar Gaspart. Et si cette partie centrale n&amp;rsquo;a pas été affectée par les travaux des vingt dernières années, elle est plus récente que les autres, qui ont récemment fêté leur centenaire. Quand je vous dis que je fais de l&amp;rsquo;archéotypographie !&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Farmacia Laboratorio (Barcelone)</title>
+      <link>http://localhost:1313/farmacia-laboratorio-barcelone/</link>
+      <pubDate>Mon, 18 May 2026 15:00:22 +0000</pubDate>
+      <guid>http://localhost:1313/farmacia-laboratorio-barcelone/</guid>
+      <description>&lt;p&gt;Photo prise en novembre 2021. C&amp;rsquo;est quand même plus classe que nos sempiternelles croix-thermomètres&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bar Restaurant Guitó (Barcelone)</title>
+      <link>http://localhost:1313/bar-restaurant-guit%C3%B3-barcelone/</link>
+      <pubDate>Fri, 15 May 2026 15:00:05 +0000</pubDate>
+      <guid>http://localhost:1313/bar-restaurant-guit%C3%B3-barcelone/</guid>
+      <description>&lt;p&gt;Photo prise en novembre 2021. Comme un air de &lt;em&gt;diner&lt;/em&gt; à l&amp;rsquo;heure du diner.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>El Mercadillo (Barcelone)</title>
+      <link>http://localhost:1313/el-mercadillo-barcelone/</link>
+      <pubDate>Thu, 08 May 2025 15:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/el-mercadillo-barcelone/</guid>
+      <description>&lt;p&gt;Photo prise en février 2013. À l&amp;rsquo;arrière de la boutique, un discret escalier mène vers un chouette petit bar niché entre les immeubles environnants.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

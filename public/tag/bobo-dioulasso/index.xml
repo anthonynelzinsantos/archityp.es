@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bobo-Dioulasso 🇧🇫 on Architypes</title>
+    <link>http://localhost:1313/tag/bobo-dioulasso/</link>
+    <description>Recent content in Bobo-Dioulasso 🇧🇫 on Architypes</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Thu, 05 Jun 2025 15:30:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tag/bobo-dioulasso/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Konsa (Bobo-Dioulasso)</title>
+      <link>http://localhost:1313/posts/konsa-bobo-dioulasso/</link>
+      <pubDate>Thu, 05 Jun 2025 15:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/konsa-bobo-dioulasso/</guid>
+      <description>&lt;p&gt;Photo prise en mars 2017. Leur histoire n&amp;rsquo;est pas moins importante que la nôtre.&lt;/p&gt;&#xA;&lt;!-- ghost-feature: /content/images/2025/05/konsa-bobo-dioulasso-scaled.jpg --&gt;&#xA;&lt;!-- expected local filename: feature.jpg --&gt;</description>
+    </item>
+  </channel>
+</rss>

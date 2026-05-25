@@ -1,0 +1,10 @@
+---
+title: "L’atelier du temps (Lyon)"
+date: 2026-05-06T15:00:41Z
+de:
+  - "lyon-fr"
+feature_image_alt: ""
+feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+---
+
+Photo prise en aout 2021. Avec le temps, va, tout s'en va, y compris cette horlogerie d'art.

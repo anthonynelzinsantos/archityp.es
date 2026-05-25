@@ -1,0 +1,11 @@
+{{ define "main" }}
+	{{ $posts := where site.RegularPages "Section" "posts" }}
+	{{ $paginator := .Paginate $posts }}
+	<div class="grid">
+		{{ range $paginator.Pages }}
+			{{ partial "loop.html" . }}
+		{{ end }}
+	</div>
+{{ end }}
+
+{{ define "max_pages" }}{{ (.Paginate (where site.RegularPages "Section" "posts")).TotalPages }}{{ end }}

@@ -1,0 +1,10 @@
+{{ define "main" }}
+	{{ $paginator := .Paginate .Pages }}
+	<div class="grid">
+		{{ range $paginator.Pages }}
+			{{ partial "loop.html" . }}
+		{{ end }}
+	</div>
+{{ end }}
+
+{{ define "max_pages" }}{{ (.Paginate .Pages).TotalPages }}{{ end }}

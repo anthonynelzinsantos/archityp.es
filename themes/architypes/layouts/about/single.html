@@ -1,0 +1,16 @@
+{{ define "main" }}
+<script>
+	window.__openAbout = {
+		url: '{{ .RelPermalink }}',
+	};
+</script>
+<article class="{{ partial "post-class.html" . }}">
+	<header>
+		{{ partial "feature-image.html" . }}
+	</header>
+	<div class="content">
+		<h1>{{ .Title }}</h1>
+		{{ .Content }}
+	</div>
+</article>
+{{ end }}

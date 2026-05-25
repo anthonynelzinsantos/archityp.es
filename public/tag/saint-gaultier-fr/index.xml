@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saint-Gaultier 🇫🇷 on Architypes</title>
+    <link>http://localhost:1313/tag/saint-gaultier-fr/</link>
+    <description>Recent content in Saint-Gaultier 🇫🇷 on Architypes</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sat, 24 May 2025 15:30:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tag/saint-gaultier-fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Studio photo (Saint-Gaultier)</title>
+      <link>http://localhost:1313/studio-photo-saint-gaultier/</link>
+      <pubDate>Sat, 24 May 2025 15:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/studio-photo-saint-gaultier/</guid>
+      <description>&lt;p&gt;Photo prise en juillet 2015. Ce studio n&amp;rsquo;existe plus qu&amp;rsquo;en photo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

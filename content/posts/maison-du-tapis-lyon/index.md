@@ -1,0 +1,10 @@
+---
+title: "Maison du tapis (Lyon)"
+date: 2025-11-04T15:00:00Z
+de:
+  - "lyon-fr"
+feature_image_alt: ""
+feature_image_caption: "Image Anthony Nelzin-Santos (CC BY-NC-SA 4.0)"
+---
+
+Photo prise en juillet 2019. Quand le vent vient de l'est / le soleil est à l'ouest / et s'endort / dans les sables d'or / c'est l'instant envoûtant / vole en tapis volant / vers la magie / des nuits d'Orient ?

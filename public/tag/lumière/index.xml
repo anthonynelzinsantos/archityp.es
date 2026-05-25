@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lumière on Architypes</title>
+    <link>http://localhost:1313/tag/lumi%C3%A8re/</link>
+    <description>Recent content in Lumière on Architypes</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Wed, 20 May 2026 18:30:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tag/lumi%C3%A8re/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lumière rasante sur la façade</title>
+      <link>http://localhost:1313/posts/lumiere-rasante/</link>
+      <pubDate>Wed, 20 May 2026 18:30:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/lumiere-rasante/</guid>
+      <description>&lt;p&gt;Une étude rapide sur la façon dont la lumière rasante du soir révèle&#xA;le grain et les irrégularités du béton brut.&lt;/p&gt;&#xA;&lt;p&gt;À cette heure-là, ce que la matinée aplatit, le couchant le sculpte :&#xA;chaque banche, chaque coffrage, chaque coup de truelle redevient lisible.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

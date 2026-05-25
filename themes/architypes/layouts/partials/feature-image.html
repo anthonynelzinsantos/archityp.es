@@ -1,0 +1,21 @@
+{{ $feature := .Resources.GetMatch "feature.*" }}
+{{ if $feature }}
+	{{ $s  := $feature.Resize  "300x" }}
+	{{ $m  := $feature.Resize  "750x" }}
+	{{ $l  := $feature.Resize "1140x" }}
+	{{ $xl := $feature.Resize "1920x" }}
+	<figure>
+		<img
+			srcset="{{ $s.RelPermalink }} 300w,
+					{{ $m.RelPermalink }} 750w,
+					{{ $l.RelPermalink }} 1140w,
+					{{ $xl.RelPermalink }} 1920w"
+			sizes="(min-width: 1170px) 1140px, calc(100vw - 30px)"
+			src="{{ $l.RelPermalink }}"
+			alt="{{ with .Params.feature_image_alt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}">
+
+		{{ with .Params.feature_image_caption }}
+			<figcaption>{{ . | safeHTML }}</figcaption>
+		{{ end }}
+	</figure>
+{{ end }}

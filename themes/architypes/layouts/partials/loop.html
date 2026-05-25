@@ -1,0 +1,22 @@
+{{ $feature := .Resources.GetMatch "feature.*" }}
+{{ if $feature }}
+	{{ $s  := $feature.Resize  "300x" }}
+	{{ $m  := $feature.Resize  "750x" }}
+	{{ $l  := $feature.Resize "1140x" }}
+	{{ $xl := $feature.Resize "1920x" }}
+	<figure class="{{ partial "post-class.html" . }}">
+		<a class="post-link" aria-label="Navigate to {{ .Title }} page" href="{{ .RelPermalink }}">
+			<img
+				class="post-image"
+				loading="lazy"
+				srcset="{{ $s.RelPermalink }} 300w,
+						{{ $m.RelPermalink }} 750w,
+						{{ $l.RelPermalink }} 1140w,
+						{{ $xl.RelPermalink }} 1920w"
+				sizes="(min-width: 1020px) 300px, (min-width: 641px) calc((100vw - 50px) / 3), calc((100vw - 40px) / 2)"
+				src="{{ $s.RelPermalink }}"
+				alt="{{ .Title }}"
+			>
+		</a>
+	</figure>
+{{ end }}

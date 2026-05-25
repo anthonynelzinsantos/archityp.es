@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courseulles-sur-Mer 🇫🇷 on Architypes</title>
+    <link>http://localhost:1313/tag/courseulles-sur-mer-fr/</link>
+    <description>Recent content in Courseulles-sur-Mer 🇫🇷 on Architypes</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 26 Aug 2025 15:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tag/courseulles-sur-mer-fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chippie Plage (Courseulles-sur-Mer)</title>
+      <link>http://localhost:1313/chippie-plage-courseulles-sur-mer/</link>
+      <pubDate>Tue, 26 Aug 2025 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chippie-plage-courseulles-sur-mer/</guid>
+      <description>&lt;p&gt;Photo prise en aout 2018. Disons que c&amp;rsquo;est &lt;em&gt;chipper&lt;/em&gt; que chipie.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
