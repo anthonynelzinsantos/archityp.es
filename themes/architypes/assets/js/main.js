@@ -1,70 +1,86 @@
 document.addEventListener('DOMContentLoaded', function () {
-    // Défilement infini
+    // Défilement infini inversé (façon Photos : le plus récent en bas, on remonte pour les anciens)
+    if ('scrollRestoration' in history) {
+        history.scrollRestoration = 'manual';
+    }
+
     var url = window.location.href;
     var timer = null;
 
-    const storageKey = 'infiniteScroll_' + url;
-    const saved = JSON.parse(sessionStorage.getItem(storageKey));
-    var page = saved ? saved.page : 2;
+    var page = 2;
     const homeTitle = document.title;
+    const siteMain = document.querySelector('.site-main');
 
-    function scrollToPosition(target, duration = 300) {
-        const start = window.scrollY;
-        const distance = target - start;
-        const startTime = performance.now();
-
-        function easeOutExpo(t) {
-            return t === 1 ? 1 : 1 - Math.pow(2, -10 * t);
+    // Quand le nombre de vignettes d'une grille ne remplit pas un nombre entier
+    // de rangées, on place la rangée incomplète EN HAUT de la grille plutôt qu'en
+    // bas : la dernière rangée reste pleine (jonction nette avec la grille
+    // suivante) et le « blanc » se retrouve tout en haut.
+    function fixIncompleteRow(grid) {
+        const children = grid.children;
+        const first = grid.firstElementChild;
+        if (!first) return;
+        // On repart d'une grille « normale » pour mesurer le nombre de colonnes
+        // d'après la géométrie réelle (fiable sur tous les navigateurs, contrairement
+        // à l'analyse de grid-template-columns qui diffère sous Safari).
+        first.style.gridColumnStart = '';
+        const topY = first.getBoundingClientRect().top;
+        let cols = 0;
+        for (let i = 0; i < children.length; i++) {
+            if (Math.abs(children[i].getBoundingClientRect().top - topY) < 1) cols++;
+            else break;
         }
-
-        function step(currentTime) {
-            const elapsed = currentTime - startTime;
-            const progress = Math.min(elapsed / duration, 1);
-            window.scrollTo(0, start + distance * easeOutExpo(progress));
-            if (progress < 1) requestAnimationFrame(step);
+        const remainder = cols > 0 ? children.length % cols : 0;
+        if (remainder !== 0) {
+            first.style.gridColumnStart = String(cols - remainder + 1);
         }
-
-        requestAnimationFrame(step);
     }
 
+    // Insère une page d'archives plus anciennes EN HAUT, en gardant la position visuelle stable
     async function loadPage(pageNum) {
-        const nextPage = url + 'page/' + pageNum;
+        const nextPage = url + 'page/' + pageNum + '/';
         const response = await fetch(nextPage);
         const content = await response.text();
         const parser = new DOMParser();
         const doc = parser.parseFromString(content, 'text/html');
         const grid = doc.querySelector('.grid');
-        if (grid) {
-            document.querySelector('.site-main').appendChild(grid);
-            requestAnimationFrame(() => {
-                grid.classList.add('fade-in');
-            });
-        }
+        if (!grid) return;
+
+        const previousHeight = document.documentElement.scrollHeight;
+        const previousScroll = window.scrollY;
+        siteMain.insertBefore(grid, siteMain.firstElementChild);
+        fixIncompleteRow(grid);
+        // On rétablit la position : le contenu ajouté au-dessus ne doit pas
+        // déplacer ce que l'on regarde. Cela repousse aussi le défilement loin du
+        // sommet, ce qui garantit qu'on ne charge qu'une seule page à la fois.
+        const added = document.documentElement.scrollHeight - previousHeight;
+        window.scrollTo(0, previousScroll + added);
+        requestAnimationFrame(() => grid.classList.add('fade-in'));
     }
 
-    async function restorePages() {
-        for (let p = 2; p < page; p++) {
-            await loadPage(p);
-        }
-        if (saved && saved.scrollY) {
-            scrollToPosition(saved.scrollY);
-        }
-    }
+    // Grille(s) déjà présentes au chargement (la plus récente)
+    siteMain.querySelectorAll('.grid').forEach(fixIncompleteRow);
 
-    if (saved && saved.page > 2) {
-        restorePages();
-    }
+    // À chaque chargement, on démarre tout en bas, sur les photos les plus récentes.
+    requestAnimationFrame(function () {
+        window.scrollTo(0, document.documentElement.scrollHeight);
+    });
+
+    // Le nombre de colonnes change avec la largeur : on recalcule les rangées
+    // incomplètes après un redimensionnement.
+    var resizeTimer = null;
+    window.addEventListener('resize', function () {
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(function () {
+            siteMain.querySelectorAll('.grid').forEach(fixIncompleteRow);
+        }, 150);
+    });
 
     window.addEventListener('scroll', function () {
-        sessionStorage.setItem(storageKey, JSON.stringify({
-            page: page,
-            scrollY: window.scrollY
-        }));
+        // On précharge les plus anciennes AVANT d'atteindre le sommet (1,5 écran
+        // de marge) pour qu'elles soient déjà en place et éviter un à-coup.
+        const nearTop = window.scrollY <= window.innerHeight * 1.5;
 
-        const scrolledTo90 =
-            window.scrollY + window.innerHeight >= document.documentElement.scrollHeight * 0.9;
-
-        if (scrolledTo90) {
+        if (nearTop) {
             if (timer) return;
             timer = setTimeout(async function () {
                 if (page <= max_pages) {
@@ -75,7 +91,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     page = page + 1;
                 }
                 timer = null;
-            }, 250);
+            }, 120);
         } else {
             clearTimeout(timer);
             timer = null;

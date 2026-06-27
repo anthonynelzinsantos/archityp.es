@@ -8,7 +8,8 @@
 
 :root {
 	--background-backdrop: hsl(275 15% 15% / 75%);
-	--background-body: hsl(0 0% 75%);
+	--background-body: hsl(0 0% 93%);
+	--background-site: hsl(0 0% 93%);
 	--background-glass: hsl(275 10% 90% / 50%);
 	--background-tag: hsl(275 5% 95% / 50%);
 	--border-article: hsl(275 15% 70% / 50%);
@@ -34,7 +35,8 @@
 @media (prefers-color-scheme: dark) {
 	:root {
 		--background-backdrop: hsl(275 25% 5% / 75%);
-		--background-body: hsl(0 0% 25%);
+		--background-body: hsl(275 8% 12%);
+		--background-site: hsl(275 8% 12%);
 		--background-glass: hsl(275 5% 15% / 50%);
 		--background-tag: hsl(275 5% 10% / 50%);
 		--border-article: hsl(275 15% 70% / 50%);
@@ -85,7 +87,7 @@ em strong, em b, i strong, i b {
 }
 
 body {
-    background: var(--background-body);
+    background: var(--background-site);
     color: var(--colour-body);
     font-family: var(--font);
     font-size: var(--size);
@@ -93,8 +95,14 @@ body {
     hyphens: auto;
     	hyphenate-limit-chars: 7 3 4;
     line-height: 1.45;
+    margin: 0;
     padding: var(--space-s);
     text-align: justify;
+}
+
+body.home-template,
+body.tag-template {
+    padding: 0;
 }
 
 .site-header {
@@ -107,7 +115,7 @@ body {
 		height: 48px;
 		line-height: 0;
 		position: fixed;
-			bottom: var(--space-l);
+			top: var(--space-l);
 			left: var(--space-m);
 		width: 48px;
 		z-index: 2;
@@ -126,7 +134,7 @@ body {
 		line-height: 1;
 		padding: 0 var(--space-xs) 0 calc(var(--space-xs) + 48px);
 		position: fixed;
-			bottom: var(--space-l);
+			top: var(--space-l);
 			left: var(--space-m);
 		z-index: 1;
 		
@@ -140,7 +148,7 @@ body {
 			align-items: center;
 		overflow: hidden;
 		position: fixed;
-			bottom: var(--space-l);
+			top: var(--space-l);
 			right: var(--space-m);
 		z-index: 2;
 	
@@ -168,34 +176,36 @@ body {
 	.grid {
 		display: grid;
 			grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-			gap: calc(var(--space-s) / 1.6) var(--space-s);
-			
+			gap: 1px;
+
 		+ .grid {
-			margin: calc(var(--space-s) / 1.6) 0 0 0;
+			margin: 1px 0 0 0;
 		}
 			
 		.post {
 			margin: 0;
 			padding: 0;
 			
+			.post-link {
+				display: block;
+				overflow: hidden;
+			}
+
 			.post-image {
-				border: 1px solid var(--background-border);
-				border-radius: var(--space-s);
-				transition: scale 250ms ease-out;
+				aspect-ratio: 1 / 1;
+				border: none;
+				display: block;
+				object-fit: cover;
+				scale: 1.08;
+				transition: opacity 250ms ease-out, filter 250ms ease-out, scale 250ms ease-out;
 				width: 100%;
-				
+
 				&:focus, &:hover {
-					scale: 1.025;
+					filter: brightness(0.95);
+					opacity: 0.95;
+					scale: 1;
 				}
 			}
-		}
-	}
-}
-
-@supports (display: grid-lanes) {
-	.site-main {
-		.grid {
-			display: grid-lanes;
 		}
 	}
 }
@@ -206,7 +216,6 @@ body {
 		padding: 0;
 	
 		img {
-			border-radius: var(--space-s) var(--space-s) 0 0;
 			width: 100%;
 			margin: -48px 0 0 0;
 		}
@@ -290,7 +299,6 @@ body {
         --x: 0px;
         background: var(--background-body);
         border: 1px solid var(--border-article);
-        border-radius: var(--space-s);
         box-shadow: 0 0 var(--space-3xl) var(--shadow-article);
         height: auto;
         left: 50%;

@@ -2,7 +2,7 @@
 	{{ $posts := where site.RegularPages "Section" "posts" }}
 	{{ $paginator := .Paginate $posts }}
 	<div class="grid">
-		{{ range $paginator.Pages }}
+		{{ range $paginator.Pages.Reverse }}
 			{{ partial "loop.html" . }}
 		{{ end }}
 	</div>
