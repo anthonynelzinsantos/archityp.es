@@ -146,11 +146,18 @@ body.tag-template {
 	.menu {
 		display: flex;
 			align-items: center;
-		overflow: hidden;
+			justify-content: center;
+		height: 48px;
+		line-height: 0;
 		position: fixed;
 			top: var(--space-l);
 			right: var(--space-m);
+		width: 48px;
 		z-index: 2;
+
+		&:focus-within, &:hover {
+			scale: 1.2;
+		}
 	
 		.item {
 			display: flex;
@@ -158,16 +165,7 @@ body.tag-template {
 				justify-content: center;
 			height: 48px;
 			line-height: 0;
-			padding: 0 var(--space-3xs) 0 var(--space-3xs);
-			transition:
-				background 250ms ease,
-				scale 250ms ease-out;
 			width: 48px;
-	
-			&:focus, &:hover {
-				background: var(--background-tag);
-				scale: 1.1;
-			}
 		}
 	}
 }
