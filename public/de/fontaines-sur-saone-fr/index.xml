@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fontaines-sur-Saône 🇫🇷 on Architypes</title>
+    <link>http://localhost:1313/de/fontaines-sur-saone-fr/</link>
+    <description>Recent content in Fontaines-sur-Saône 🇫🇷 on Architypes</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Wed, 09 Sep 2026 15:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/de/fontaines-sur-saone-fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L. Bourduge artisan paysagiste (Fontaines-sur-Saône)</title>
+      <link>http://localhost:1313/l-bourduge-artisan-paysagiste-fontaines-sur-saone/</link>
+      <pubDate>Wed, 09 Sep 2026 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/l-bourduge-artisan-paysagiste-fontaines-sur-saone/</guid>
+      <description>&lt;p&gt;Photo prise en mai 2022. Artisan paysagiste jusqu’au bout de l’esperluète.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

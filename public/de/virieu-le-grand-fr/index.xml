@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virieu-le-Grand 🇫🇷 on Architypes</title>
+    <link>http://localhost:1313/de/virieu-le-grand-fr/</link>
+    <description>Recent content in Virieu-le-Grand 🇫🇷 on Architypes</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sun, 16 Aug 2026 15:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/de/virieu-le-grand-fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Usine Landont (Virieu-le-Grand)</title>
+      <link>http://localhost:1313/usine-landont-virieu-le-grand/</link>
+      <pubDate>Sun, 16 Aug 2026 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/usine-landont-virieu-le-grand/</guid>
+      <description>&lt;p&gt;Photo prise en mars 2022. Une devanture que j’ai raté lors de mes précédents passages par la gare de Virieu-le-Grand, mais cette fois, j’avais préparé mon appareil à l’avance.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

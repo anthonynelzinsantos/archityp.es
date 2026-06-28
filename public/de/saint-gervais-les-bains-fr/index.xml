@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saint-Gervais-les-Bains 🇫🇷 on Architypes</title>
-    <link>https://archityp.es/de/saint-gervais-les-bains-fr/</link>
+    <link>http://localhost:1313/de/saint-gervais-les-bains-fr/</link>
     <description>Recent content in Saint-Gervais-les-Bains 🇫🇷 on Architypes</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
     <lastBuildDate>Fri, 17 Oct 2025 15:00:00 +0000</lastBuildDate>
-    <atom:link href="https://archityp.es/de/saint-gervais-les-bains-fr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/de/saint-gervais-les-bains-fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Épicerie Boulangerie/Alimentation (Saint-Gervais-les-Bains)</title>
-      <link>https://archityp.es/epicerie-boulangerie-alimentation-saint-gervais-les-bains/</link>
+      <link>http://localhost:1313/epicerie-boulangerie-alimentation-saint-gervais-les-bains/</link>
       <pubDate>Fri, 17 Oct 2025 15:00:00 +0000</pubDate>
-      <guid>https://archityp.es/epicerie-boulangerie-alimentation-saint-gervais-les-bains/</guid>
+      <guid>http://localhost:1313/epicerie-boulangerie-alimentation-saint-gervais-les-bains/</guid>
       <description>&lt;p&gt;Photo prise en avril 2019. Ce n&amp;rsquo;est pas tous les jours que je croise une devanture doublement abandonnée !&lt;/p&gt;</description>
     </item>
   </channel>

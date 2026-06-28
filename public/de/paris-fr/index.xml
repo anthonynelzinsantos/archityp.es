@@ -2,164 +2,213 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paris 🇫🇷 on Architypes</title>
-    <link>https://archityp.es/de/paris-fr/</link>
+    <link>http://localhost:1313/de/paris-fr/</link>
     <description>Recent content in Paris 🇫🇷 on Architypes</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 26 Jun 2026 15:00:00 +0000</lastBuildDate>
-    <atom:link href="https://archityp.es/de/paris-fr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Sep 2026 15:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/de/paris-fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Imprimerie (Paris)</title>
+      <link>http://localhost:1313/imprimerie-paris/</link>
+      <pubDate>Wed, 30 Sep 2026 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/imprimerie-paris/</guid>
+      <description>&lt;p&gt;Photo prise en juin 2022. Le « R » qui est un « P », le « M » maju-minuscule, qu’il est dommage que cette enseigne se délite !&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cat’Laine (Paris)</title>
+      <link>http://localhost:1313/catlaine-paris/</link>
+      <pubDate>Sun, 27 Sep 2026 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/catlaine-paris/</guid>
+      <description>&lt;p&gt;Photo prise en juin 2022. C’est du velours.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Feydeau Bourse Numismatique (Paris)</title>
+      <link>http://localhost:1313/feydeau-bourse-numismatique-paris/</link>
+      <pubDate>Thu, 24 Sep 2026 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/feydeau-bourse-numismatique-paris/</guid>
+      <description>&lt;p&gt;Photo prise en juin 2022. Or, numismatique… et contrefaçons de devantures anciennes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tétrel (Paris)</title>
+      <link>http://localhost:1313/tetrel-paris/</link>
+      <pubDate>Mon, 21 Sep 2026 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tetrel-paris/</guid>
+      <description>&lt;p&gt;Photo prise en juin 2022. Des pleins très pleins et des déliés très déliés.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Serrurrerie Silvera (Paris)</title>
+      <link>http://localhost:1313/serrurrerie-silvera-paris/</link>
+      <pubDate>Fri, 18 Sep 2026 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/serrurrerie-silvera-paris/</guid>
+      <description>&lt;p&gt;Photo prise en juin 2022. Deux devantures, deux ambiances.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Antiquaire J. L. Brunel</title>
+      <link>http://localhost:1313/antiquaire-j-l-brunel/</link>
+      <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/antiquaire-j-l-brunel/</guid>
+      <description>&lt;p&gt;Photo prise en décembre 2021. Un antiquaire devrait-il utiliser une elzévir plutôt qu’une égyptienne ? Vous avez deux heures.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Union des sociétés d’éducation physique et de préparation au service militaire (Paris)</title>
+      <link>http://localhost:1313/union-des-societes-deducation-physique-et-de-preparation-au-service-militaire-paris/</link>
+      <pubDate>Mon, 29 Jun 2026 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/union-des-societes-deducation-physique-et-de-preparation-au-service-militaire-paris/</guid>
+      <description>&lt;p&gt;Photo prise en décembre 2021. Les temps ont (heureusement) changé…&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Société de secours mutuels et de retraite des cuisiniers de Paris (Paris)</title>
-      <link>https://archityp.es/societe-de-secours-mutuels-paris/</link>
+      <link>http://localhost:1313/societe-de-secours-mutuels-paris/</link>
       <pubDate>Fri, 26 Jun 2026 15:00:00 +0000</pubDate>
-      <guid>https://archityp.es/societe-de-secours-mutuels-paris/</guid>
+      <guid>http://localhost:1313/societe-de-secours-mutuels-paris/</guid>
       <description>&lt;p&gt;Photo prise en décembre 2021. Je vous mets au défi de trouver une enseigne plus longue.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CGT FSM (Paris)</title>
-      <link>https://archityp.es/cgt-fsm-paris/</link>
+      <link>http://localhost:1313/cgt-fsm-paris/</link>
       <pubDate>Tue, 06 Jan 2026 15:00:00 +0000</pubDate>
-      <guid>https://archityp.es/cgt-fsm-paris/</guid>
+      <guid>http://localhost:1313/cgt-fsm-paris/</guid>
       <description>&lt;p&gt;Photo prise en février 2020. Typographes de tous pays, unissez-vous !&lt;/p&gt;</description>
     </item>
     <item>
       <title>Au pont Louis-Philippe (Paris)</title>
-      <link>https://archityp.es/au-pont-louis-philippe-paris/</link>
+      <link>http://localhost:1313/au-pont-louis-philippe-paris/</link>
       <pubDate>Sat, 03 Jan 2026 15:00:00 +0000</pubDate>
-      <guid>https://archityp.es/au-pont-louis-philippe-paris/</guid>
+      <guid>http://localhost:1313/au-pont-louis-philippe-paris/</guid>
       <description>&lt;p&gt;Photo prise en février 2020. Avec une façade de l&amp;rsquo;époque ?&lt;/p&gt;</description>
     </item>
     <item>
       <title>L’Angelus (Paris)</title>
-      <link>https://archityp.es/langelus-paris/</link>
+      <link>http://localhost:1313/langelus-paris/</link>
       <pubDate>Sun, 28 Dec 2025 15:00:00 +0000</pubDate>
-      <guid>https://archityp.es/langelus-paris/</guid>
+      <guid>http://localhost:1313/langelus-paris/</guid>
       <description>&lt;p&gt;Photo prise en février 2020. Un antiquaire situé rue de l&amp;rsquo;Ave Maria, cela ne s&amp;rsquo;invente pas, qui a malheureusement fait disparaitre sa devanture sous une couche de &lt;em&gt;that blue&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bistro Ernest (Paris)</title>
-      <link>https://archityp.es/bistro-ernest-paris/</link>
+      <link>http://localhost:1313/bistro-ernest-paris/</link>
       <pubDate>Fri, 19 Sep 2025 15:00:00 +0000</pubDate>
-      <guid>https://archityp.es/bistro-ernest-paris/</guid>
+      <guid>http://localhost:1313/bistro-ernest-paris/</guid>
       <description>&lt;p&gt;Photo prise en novembre 2018. Une Austin Mini Special, un Petit Porteur OG négligemment « garé », une galerie d&amp;rsquo;art&amp;hellip; Pas de doute, nous sommes bien dans le 6e.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Frédéric Marchand (Paris)</title>
-      <link>https://archityp.es/frederic-marchand-paris/</link>
+      <link>http://localhost:1313/frederic-marchand-paris/</link>
       <pubDate>Wed, 17 Sep 2025 15:00:00 +0000</pubDate>
-      <guid>https://archityp.es/frederic-marchand-paris/</guid>
+      <guid>http://localhost:1313/frederic-marchand-paris/</guid>
       <description>&lt;p&gt;Photo prise en novembre 2018. Au coin de la rue, le marché Saint-Germain s&amp;rsquo;est refait une santé en accueillant une somptueuse boutique d&amp;rsquo;un certain fabricant de joujoux technologiques. Cette petite boutique de joujoux anciens, tenue par un Parisien fort en gouaille, vaut le détour.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Optique (Paris)</title>
-      <link>https://archityp.es/optique-paris/</link>
+      <link>http://localhost:1313/optique-paris/</link>
       <pubDate>Mon, 15 Sep 2025 15:00:00 +0000</pubDate>
-      <guid>https://archityp.es/optique-paris/</guid>
+      <guid>http://localhost:1313/optique-paris/</guid>
       <description>&lt;p&gt;Photo prise en novembre 2018. Un test de vue dans la rue.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Librairie Jean-Claude Vrain (Paris)</title>
-      <link>https://archityp.es/librairie-jean-claude-vrain-paris/</link>
+      <link>http://localhost:1313/librairie-jean-claude-vrain-paris/</link>
       <pubDate>Sat, 13 Sep 2025 15:00:00 +0000</pubDate>
-      <guid>https://archityp.es/librairie-jean-claude-vrain-paris/</guid>
+      <guid>http://localhost:1313/librairie-jean-claude-vrain-paris/</guid>
       <description>&lt;p&gt;Photo prise en novembre 2018. L&amp;rsquo;une des plus belles librairies de livres anciens de Paris, qui se distingue par sa collection époustouflante de photographies historiques et la personnalité &lt;a href=&#34;https://www.liberation.fr/societe/police-justice/escroquerie-en-bande-organisee-jean-claude-vrain-le-libraire-des-people-et-des-puissants-devant-la-justice-20250907_RBKATYKJKJEBLBI6KK6X27LLPA/&#34;&gt;controversée&lt;/a&gt; de son propriétaire.&lt;/p&gt;</description>
     </item>
     <item>
       <title>À la belle fermière (Paris)</title>
-      <link>https://archityp.es/a-la-belle-fermiere-paris/</link>
+      <link>http://localhost:1313/a-la-belle-fermiere-paris/</link>
       <pubDate>Thu, 11 Sep 2025 15:00:00 +0000</pubDate>
-      <guid>https://archityp.es/a-la-belle-fermiere-paris/</guid>
+      <guid>http://localhost:1313/a-la-belle-fermiere-paris/</guid>
       <description>&lt;p&gt;Photo prise en novembre 2018. J&amp;rsquo;ai dû voir cette devanture des centaines de fois… en sortant du restaurant japonais d&amp;rsquo;en face.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stylo City (Paris)</title>
-      <link>https://archityp.es/stylo-city-paris/</link>
+      <link>http://localhost:1313/stylo-city-paris/</link>
       <pubDate>Tue, 09 Sep 2025 15:00:00 +0000</pubDate>
-      <guid>https://archityp.es/stylo-city-paris/</guid>
+      <guid>http://localhost:1313/stylo-city-paris/</guid>
       <description>&lt;p&gt;Photo prise en novembre 2018. La boutique qui a forgé ma passion pour les stylo-plumes, les carnets en cuir et les couteaux suisses. Monsieur Alain a pris sa retraite (fort méritée) en 2021, avant de fêter le centenaire de son enseigne, et un petit restaurant népalais a pris sa suite.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Simon (Paris)</title>
-      <link>https://archityp.es/simon-paris/</link>
+      <link>http://localhost:1313/simon-paris/</link>
       <pubDate>Sun, 07 Sep 2025 15:00:00 +0000</pubDate>
-      <guid>https://archityp.es/simon-paris/</guid>
+      <guid>http://localhost:1313/simon-paris/</guid>
       <description>&lt;p&gt;Photo prise en novembre 2018. Combien reste-t-il de magasins de parapluies, cannes et ombrelles en France ?&lt;/p&gt;</description>
     </item>
     <item>
       <title>La maison de poupée (Paris)</title>
-      <link>https://archityp.es/la-maison-de-poupee-paris/</link>
+      <link>http://localhost:1313/la-maison-de-poupee-paris/</link>
       <pubDate>Fri, 05 Sep 2025 15:00:00 +0000</pubDate>
-      <guid>https://archityp.es/la-maison-de-poupee-paris/</guid>
+      <guid>http://localhost:1313/la-maison-de-poupee-paris/</guid>
       <description>&lt;p&gt;Photo prise en novembre 2018. Ce que vous voyez : une jolie petite boutique éclairée par le soleil hivernal. Ce que ne vous voyez pas : le trottoir éventré d&amp;rsquo;un côté et l&amp;rsquo;automobiliste garé comme une merde de l&amp;rsquo;autre. L&amp;rsquo;image de Paris ne tient qu&amp;rsquo;à un recadrage.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Restaurant (Paris)</title>
-      <link>https://archityp.es/restaurant-paris/</link>
+      <link>http://localhost:1313/restaurant-paris/</link>
       <pubDate>Wed, 03 Sep 2025 15:00:00 +0000</pubDate>
-      <guid>https://archityp.es/restaurant-paris/</guid>
+      <guid>http://localhost:1313/restaurant-paris/</guid>
       <description>&lt;p&gt;Photo prise en novembre 2018. Je ne suis pas sûr que j&amp;rsquo;aurais photographié cette devanture sans la peinture parfaitement écaillée et le collage délicieusement déchiré.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Uni Tours (Paris)</title>
-      <link>https://archityp.es/uni-tours-paris/</link>
+      <link>http://localhost:1313/uni-tours-paris/</link>
       <pubDate>Mon, 01 Sep 2025 15:00:00 +0000</pubDate>
-      <guid>https://archityp.es/uni-tours-paris/</guid>
+      <guid>http://localhost:1313/uni-tours-paris/</guid>
       <description>&lt;p&gt;Photo prise en novembre 2018. Voilà des ligatures qui donnent envie de bouger.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Le colimaçon (Paris)</title>
-      <link>https://archityp.es/le-colimacon-paris/</link>
+      <link>http://localhost:1313/le-colimacon-paris/</link>
       <pubDate>Mon, 18 Aug 2025 15:00:00 +0000</pubDate>
-      <guid>https://archityp.es/le-colimacon-paris/</guid>
+      <guid>http://localhost:1313/le-colimacon-paris/</guid>
       <description>&lt;p&gt;Photo prise en aout 2018. Sans la cédille, c&amp;rsquo;est bête.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ultramod (Paris)</title>
-      <link>https://archityp.es/ultramod-paris/</link>
+      <link>http://localhost:1313/ultramod-paris/</link>
       <pubDate>Sat, 16 Aug 2025 15:00:00 +0000</pubDate>
-      <guid>https://archityp.es/ultramod-paris/</guid>
+      <guid>http://localhost:1313/ultramod-paris/</guid>
       <description>&lt;p&gt;Photo prise en aout 2018. Dans les premières pages du &lt;em&gt;Pot-Bouille&lt;/em&gt;, Émile Zola mentionne &lt;em&gt;« le magasin de soierie du rez-de-chaussée »&lt;/em&gt; tenu par Auguste Vabre, &lt;em&gt;« &lt;em&gt;le fils aîné du propriétaire&lt;/em&gt;&lt;/em&gt; » de l&amp;rsquo;immeuble décrit dans le dixième volume du cycle des Rougon-Macquart. Ce magasin, c&amp;rsquo;est Ultramod, qui était la plus ancienne (et l&amp;rsquo;une des plus belles) merceries de Paris jusqu&amp;rsquo;à sa fermeture en 2024. Heureusement, la boutique a déménagé&amp;hellip; juste en face.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Aux couleurs modernes (Paris)</title>
-      <link>https://archityp.es/aux-couleurs-modernes-paris/</link>
+      <link>http://localhost:1313/aux-couleurs-modernes-paris/</link>
       <pubDate>Thu, 14 Aug 2025 15:00:00 +0000</pubDate>
-      <guid>https://archityp.es/aux-couleurs-modernes-paris/</guid>
+      <guid>http://localhost:1313/aux-couleurs-modernes-paris/</guid>
       <description>&lt;p&gt;Photo prise en aout 2018. Dans toutes les couleurs, à condition que ce soit le jaune.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Café des ministères (Paris)</title>
-      <link>https://archityp.es/cafe-des-ministeres-paris/</link>
+      <link>http://localhost:1313/cafe-des-ministeres-paris/</link>
       <pubDate>Tue, 12 Aug 2025 15:00:00 +0000</pubDate>
-      <guid>https://archityp.es/cafe-des-ministeres-paris/</guid>
+      <guid>http://localhost:1313/cafe-des-ministeres-paris/</guid>
       <description>&lt;p&gt;Photo prise en aout 2018. Costard et tee-shirt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Le petit Maillot (Paris)</title>
-      <link>https://archityp.es/le-petit-maillot-paris/</link>
+      <link>http://localhost:1313/le-petit-maillot-paris/</link>
       <pubDate>Thu, 12 Jun 2025 15:30:00 +0000</pubDate>
-      <guid>https://archityp.es/le-petit-maillot-paris/</guid>
+      <guid>http://localhost:1313/le-petit-maillot-paris/</guid>
       <description>&lt;p&gt;Photo prise en juin 2017. Du noir, du gris, du blanc, du rose, trois polices différentes dont un bout de &lt;a href=&#34;https://fr.wikipedia.org/wiki/Choc_(police_de_caract%C3%A8res)&#34;&gt;Choc&lt;/a&gt;, ça ne marcherait pas si c&amp;rsquo;était plus simple.&lt;/p&gt;</description>
     </item>
     <item>
       <title>La rotonde des Tuileries (Paris)</title>
-      <link>https://archityp.es/la-rotonde-des-tuileries-paris/</link>
+      <link>http://localhost:1313/la-rotonde-des-tuileries-paris/</link>
       <pubDate>Thu, 22 May 2025 15:30:00 +0000</pubDate>
-      <guid>https://archityp.es/la-rotonde-des-tuileries-paris/</guid>
+      <guid>http://localhost:1313/la-rotonde-des-tuileries-paris/</guid>
       <description>&lt;p&gt;Photo prise en mars 2015. Le nouveau propriétaire a décroché cette vieille enseigne au profit d&amp;rsquo;une décoration néo-rétro infiniment plus instagrammable (et donc ennuyeuse).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bicloune (Paris)</title>
-      <link>https://archityp.es/bicloune-paris/</link>
+      <link>http://localhost:1313/bicloune-paris/</link>
       <pubDate>Thu, 24 Apr 2025 10:00:00 +0000</pubDate>
-      <guid>https://archityp.es/bicloune-paris/</guid>
+      <guid>http://localhost:1313/bicloune-paris/</guid>
       <description>&lt;p&gt;Photo prise en septembre 2008. Cette boutique a fermé depuis longtemps, mais Bicloune utilise toujours le même logo d&lt;em&gt;r&lt;/em&gt;ô&lt;em&gt;l&lt;/em&gt;e&lt;em&gt;m&lt;/em&gt;e&lt;em&gt;n&lt;/em&gt;t italisé.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Au fil du vin (Paris)</title>
-      <link>https://archityp.es/au-fil-du-vin-paris/</link>
+      <link>http://localhost:1313/au-fil-du-vin-paris/</link>
       <pubDate>Tue, 01 Apr 2025 10:34:00 +0000</pubDate>
-      <guid>https://archityp.es/au-fil-du-vin-paris/</guid>
+      <guid>http://localhost:1313/au-fil-du-vin-paris/</guid>
       <description>&lt;p&gt;Photo prise en septembre 2008. J&amp;rsquo;aime beaucoup l&amp;rsquo;hésitation entre linéale et mécane.&lt;/p&gt;</description>
     </item>
   </channel>

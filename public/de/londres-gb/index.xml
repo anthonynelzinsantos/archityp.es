@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Londres 🇬🇧 on Architypes</title>
-    <link>https://archityp.es/de/londres-gb/</link>
+    <link>http://localhost:1313/de/londres-gb/</link>
     <description>Recent content in Londres 🇬🇧 on Architypes</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
     <lastBuildDate>Sat, 31 May 2025 15:30:00 +0000</lastBuildDate>
-    <atom:link href="https://archityp.es/de/londres-gb/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/de/londres-gb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Caffe Forum (Londres)</title>
-      <link>https://archityp.es/caffe-forum-londres/</link>
+      <link>http://localhost:1313/caffe-forum-londres/</link>
       <pubDate>Sat, 31 May 2025 15:30:00 +0000</pubDate>
-      <guid>https://archityp.es/caffe-forum-londres/</guid>
+      <guid>http://localhost:1313/caffe-forum-londres/</guid>
       <description>&lt;p&gt;Photo prise en mai 2016. Ma cantine favorite, lorsque j&amp;rsquo;avais la chance d&amp;rsquo;aller régulièrement à Londres.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Byron (Londres)</title>
-      <link>https://archityp.es/byron-londres/</link>
+      <link>http://localhost:1313/byron-londres/</link>
       <pubDate>Thu, 29 May 2025 15:30:00 +0000</pubDate>
-      <guid>https://archityp.es/byron-londres/</guid>
+      <guid>http://localhost:1313/byron-londres/</guid>
       <description>&lt;p&gt;Photo prise en 2016. Je me demande ce que &lt;a href=&#34;https://fr.wikipedia.org/wiki/Lord_Byron&#34;&gt;George Gordon&lt;/a&gt; en penserait&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Brasserie Blanc (Londres)</title>
-      <link>https://archityp.es/brasserie-blanc-londres/</link>
+      <link>http://localhost:1313/brasserie-blanc-londres/</link>
       <pubDate>Tue, 27 May 2025 15:30:00 +0000</pubDate>
-      <guid>https://archityp.es/brasserie-blanc-londres/</guid>
+      <guid>http://localhost:1313/brasserie-blanc-londres/</guid>
       <description>&lt;p&gt;Photo prise en mai 2016. Voilà, très bien &amp;mdash; Adam !&lt;/p&gt;</description>
     </item>
     <item>
       <title>Roskilly’s ice cream truck (Londres)</title>
-      <link>https://archityp.es/roskillys-ice-cream-truck-londres/</link>
+      <link>http://localhost:1313/roskillys-ice-cream-truck-londres/</link>
       <pubDate>Fri, 25 Apr 2025 10:30:00 +0000</pubDate>
-      <guid>https://archityp.es/roskillys-ice-cream-truck-londres/</guid>
+      <guid>http://localhost:1313/roskillys-ice-cream-truck-londres/</guid>
       <description>&lt;p&gt;Photo prise en mai 2011. Même si j&amp;rsquo;ai perdu l&amp;rsquo;original et que je n&amp;rsquo;ai plus que cette copie de mauvaise qualité, elle reste l&amp;rsquo;une de mes photos favorites.&lt;/p&gt;</description>
     </item>
   </channel>

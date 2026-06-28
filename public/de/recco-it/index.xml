@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recco 🇮🇹 on Architypes</title>
-    <link>https://archityp.es/de/recco-it/</link>
+    <link>http://localhost:1313/de/recco-it/</link>
     <description>Recent content in Recco 🇮🇹 on Architypes</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
     <lastBuildDate>Tue, 13 May 2025 15:30:00 +0000</lastBuildDate>
-    <atom:link href="https://archityp.es/de/recco-it/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/de/recco-it/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Benvenuto (Recco)</title>
-      <link>https://archityp.es/benvenuto-recco/</link>
+      <link>http://localhost:1313/benvenuto-recco/</link>
       <pubDate>Tue, 13 May 2025 15:30:00 +0000</pubDate>
-      <guid>https://archityp.es/benvenuto-recco/</guid>
+      <guid>http://localhost:1313/benvenuto-recco/</guid>
       <description>&lt;p&gt;Photo prise en aout 2013. On peut difficilement faire plus italien.&lt;/p&gt;</description>
     </item>
   </channel>

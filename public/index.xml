@@ -5,15 +5,15 @@
      version="2.0">
 	<channel>
     	<title>Architypes</title>
-    	<link>https://archityp.es/</link>
+    	<link>http://localhost:1313/</link>
     	<description>Mémoires d’un passé (pas si) lointain</description>
     	<language>fr-FR</language>
     	<managingEditor>bonjour@archityp.es (Anthony Nelzin-Santos)</managingEditor>
     	<webMaster>bonjour@archityp.es (Anthony Nelzin-Santos)</webMaster>
     	<copyright>© 2026 Anthony Nelzin-Santos</copyright>
-    	<lastBuildDate>Sat, 27 Jun 2026 11:22:29 +0200</lastBuildDate>
+    	<lastBuildDate>Sun, 28 Jun 2026 15:25:56 +0200</lastBuildDate>
     	<generator>Hugo 0.161.1</generator>
-    	<atom:link href="https://archityp.es/index.xml" rel="self" type="application/rss+xml" />
+    	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 
 		
 		
@@ -23,34 +23,34 @@
 		
 		
 		<item>
-			<title>Société de secours mutuels et de retraite des cuisiniers de Paris (Paris)</title>
-			<link>https://archityp.es/societe-de-secours-mutuels-paris/</link>
-			<pubDate>Fri, 26 Jun 2026 15:00:00 +0000</pubDate>
-			<guid isPermaLink="true">https://archityp.es/societe-de-secours-mutuels-paris/</guid>
+			<title>Imprimerie (Paris)</title>
+			<link>http://localhost:1313/imprimerie-paris/</link>
+			<pubDate>Wed, 30 Sep 2026 15:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/imprimerie-paris/</guid>
 			<dc:creator>Anthony Nelzin-Santos</dc:creator>
 			
 			
 				
-				<category domain="https://archityp.es/de/paris-fr/">Paris 🇫🇷</category>
+				<category domain="http://localhost:1313/de/paris-fr/">Paris 🇫🇷</category>
 			
 			
-			<description><![CDATA[Photo prise en décembre 2021. Je vous mets au défi de trouver une enseigne plus longue.
+			<description><![CDATA[Photo prise en juin 2022. Le « R » qui est un « P », le « M » maju-minuscule, qu’il est dommage que cette enseigne se délite !
 ]]></description>
 			
 			<content:encoded><![CDATA[
-			<p><img src="https://archityp.es/societe-de-secours-mutuels-paris/feature_hu_f79339b8373f9dc2.jpg" alt="Société de secours mutuels et de retraite des cuisiniers de Paris (Paris)" /></p>
-			<p>Photo prise en décembre 2021. Je vous mets au défi de trouver une enseigne plus longue.</p>
+			<p><img src="http://localhost:1313/imprimerie-paris/feature_hu_fd6bf134637d35ab.jpg" alt="Imprimerie (Paris)" /></p>
+			<p>Photo prise en juin 2022. Le « R » qui est un « P », le « M » maju-minuscule, qu’il est dommage que cette enseigne se délite !</p>
 
-			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fsociete-de-secours-mutuels-paris%2f" alt="" style="width:1px;height:1px;border:0;" />
+			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fimprimerie-paris%2f" alt="" style="width:1px;height:1px;border:0;" />
 			]]></content:encoded>
 			
 			
-			<enclosure url="https://archityp.es/societe-de-secours-mutuels-paris/feature_hu_f79339b8373f9dc2.jpg" type="image/jpeg" length="0" />
-			<media:content url="https://archityp.es/societe-de-secours-mutuels-paris/feature_hu_f79339b8373f9dc2.jpg" medium="image" type="image/jpeg">
-			<media:title type="plain">Société de secours mutuels et de retraite des cuisiniers de Paris (Paris)</media:title>
+			<enclosure url="http://localhost:1313/imprimerie-paris/feature_hu_fd6bf134637d35ab.jpg" type="image/jpeg" length="0" />
+			<media:content url="http://localhost:1313/imprimerie-paris/feature_hu_fd6bf134637d35ab.jpg" medium="image" type="image/jpeg">
+			<media:title type="plain">Imprimerie (Paris)</media:title>
 			
 			</media:content>
-			<media:thumbnail url="https://archityp.es/societe-de-secours-mutuels-paris/feature_hu_7dda5cff44bbd183.jpg" />
+			<media:thumbnail url="http://localhost:1313/imprimerie-paris/feature_hu_995c0ef4fc6485e9.jpg" />
 			
 		</item>
 		
@@ -60,34 +60,34 @@
 		
 		
 		<item>
-			<title>Magatzems del Pilar (Barcelone)</title>
-			<link>https://archityp.es/magatzems-del-pilar-barcelone/</link>
-			<pubDate>Tue, 23 Jun 2026 15:00:00 +0000</pubDate>
-			<guid isPermaLink="true">https://archityp.es/magatzems-del-pilar-barcelone/</guid>
+			<title>Cat’Laine (Paris)</title>
+			<link>http://localhost:1313/catlaine-paris/</link>
+			<pubDate>Sun, 27 Sep 2026 15:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/catlaine-paris/</guid>
 			<dc:creator>Anthony Nelzin-Santos</dc:creator>
 			
 			
 				
-				<category domain="https://archityp.es/de/barcelone-es/">Barcelone 🇪🇸</category>
+				<category domain="http://localhost:1313/de/paris-fr/">Paris 🇫🇷</category>
 			
 			
-			<description><![CDATA[Photo prise en novembre 2021. Ça ne paye pas de mine, comme ça, mais derrière ces murs se cachent l&rsquo;une des plus belles boutiques de broderies de la planète.
+			<description><![CDATA[Photo prise en juin 2022. C’est du velours.
 ]]></description>
 			
 			<content:encoded><![CDATA[
-			<p><img src="https://archityp.es/magatzems-del-pilar-barcelone/feature_hu_ae9fdcad9ea50bff.jpg" alt="Magatzems del Pilar (Barcelone)" /></p>
-			<p>Photo prise en novembre 2021. Ça ne paye pas de mine, comme ça, mais derrière ces murs se cachent l&rsquo;une des plus belles boutiques de broderies de la planète.</p>
+			<p><img src="http://localhost:1313/catlaine-paris/feature_hu_3572edfb3fef58.jpg" alt="Cat’Laine (Paris)" /></p>
+			<p>Photo prise en juin 2022. C’est du velours.</p>
 
-			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fmagatzems-del-pilar-barcelone%2f" alt="" style="width:1px;height:1px;border:0;" />
+			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fcatlaine-paris%2f" alt="" style="width:1px;height:1px;border:0;" />
 			]]></content:encoded>
 			
 			
-			<enclosure url="https://archityp.es/magatzems-del-pilar-barcelone/feature_hu_ae9fdcad9ea50bff.jpg" type="image/jpeg" length="0" />
-			<media:content url="https://archityp.es/magatzems-del-pilar-barcelone/feature_hu_ae9fdcad9ea50bff.jpg" medium="image" type="image/jpeg">
-			<media:title type="plain">Magatzems del Pilar (Barcelone)</media:title>
+			<enclosure url="http://localhost:1313/catlaine-paris/feature_hu_3572edfb3fef58.jpg" type="image/jpeg" length="0" />
+			<media:content url="http://localhost:1313/catlaine-paris/feature_hu_3572edfb3fef58.jpg" medium="image" type="image/jpeg">
+			<media:title type="plain">Cat’Laine (Paris)</media:title>
 			
 			</media:content>
-			<media:thumbnail url="https://archityp.es/magatzems-del-pilar-barcelone/feature_hu_2f2fa12c67bf3623.jpg" />
+			<media:thumbnail url="http://localhost:1313/catlaine-paris/feature_hu_d551e9c0fc2c6b1f.jpg" />
 			
 		</item>
 		
@@ -97,34 +97,34 @@
 		
 		
 		<item>
-			<title>Perfumería del Bonsuccés (Barcelone)</title>
-			<link>https://archityp.es/perfumeria-del-bonsucces-barcelone/</link>
-			<pubDate>Sat, 20 Jun 2026 15:00:00 +0000</pubDate>
-			<guid isPermaLink="true">https://archityp.es/perfumeria-del-bonsucces-barcelone/</guid>
+			<title>Feydeau Bourse Numismatique (Paris)</title>
+			<link>http://localhost:1313/feydeau-bourse-numismatique-paris/</link>
+			<pubDate>Thu, 24 Sep 2026 15:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/feydeau-bourse-numismatique-paris/</guid>
 			<dc:creator>Anthony Nelzin-Santos</dc:creator>
 			
 			
 				
-				<category domain="https://archityp.es/de/barcelone-es/">Barcelone 🇪🇸</category>
+				<category domain="http://localhost:1313/de/paris-fr/">Paris 🇫🇷</category>
 			
 			
-			<description><![CDATA[Photo prise en novembre 2021. Parait-il que les chanteuses Amaia et Rosalía s&rsquo;y fournissent en collants. (Moi aussi, mais en chaussettes, et tout le monde s&rsquo;en fout.)
+			<description><![CDATA[Photo prise en juin 2022. Or, numismatique… et contrefaçons de devantures anciennes.
 ]]></description>
 			
 			<content:encoded><![CDATA[
-			<p><img src="https://archityp.es/perfumeria-del-bonsucces-barcelone/feature_hu_8bb7be74a666b9a8.jpg" alt="Perfumería del Bonsuccés (Barcelone)" /></p>
-			<p>Photo prise en novembre 2021. Parait-il que les chanteuses Amaia et Rosalía s&rsquo;y fournissent en collants. (Moi aussi, mais en chaussettes, et tout le monde s&rsquo;en fout.)</p>
+			<p><img src="http://localhost:1313/feydeau-bourse-numismatique-paris/feature_hu_a425ab8c95faf738.jpg" alt="Feydeau Bourse Numismatique (Paris)" /></p>
+			<p>Photo prise en juin 2022. Or, numismatique… et contrefaçons de devantures anciennes.</p>
 
-			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fperfumeria-del-bonsucces-barcelone%2f" alt="" style="width:1px;height:1px;border:0;" />
+			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2ffeydeau-bourse-numismatique-paris%2f" alt="" style="width:1px;height:1px;border:0;" />
 			]]></content:encoded>
 			
 			
-			<enclosure url="https://archityp.es/perfumeria-del-bonsucces-barcelone/feature_hu_8bb7be74a666b9a8.jpg" type="image/jpeg" length="0" />
-			<media:content url="https://archityp.es/perfumeria-del-bonsucces-barcelone/feature_hu_8bb7be74a666b9a8.jpg" medium="image" type="image/jpeg">
-			<media:title type="plain">Perfumería del Bonsuccés (Barcelone)</media:title>
+			<enclosure url="http://localhost:1313/feydeau-bourse-numismatique-paris/feature_hu_a425ab8c95faf738.jpg" type="image/jpeg" length="0" />
+			<media:content url="http://localhost:1313/feydeau-bourse-numismatique-paris/feature_hu_a425ab8c95faf738.jpg" medium="image" type="image/jpeg">
+			<media:title type="plain">Feydeau Bourse Numismatique (Paris)</media:title>
 			
 			</media:content>
-			<media:thumbnail url="https://archityp.es/perfumeria-del-bonsucces-barcelone/feature_hu_d838de35b20f6d89.jpg" />
+			<media:thumbnail url="http://localhost:1313/feydeau-bourse-numismatique-paris/feature_hu_27fa01526543a471.jpg" />
 			
 		</item>
 		
@@ -134,34 +134,34 @@
 		
 		
 		<item>
-			<title>Fleca Els Àngels (Barcelone)</title>
-			<link>https://archityp.es/fleca-els-angels-barcelone/</link>
-			<pubDate>Wed, 17 Jun 2026 15:00:00 +0000</pubDate>
-			<guid isPermaLink="true">https://archityp.es/fleca-els-angels-barcelone/</guid>
+			<title>Tétrel (Paris)</title>
+			<link>http://localhost:1313/tetrel-paris/</link>
+			<pubDate>Mon, 21 Sep 2026 15:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/tetrel-paris/</guid>
 			<dc:creator>Anthony Nelzin-Santos</dc:creator>
 			
 			
 				
-				<category domain="https://archityp.es/de/barcelone-es/">Barcelone 🇪🇸</category>
+				<category domain="http://localhost:1313/de/paris-fr/">Paris 🇫🇷</category>
 			
 			
-			<description><![CDATA[Photo prise en novembre 2021. Je suis passionné de typographie, je suis fasciné par le vitrail, alors vous imaginez bien que lorsque les deux se rencontrent&hellip; Le choix des coupes et des couleurs donnent un tel dynamisme à ces formes naïves !
+			<description><![CDATA[Photo prise en juin 2022. Des pleins très pleins et des déliés très déliés.
 ]]></description>
 			
 			<content:encoded><![CDATA[
-			<p><img src="https://archityp.es/fleca-els-angels-barcelone/feature_hu_b6dcc1a3e3dd660e.jpg" alt="Fleca Els Àngels (Barcelone)" /></p>
-			<p>Photo prise en novembre 2021. Je suis passionné de typographie, je suis fasciné par le vitrail, alors vous imaginez bien que lorsque les deux se rencontrent&hellip; Le choix des coupes et des couleurs donnent un tel dynamisme à ces formes naïves !</p>
+			<p><img src="http://localhost:1313/tetrel-paris/feature_hu_21de97629258fe6e.jpg" alt="Tétrel (Paris)" /></p>
+			<p>Photo prise en juin 2022. Des pleins très pleins et des déliés très déliés.</p>
 
-			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2ffleca-els-angels-barcelone%2f" alt="" style="width:1px;height:1px;border:0;" />
+			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2ftetrel-paris%2f" alt="" style="width:1px;height:1px;border:0;" />
 			]]></content:encoded>
 			
 			
-			<enclosure url="https://archityp.es/fleca-els-angels-barcelone/feature_hu_b6dcc1a3e3dd660e.jpg" type="image/jpeg" length="0" />
-			<media:content url="https://archityp.es/fleca-els-angels-barcelone/feature_hu_b6dcc1a3e3dd660e.jpg" medium="image" type="image/jpeg">
-			<media:title type="plain">Fleca Els Àngels (Barcelone)</media:title>
+			<enclosure url="http://localhost:1313/tetrel-paris/feature_hu_21de97629258fe6e.jpg" type="image/jpeg" length="0" />
+			<media:content url="http://localhost:1313/tetrel-paris/feature_hu_21de97629258fe6e.jpg" medium="image" type="image/jpeg">
+			<media:title type="plain">Tétrel (Paris)</media:title>
 			
 			</media:content>
-			<media:thumbnail url="https://archityp.es/fleca-els-angels-barcelone/feature_hu_3b5ccfe4cf075a2d.jpg" />
+			<media:thumbnail url="http://localhost:1313/tetrel-paris/feature_hu_cc6cf1140eddc945.jpg" />
 			
 		</item>
 		
@@ -171,34 +171,34 @@
 		
 		
 		<item>
-			<title>Bacaro (Barcelone)</title>
-			<link>https://archityp.es/bacaro-barcelone/</link>
-			<pubDate>Sun, 14 Jun 2026 15:00:00 +0000</pubDate>
-			<guid isPermaLink="true">https://archityp.es/bacaro-barcelone/</guid>
+			<title>Serrurrerie Silvera (Paris)</title>
+			<link>http://localhost:1313/serrurrerie-silvera-paris/</link>
+			<pubDate>Fri, 18 Sep 2026 15:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/serrurrerie-silvera-paris/</guid>
 			<dc:creator>Anthony Nelzin-Santos</dc:creator>
 			
 			
 				
-				<category domain="https://archityp.es/de/barcelone-es/">Barcelone 🇪🇸</category>
+				<category domain="http://localhost:1313/de/paris-fr/">Paris 🇫🇷</category>
 			
 			
-			<description><![CDATA[Photo prise en novembre 2021. Je ne saurais dire pourquoi, mais je trouve ce mélange de polices et de couleurs particulièrement charmant.
+			<description><![CDATA[Photo prise en juin 2022. Deux devantures, deux ambiances.
 ]]></description>
 			
 			<content:encoded><![CDATA[
-			<p><img src="https://archityp.es/bacaro-barcelone/feature_hu_a80c54ac34d0b054.jpg" alt="Bacaro (Barcelone)" /></p>
-			<p>Photo prise en novembre 2021. Je ne saurais dire pourquoi, mais je trouve ce mélange de polices et de couleurs particulièrement charmant.</p>
+			<p><img src="http://localhost:1313/serrurrerie-silvera-paris/feature_hu_ae988ac37ae8fff5.jpg" alt="Serrurrerie Silvera (Paris)" /></p>
+			<p>Photo prise en juin 2022. Deux devantures, deux ambiances.</p>
 
-			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fbacaro-barcelone%2f" alt="" style="width:1px;height:1px;border:0;" />
+			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fserrurrerie-silvera-paris%2f" alt="" style="width:1px;height:1px;border:0;" />
 			]]></content:encoded>
 			
 			
-			<enclosure url="https://archityp.es/bacaro-barcelone/feature_hu_a80c54ac34d0b054.jpg" type="image/jpeg" length="0" />
-			<media:content url="https://archityp.es/bacaro-barcelone/feature_hu_a80c54ac34d0b054.jpg" medium="image" type="image/jpeg">
-			<media:title type="plain">Bacaro (Barcelone)</media:title>
+			<enclosure url="http://localhost:1313/serrurrerie-silvera-paris/feature_hu_ae988ac37ae8fff5.jpg" type="image/jpeg" length="0" />
+			<media:content url="http://localhost:1313/serrurrerie-silvera-paris/feature_hu_ae988ac37ae8fff5.jpg" medium="image" type="image/jpeg">
+			<media:title type="plain">Serrurrerie Silvera (Paris)</media:title>
 			
 			</media:content>
-			<media:thumbnail url="https://archityp.es/bacaro-barcelone/feature_hu_12a4749d92bbeb42.jpg" />
+			<media:thumbnail url="http://localhost:1313/serrurrerie-silvera-paris/feature_hu_13cf8586edbeeb96.jpg" />
 			
 		</item>
 		
@@ -208,34 +208,34 @@
 		
 		
 		<item>
-			<title>Casa Colomina (Barcelone)</title>
-			<link>https://archityp.es/casa-colomina-barcelone/</link>
-			<pubDate>Thu, 11 Jun 2026 15:00:00 +0000</pubDate>
-			<guid isPermaLink="true">https://archityp.es/casa-colomina-barcelone/</guid>
+			<title>Arc-en-ciel carrosserie mécanique (Lyon)</title>
+			<link>http://localhost:1313/arc-en-ciel-carrosserie-mecanique-lyon/</link>
+			<pubDate>Tue, 15 Sep 2026 15:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/arc-en-ciel-carrosserie-mecanique-lyon/</guid>
 			<dc:creator>Anthony Nelzin-Santos</dc:creator>
 			
 			
 				
-				<category domain="https://archityp.es/de/barcelone-es/">Barcelone 🇪🇸</category>
+				<category domain="http://localhost:1313/de/lyon-fr/">Lyon 🇫🇷</category>
 			
 			
-			<description><![CDATA[Photo prise en novembre 2021. Pour la typographie certes, mais aussi (et peut-être surtout) parce que c&rsquo;est mon torró favori.
+			<description><![CDATA[Photo prise en mai 2022. Il faut croire que les arcs-en-ciel projettent des ombres particulièrement profondes.
 ]]></description>
 			
 			<content:encoded><![CDATA[
-			<p><img src="https://archityp.es/casa-colomina-barcelone/feature_hu_c32148188ba966a5.jpg" alt="Casa Colomina (Barcelone)" /></p>
-			<p>Photo prise en novembre 2021. Pour la typographie certes, mais aussi (et peut-être surtout) parce que c&rsquo;est mon <em>torró</em> favori.</p>
+			<p><img src="http://localhost:1313/arc-en-ciel-carrosserie-mecanique-lyon/feature_hu_2dba91bbda181373.jpg" alt="Arc-en-ciel carrosserie mécanique (Lyon)" /></p>
+			<p>Photo prise en mai 2022. Il faut croire que les arcs-en-ciel projettent des ombres particulièrement profondes.</p>
 
-			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fcasa-colomina-barcelone%2f" alt="" style="width:1px;height:1px;border:0;" />
+			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2farc-en-ciel-carrosserie-mecanique-lyon%2f" alt="" style="width:1px;height:1px;border:0;" />
 			]]></content:encoded>
 			
 			
-			<enclosure url="https://archityp.es/casa-colomina-barcelone/feature_hu_c32148188ba966a5.jpg" type="image/jpeg" length="0" />
-			<media:content url="https://archityp.es/casa-colomina-barcelone/feature_hu_c32148188ba966a5.jpg" medium="image" type="image/jpeg">
-			<media:title type="plain">Casa Colomina (Barcelone)</media:title>
+			<enclosure url="http://localhost:1313/arc-en-ciel-carrosserie-mecanique-lyon/feature_hu_2dba91bbda181373.jpg" type="image/jpeg" length="0" />
+			<media:content url="http://localhost:1313/arc-en-ciel-carrosserie-mecanique-lyon/feature_hu_2dba91bbda181373.jpg" medium="image" type="image/jpeg">
+			<media:title type="plain">Arc-en-ciel carrosserie mécanique (Lyon)</media:title>
 			
 			</media:content>
-			<media:thumbnail url="https://archityp.es/casa-colomina-barcelone/feature_hu_496f54ba95679bf4.jpg" />
+			<media:thumbnail url="http://localhost:1313/arc-en-ciel-carrosserie-mecanique-lyon/feature_hu_8e13b7613db135ad.jpg" />
 			
 		</item>
 		
@@ -245,34 +245,34 @@
 		
 		
 		<item>
-			<title>Academia central de corte F. Larauza (Barcelone)</title>
-			<link>https://archityp.es/academia-central-de-corte-f-larauza-barcelone/</link>
-			<pubDate>Mon, 08 Jun 2026 15:00:10 +0000</pubDate>
-			<guid isPermaLink="true">https://archityp.es/academia-central-de-corte-f-larauza-barcelone/</guid>
+			<title>Établissements Ceci (Lyon)</title>
+			<link>http://localhost:1313/etablissements-ceci-lyon/</link>
+			<pubDate>Sat, 12 Sep 2026 15:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/etablissements-ceci-lyon/</guid>
 			<dc:creator>Anthony Nelzin-Santos</dc:creator>
 			
 			
 				
-				<category domain="https://archityp.es/de/barcelone-es/">Barcelone 🇪🇸</category>
+				<category domain="http://localhost:1313/de/lyon-fr/">Lyon 🇫🇷</category>
 			
 			
-			<description><![CDATA[Photo prise en novembre 2021. J&rsquo;espère que ça coupait plus droit que l&rsquo;enseigne&hellip;
+			<description><![CDATA[Photo prise en mai 2022. Puisqu’on vous dit que les voitures ne gênent pas !
 ]]></description>
 			
 			<content:encoded><![CDATA[
-			<p><img src="https://archityp.es/academia-central-de-corte-f-larauza-barcelone/feature_hu_4f524d7456eade4b.jpg" alt="Academia central de corte F. Larauza (Barcelone)" /></p>
-			<p>Photo prise en novembre 2021. J&rsquo;espère que ça coupait plus droit que l&rsquo;enseigne&hellip;</p>
+			<p><img src="http://localhost:1313/etablissements-ceci-lyon/feature_hu_c39ebbb19ccb598.jpg" alt="Établissements Ceci (Lyon)" /></p>
+			<p>Photo prise en mai 2022. Puisqu’on vous dit que les voitures ne gênent pas !</p>
 
-			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2facademia-central-de-corte-f-larauza-barcelone%2f" alt="" style="width:1px;height:1px;border:0;" />
+			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fetablissements-ceci-lyon%2f" alt="" style="width:1px;height:1px;border:0;" />
 			]]></content:encoded>
 			
 			
-			<enclosure url="https://archityp.es/academia-central-de-corte-f-larauza-barcelone/feature_hu_4f524d7456eade4b.jpg" type="image/jpeg" length="0" />
-			<media:content url="https://archityp.es/academia-central-de-corte-f-larauza-barcelone/feature_hu_4f524d7456eade4b.jpg" medium="image" type="image/jpeg">
-			<media:title type="plain">Academia central de corte F. Larauza (Barcelone)</media:title>
+			<enclosure url="http://localhost:1313/etablissements-ceci-lyon/feature_hu_c39ebbb19ccb598.jpg" type="image/jpeg" length="0" />
+			<media:content url="http://localhost:1313/etablissements-ceci-lyon/feature_hu_c39ebbb19ccb598.jpg" medium="image" type="image/jpeg">
+			<media:title type="plain">Établissements Ceci (Lyon)</media:title>
 			
 			</media:content>
-			<media:thumbnail url="https://archityp.es/academia-central-de-corte-f-larauza-barcelone/feature_hu_b4750736295a4d63.jpg" />
+			<media:thumbnail url="http://localhost:1313/etablissements-ceci-lyon/feature_hu_217dcae4477821db.jpg" />
 			
 		</item>
 		
@@ -282,34 +282,34 @@
 		
 		
 		<item>
-			<title>Maria Esclasans Antigüedades (Barcelone)</title>
-			<link>https://archityp.es/maria-esclasans-antiguedades-barcelone/</link>
-			<pubDate>Fri, 05 Jun 2026 15:00:00 +0000</pubDate>
-			<guid isPermaLink="true">https://archityp.es/maria-esclasans-antiguedades-barcelone/</guid>
+			<title>L. Bourduge artisan paysagiste (Fontaines-sur-Saône)</title>
+			<link>http://localhost:1313/l-bourduge-artisan-paysagiste-fontaines-sur-saone/</link>
+			<pubDate>Wed, 09 Sep 2026 15:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/l-bourduge-artisan-paysagiste-fontaines-sur-saone/</guid>
 			<dc:creator>Anthony Nelzin-Santos</dc:creator>
 			
 			
 				
-				<category domain="https://archityp.es/de/barcelone-es/">Barcelone 🇪🇸</category>
+				<category domain="http://localhost:1313/de/fontaines-sur-saone-fr/">Fontaines-sur-Saône 🇫🇷</category>
 			
 			
-			<description><![CDATA[Photo prise en novembre 2021. Si je ne dis pas de bêtises, cette enseigne date de 1917. Autant vous dire que celle qu&rsquo;elle ne cache plus tout à fait n&rsquo;est pas de première jeunesse&hellip;
+			<description><![CDATA[Photo prise en mai 2022. Artisan paysagiste jusqu’au bout de l’esperluète.
 ]]></description>
 			
 			<content:encoded><![CDATA[
-			<p><img src="https://archityp.es/maria-esclasans-antiguedades-barcelone/feature_hu_d61eee40dc42088d.jpg" alt="Maria Esclasans Antigüedades (Barcelone)" /></p>
-			<p>Photo prise en novembre 2021. Si je ne dis pas de bêtises, cette enseigne date de 1917. Autant vous dire que celle qu&rsquo;elle ne cache plus tout à fait n&rsquo;est pas de première jeunesse&hellip;</p>
+			<p><img src="http://localhost:1313/l-bourduge-artisan-paysagiste-fontaines-sur-saone/feature_hu_937386fef350cc13.jpg" alt="L. Bourduge artisan paysagiste (Fontaines-sur-Saône)" /></p>
+			<p>Photo prise en mai 2022. Artisan paysagiste jusqu’au bout de l’esperluète.</p>
 
-			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fmaria-esclasans-antiguedades-barcelone%2f" alt="" style="width:1px;height:1px;border:0;" />
+			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fl-bourduge-artisan-paysagiste-fontaines-sur-saone%2f" alt="" style="width:1px;height:1px;border:0;" />
 			]]></content:encoded>
 			
 			
-			<enclosure url="https://archityp.es/maria-esclasans-antiguedades-barcelone/feature_hu_d61eee40dc42088d.jpg" type="image/jpeg" length="0" />
-			<media:content url="https://archityp.es/maria-esclasans-antiguedades-barcelone/feature_hu_d61eee40dc42088d.jpg" medium="image" type="image/jpeg">
-			<media:title type="plain">Maria Esclasans Antigüedades (Barcelone)</media:title>
+			<enclosure url="http://localhost:1313/l-bourduge-artisan-paysagiste-fontaines-sur-saone/feature_hu_937386fef350cc13.jpg" type="image/jpeg" length="0" />
+			<media:content url="http://localhost:1313/l-bourduge-artisan-paysagiste-fontaines-sur-saone/feature_hu_937386fef350cc13.jpg" medium="image" type="image/jpeg">
+			<media:title type="plain">L. Bourduge artisan paysagiste (Fontaines-sur-Saône)</media:title>
 			
 			</media:content>
-			<media:thumbnail url="https://archityp.es/maria-esclasans-antiguedades-barcelone/feature_hu_8b597d60ecf14b34.jpg" />
+			<media:thumbnail url="http://localhost:1313/l-bourduge-artisan-paysagiste-fontaines-sur-saone/feature_hu_d650f0724d5f4c31.jpg" />
 			
 		</item>
 		
@@ -319,34 +319,34 @@
 		
 		
 		<item>
-			<title>Navarro (Barcelone)</title>
-			<link>https://archityp.es/navarro-barcelone/</link>
-			<pubDate>Tue, 02 Jun 2026 15:00:00 +0000</pubDate>
-			<guid isPermaLink="true">https://archityp.es/navarro-barcelone/</guid>
+			<title>Imprimerie générale lyonnaise (Lyon)</title>
+			<link>http://localhost:1313/imprimerie-generale-lyonnaise-lyon/</link>
+			<pubDate>Sun, 06 Sep 2026 15:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/imprimerie-generale-lyonnaise-lyon/</guid>
 			<dc:creator>Anthony Nelzin-Santos</dc:creator>
 			
 			
 				
-				<category domain="https://archityp.es/de/barcelone-es/">Barcelone 🇪🇸</category>
+				<category domain="http://localhost:1313/de/lyon-fr/">Lyon 🇫🇷</category>
 			
 			
-			<description><![CDATA[Photo prise en novembre 2021. Contre toute attente, il s&rsquo;agit d&rsquo;un fleuriste.
+			<description><![CDATA[Photo prise en avril 2022. Une imprime d’avant-garde.
 ]]></description>
 			
 			<content:encoded><![CDATA[
-			<p><img src="https://archityp.es/navarro-barcelone/feature_hu_b05ea121c336d794.jpg" alt="Navarro (Barcelone)" /></p>
-			<p>Photo prise en novembre 2021. Contre toute attente, il s&rsquo;agit d&rsquo;un fleuriste.</p>
+			<p><img src="http://localhost:1313/imprimerie-generale-lyonnaise-lyon/feature_hu_f5d46e53a04f993b.jpg" alt="Imprimerie générale lyonnaise (Lyon)" /></p>
+			<p>Photo prise en avril 2022. Une imprime d’<a href="https://en.wikipedia.org/wiki/ITC_Avant_Garde">avant-garde</a>.</p>
 
-			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fnavarro-barcelone%2f" alt="" style="width:1px;height:1px;border:0;" />
+			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fimprimerie-generale-lyonnaise-lyon%2f" alt="" style="width:1px;height:1px;border:0;" />
 			]]></content:encoded>
 			
 			
-			<enclosure url="https://archityp.es/navarro-barcelone/feature_hu_b05ea121c336d794.jpg" type="image/jpeg" length="0" />
-			<media:content url="https://archityp.es/navarro-barcelone/feature_hu_b05ea121c336d794.jpg" medium="image" type="image/jpeg">
-			<media:title type="plain">Navarro (Barcelone)</media:title>
+			<enclosure url="http://localhost:1313/imprimerie-generale-lyonnaise-lyon/feature_hu_f5d46e53a04f993b.jpg" type="image/jpeg" length="0" />
+			<media:content url="http://localhost:1313/imprimerie-generale-lyonnaise-lyon/feature_hu_f5d46e53a04f993b.jpg" medium="image" type="image/jpeg">
+			<media:title type="plain">Imprimerie générale lyonnaise (Lyon)</media:title>
 			
 			</media:content>
-			<media:thumbnail url="https://archityp.es/navarro-barcelone/feature_hu_1a8bd41e1e88c3a0.jpg" />
+			<media:thumbnail url="http://localhost:1313/imprimerie-generale-lyonnaise-lyon/feature_hu_d6b2361928a9275d.jpg" />
 			
 		</item>
 		
@@ -356,34 +356,34 @@
 		
 		
 		<item>
-			<title>Merceria L’Eixample (Barcelone)</title>
-			<link>https://archityp.es/merceria-leixample-barcelone/</link>
-			<pubDate>Sat, 30 May 2026 15:00:00 +0000</pubDate>
-			<guid isPermaLink="true">https://archityp.es/merceria-leixample-barcelone/</guid>
+			<title>Art Vidéo (Genève)</title>
+			<link>http://localhost:1313/art-video-geneve/</link>
+			<pubDate>Thu, 03 Sep 2026 15:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/art-video-geneve/</guid>
 			<dc:creator>Anthony Nelzin-Santos</dc:creator>
 			
 			
 				
-				<category domain="https://archityp.es/de/barcelone-es/">Barcelone 🇪🇸</category>
+				<category domain="http://localhost:1313/de/geneve-ch/">Genève 🇨🇭</category>
 			
 			
-			<description><![CDATA[Photo prise en novembre 2021. Sont-ils pas mignons, ces « A », avec leur houpette ?
+			<description><![CDATA[Photo pris en mars 2022. Une publicité de 1996, un logo de 1985, une police de 1922… C’est pratiquement de l’art (vidéo).
 ]]></description>
 			
 			<content:encoded><![CDATA[
-			<p><img src="https://archityp.es/merceria-leixample-barcelone/feature_hu_1b27d9d1e33b50d5.jpg" alt="Merceria L’Eixample (Barcelone)" /></p>
-			<p>Photo prise en novembre 2021. Sont-ils pas mignons, ces « A », avec leur houpette ?</p>
+			<p><img src="http://localhost:1313/art-video-geneve/feature_hu_e6605e4f7b72e9e0.jpg" alt="Art Vidéo (Genève)" /></p>
+			<p>Photo pris en mars 2022. Une publicité de 1996, un logo de 1985, <a href="https://en.wikipedia.org/wiki/Cooper_Black">une police de 1922</a>… C’est pratiquement de l’art (vidéo).</p>
 
-			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fmerceria-leixample-barcelone%2f" alt="" style="width:1px;height:1px;border:0;" />
+			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fart-video-geneve%2f" alt="" style="width:1px;height:1px;border:0;" />
 			]]></content:encoded>
 			
 			
-			<enclosure url="https://archityp.es/merceria-leixample-barcelone/feature_hu_1b27d9d1e33b50d5.jpg" type="image/jpeg" length="0" />
-			<media:content url="https://archityp.es/merceria-leixample-barcelone/feature_hu_1b27d9d1e33b50d5.jpg" medium="image" type="image/jpeg">
-			<media:title type="plain">Merceria L’Eixample (Barcelone)</media:title>
+			<enclosure url="http://localhost:1313/art-video-geneve/feature_hu_e6605e4f7b72e9e0.jpg" type="image/jpeg" length="0" />
+			<media:content url="http://localhost:1313/art-video-geneve/feature_hu_e6605e4f7b72e9e0.jpg" medium="image" type="image/jpeg">
+			<media:title type="plain">Art Vidéo (Genève)</media:title>
 			
 			</media:content>
-			<media:thumbnail url="https://archityp.es/merceria-leixample-barcelone/feature_hu_e735e08d911802fe.jpg" />
+			<media:thumbnail url="http://localhost:1313/art-video-geneve/feature_hu_f4561cbd2f801f2b.jpg" />
 			
 		</item>
 		
@@ -393,34 +393,34 @@
 		
 		
 		<item>
-			<title>Les liles (Barcelone)</title>
-			<link>https://archityp.es/les-liles-barcelone/</link>
-			<pubDate>Wed, 27 May 2026 15:00:00 +0000</pubDate>
-			<guid isPermaLink="true">https://archityp.es/les-liles-barcelone/</guid>
+			<title>Café lyrique (Genève)</title>
+			<link>http://localhost:1313/cafe-lyrique-geneve/</link>
+			<pubDate>Mon, 31 Aug 2026 15:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/cafe-lyrique-geneve/</guid>
 			<dc:creator>Anthony Nelzin-Santos</dc:creator>
 			
 			
 				
-				<category domain="https://archityp.es/de/barcelone-es/">Barcelone 🇪🇸</category>
+				<category domain="http://localhost:1313/de/geneve-ch/">Genève 🇨🇭</category>
 			
 			
-			<description><![CDATA[Photo prise en novembre 2021. C&rsquo;est du toc, mais puisque le violet est ma couleur favorite&hellip;
+			<description><![CDATA[Photo prise en mars 2022. Lyrique jusque dans les choix typographiques.
 ]]></description>
 			
 			<content:encoded><![CDATA[
-			<p><img src="https://archityp.es/les-liles-barcelone/feature_hu_c30f70c4797af3d0.jpg" alt="Les liles (Barcelone)" /></p>
-			<p>Photo prise en novembre 2021. C&rsquo;est du toc, mais puisque le violet est ma couleur favorite&hellip;</p>
+			<p><img src="http://localhost:1313/cafe-lyrique-geneve/feature_hu_6ccc033ff7e05810.jpg" alt="Café lyrique (Genève)" /></p>
+			<p>Photo prise en mars 2022. Lyrique jusque dans les choix typographiques.</p>
 
-			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fles-liles-barcelone%2f" alt="" style="width:1px;height:1px;border:0;" />
+			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fcafe-lyrique-geneve%2f" alt="" style="width:1px;height:1px;border:0;" />
 			]]></content:encoded>
 			
 			
-			<enclosure url="https://archityp.es/les-liles-barcelone/feature_hu_c30f70c4797af3d0.jpg" type="image/jpeg" length="0" />
-			<media:content url="https://archityp.es/les-liles-barcelone/feature_hu_c30f70c4797af3d0.jpg" medium="image" type="image/jpeg">
-			<media:title type="plain">Les liles (Barcelone)</media:title>
+			<enclosure url="http://localhost:1313/cafe-lyrique-geneve/feature_hu_6ccc033ff7e05810.jpg" type="image/jpeg" length="0" />
+			<media:content url="http://localhost:1313/cafe-lyrique-geneve/feature_hu_6ccc033ff7e05810.jpg" medium="image" type="image/jpeg">
+			<media:title type="plain">Café lyrique (Genève)</media:title>
 			
 			</media:content>
-			<media:thumbnail url="https://archityp.es/les-liles-barcelone/feature_hu_2545f071f407aec.jpg" />
+			<media:thumbnail url="http://localhost:1313/cafe-lyrique-geneve/feature_hu_dae9382bce2b8d87.jpg" />
 			
 		</item>
 		
@@ -430,34 +430,34 @@
 		
 		
 		<item>
-			<title>Don Perro (Barcelone)</title>
-			<link>https://archityp.es/don-perro-barcelone/</link>
-			<pubDate>Sun, 24 May 2026 15:00:25 +0000</pubDate>
-			<guid isPermaLink="true">https://archityp.es/don-perro-barcelone/</guid>
+			<title>Ciné 17 (Genève)</title>
+			<link>http://localhost:1313/cine-17-geneve/</link>
+			<pubDate>Fri, 28 Aug 2026 15:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/cine-17-geneve/</guid>
 			<dc:creator>Anthony Nelzin-Santos</dc:creator>
 			
 			
 				
-				<category domain="https://archityp.es/de/barcelone-es/">Barcelone 🇪🇸</category>
+				<category domain="http://localhost:1313/de/geneve-ch/">Genève 🇨🇭</category>
 			
 			
-			<description><![CDATA[Photo prise en novembre 2021. Une enseigne qui a du chien (bis).
+			<description><![CDATA[Photo prise en mars 2022. Qui l’eût cru ? Un « n » n’est jamais qu’une succession de « i ».
 ]]></description>
 			
 			<content:encoded><![CDATA[
-			<p><img src="https://archityp.es/don-perro-barcelone/feature_hu_42d0170a114eaa02.jpg" alt="Don Perro (Barcelone)" /></p>
-			<p>Photo prise en novembre 2021. Une enseigne qui a du chien (<a href="/les-chiens-du-guet-saint-malo/">bis</a>).</p>
+			<p><img src="http://localhost:1313/cine-17-geneve/feature_hu_251a9ba748203907.jpg" alt="Ciné 17 (Genève)" /></p>
+			<p>Photo prise en mars 2022. Qui l’eût cru ? Un « n » n’est jamais qu’une succession de « i ».</p>
 
-			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fdon-perro-barcelone%2f" alt="" style="width:1px;height:1px;border:0;" />
+			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fcine-17-geneve%2f" alt="" style="width:1px;height:1px;border:0;" />
 			]]></content:encoded>
 			
 			
-			<enclosure url="https://archityp.es/don-perro-barcelone/feature_hu_42d0170a114eaa02.jpg" type="image/jpeg" length="0" />
-			<media:content url="https://archityp.es/don-perro-barcelone/feature_hu_42d0170a114eaa02.jpg" medium="image" type="image/jpeg">
-			<media:title type="plain">Don Perro (Barcelone)</media:title>
+			<enclosure url="http://localhost:1313/cine-17-geneve/feature_hu_251a9ba748203907.jpg" type="image/jpeg" length="0" />
+			<media:content url="http://localhost:1313/cine-17-geneve/feature_hu_251a9ba748203907.jpg" medium="image" type="image/jpeg">
+			<media:title type="plain">Ciné 17 (Genève)</media:title>
 			
 			</media:content>
-			<media:thumbnail url="https://archityp.es/don-perro-barcelone/feature_hu_e1ecb06b1fcfbefd.jpg" />
+			<media:thumbnail url="http://localhost:1313/cine-17-geneve/feature_hu_c3727743d5a3c455.jpg" />
 			
 		</item>
 		
@@ -467,70 +467,34 @@
 		
 		
 		<item>
-			<title>Bar Gaspart (Barcelone)</title>
-			<link>https://archityp.es/bar-gaspart-barcelone/</link>
-			<pubDate>Thu, 21 May 2026 15:00:29 +0000</pubDate>
-			<guid isPermaLink="true">https://archityp.es/bar-gaspart-barcelone/</guid>
+			<title>Choitel Opticien (Genève)</title>
+			<link>http://localhost:1313/choitel-opticien-geneve/</link>
+			<pubDate>Tue, 25 Aug 2026 15:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/choitel-opticien-geneve/</guid>
 			<dc:creator>Anthony Nelzin-Santos</dc:creator>
 			
 			
 				
-				<category domain="https://archityp.es/de/barcelone-es/">Barcelone 🇪🇸</category>
+				<category domain="http://localhost:1313/de/geneve-ch/">Genève 🇨🇭</category>
 			
 			
-			<description><![CDATA[Photo prise en novembre 2021. À chacun de mes passages à Barcelone, la devanture historique de l&rsquo;hôtel Oriente avait changé. Elle a d&rsquo;abord perdu sa partie droite, mentionnant l&rsquo;hôtel, grignotée par une suite de minuscules boutiques. Sa partie gauche consacrée …]]></description>
-			
-			<content:encoded><![CDATA[
-			<p><img src="https://archityp.es/bar-gaspart-barcelone/feature_hu_9cb511126d124f19.jpg" alt="Bar Gaspart (Barcelone)" /></p>
-			<p>Photo prise en novembre 2021. À chacun de mes passages à Barcelone, la devanture historique de l&rsquo;hôtel Oriente avait changé. Elle a d&rsquo;abord perdu sa partie droite, mentionnant l&rsquo;hôtel, grignotée par une suite de minuscules boutiques. Sa partie gauche consacrée au salon de thé subsiste, mais elle a été remodelée avec l&rsquo;ouverture de La Bodega Del Oriente, qui a absorbé le bar Gaspart. Et si cette partie centrale n&rsquo;a pas été affectée par les travaux des vingt dernières années, elle est plus récente que les autres, qui ont récemment fêté leur centenaire. Quand je vous dis que je fais de l&rsquo;archéotypographie !</p>
-
-			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fbar-gaspart-barcelone%2f" alt="" style="width:1px;height:1px;border:0;" />
-			]]></content:encoded>
-			
-			
-			<enclosure url="https://archityp.es/bar-gaspart-barcelone/feature_hu_9cb511126d124f19.jpg" type="image/jpeg" length="0" />
-			<media:content url="https://archityp.es/bar-gaspart-barcelone/feature_hu_9cb511126d124f19.jpg" medium="image" type="image/jpeg">
-			<media:title type="plain">Bar Gaspart (Barcelone)</media:title>
-			
-			</media:content>
-			<media:thumbnail url="https://archityp.es/bar-gaspart-barcelone/feature_hu_e1e5bafe3c9c9898.jpg" />
-			
-		</item>
-		
-		
-		
-		
-		
-		
-		<item>
-			<title>Farmacia Laboratorio (Barcelone)</title>
-			<link>https://archityp.es/farmacia-laboratorio-barcelone/</link>
-			<pubDate>Mon, 18 May 2026 15:00:22 +0000</pubDate>
-			<guid isPermaLink="true">https://archityp.es/farmacia-laboratorio-barcelone/</guid>
-			<dc:creator>Anthony Nelzin-Santos</dc:creator>
-			
-			
-				
-				<category domain="https://archityp.es/de/barcelone-es/">Barcelone 🇪🇸</category>
-			
-			
-			<description><![CDATA[Photo prise en novembre 2021. C&rsquo;est quand même plus classe que nos sempiternelles croix-thermomètres&hellip;
+			<description><![CDATA[Photo prise en mars 2022. Du neuf avec des yeux.
 ]]></description>
 			
 			<content:encoded><![CDATA[
-			<p><img src="https://archityp.es/farmacia-laboratorio-barcelone/feature_hu_2054db9dd1241253.jpg" alt="Farmacia Laboratorio (Barcelone)" /></p>
-			<p>Photo prise en novembre 2021. C&rsquo;est quand même plus classe que nos sempiternelles croix-thermomètres&hellip;</p>
+			<p><img src="http://localhost:1313/choitel-opticien-geneve/feature_hu_60bfc6be3076d7fb.jpg" alt="Choitel Opticien (Genève)" /></p>
+			<p>Photo prise en mars 2022. Du neuf avec des yeux.</p>
 
-			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2ffarmacia-laboratorio-barcelone%2f" alt="" style="width:1px;height:1px;border:0;" />
+			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fchoitel-opticien-geneve%2f" alt="" style="width:1px;height:1px;border:0;" />
 			]]></content:encoded>
 			
 			
-			<enclosure url="https://archityp.es/farmacia-laboratorio-barcelone/feature_hu_2054db9dd1241253.jpg" type="image/jpeg" length="0" />
-			<media:content url="https://archityp.es/farmacia-laboratorio-barcelone/feature_hu_2054db9dd1241253.jpg" medium="image" type="image/jpeg">
-			<media:title type="plain">Farmacia Laboratorio (Barcelone)</media:title>
+			<enclosure url="http://localhost:1313/choitel-opticien-geneve/feature_hu_60bfc6be3076d7fb.jpg" type="image/jpeg" length="0" />
+			<media:content url="http://localhost:1313/choitel-opticien-geneve/feature_hu_60bfc6be3076d7fb.jpg" medium="image" type="image/jpeg">
+			<media:title type="plain">Choitel Opticien (Genève)</media:title>
 			
 			</media:content>
-			<media:thumbnail url="https://archityp.es/farmacia-laboratorio-barcelone/feature_hu_3c40cd4072e4649e.jpg" />
+			<media:thumbnail url="http://localhost:1313/choitel-opticien-geneve/feature_hu_32bcb341125b1b89.jpg" />
 			
 		</item>
 		
@@ -540,34 +504,34 @@
 		
 		
 		<item>
-			<title>Bar Restaurant Guitó (Barcelone)</title>
-			<link>https://archityp.es/bar-restaurant-guito-barcelone/</link>
-			<pubDate>Fri, 15 May 2026 15:00:05 +0000</pubDate>
-			<guid isPermaLink="true">https://archityp.es/bar-restaurant-guito-barcelone/</guid>
+			<title>Papèterie Brachard (Genève)</title>
+			<link>http://localhost:1313/papeterie-brachard-geneve/</link>
+			<pubDate>Sat, 22 Aug 2026 15:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/papeterie-brachard-geneve/</guid>
 			<dc:creator>Anthony Nelzin-Santos</dc:creator>
 			
 			
 				
-				<category domain="https://archityp.es/de/barcelone-es/">Barcelone 🇪🇸</category>
+				<category domain="http://localhost:1313/de/geneve-ch/">Genève 🇨🇭</category>
 			
 			
-			<description><![CDATA[Photo prise en novembre 2021. Comme un air de diner à l&rsquo;heure du diner.
+			<description><![CDATA[Photo prise en mars 2022. Heureusement que j’étais en reportage, j’aurais pu repartir ruiné…
 ]]></description>
 			
 			<content:encoded><![CDATA[
-			<p><img src="https://archityp.es/bar-restaurant-guito-barcelone/feature_hu_a6d2820784d4d428.jpg" alt="Bar Restaurant Guitó (Barcelone)" /></p>
-			<p>Photo prise en novembre 2021. Comme un air de <em>diner</em> à l&rsquo;heure du diner.</p>
+			<p><img src="http://localhost:1313/papeterie-brachard-geneve/feature_hu_38ea394ef62984b2.jpg" alt="Papèterie Brachard (Genève)" /></p>
+			<p>Photo prise en mars 2022. Heureusement que j’étais en reportage, j’aurais pu repartir ruiné…</p>
 
-			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fbar-restaurant-guito-barcelone%2f" alt="" style="width:1px;height:1px;border:0;" />
+			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fpapeterie-brachard-geneve%2f" alt="" style="width:1px;height:1px;border:0;" />
 			]]></content:encoded>
 			
 			
-			<enclosure url="https://archityp.es/bar-restaurant-guito-barcelone/feature_hu_a6d2820784d4d428.jpg" type="image/jpeg" length="0" />
-			<media:content url="https://archityp.es/bar-restaurant-guito-barcelone/feature_hu_a6d2820784d4d428.jpg" medium="image" type="image/jpeg">
-			<media:title type="plain">Bar Restaurant Guitó (Barcelone)</media:title>
+			<enclosure url="http://localhost:1313/papeterie-brachard-geneve/feature_hu_38ea394ef62984b2.jpg" type="image/jpeg" length="0" />
+			<media:content url="http://localhost:1313/papeterie-brachard-geneve/feature_hu_38ea394ef62984b2.jpg" medium="image" type="image/jpeg">
+			<media:title type="plain">Papèterie Brachard (Genève)</media:title>
 			
 			</media:content>
-			<media:thumbnail url="https://archityp.es/bar-restaurant-guito-barcelone/feature_hu_8212072c60c44e82.jpg" />
+			<media:thumbnail url="http://localhost:1313/papeterie-brachard-geneve/feature_hu_23f62f3f1458929a.jpg" />
 			
 		</item>
 		
@@ -577,34 +541,34 @@
 		
 		
 		<item>
-			<title>Brocante (Lyon)</title>
-			<link>https://archityp.es/brocante-lyon/</link>
-			<pubDate>Tue, 12 May 2026 15:00:24 +0000</pubDate>
-			<guid isPermaLink="true">https://archityp.es/brocante-lyon/</guid>
+			<title>Parzini Fourrures (Genève)</title>
+			<link>http://localhost:1313/parzini-fourrures-geneve/</link>
+			<pubDate>Wed, 19 Aug 2026 15:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/parzini-fourrures-geneve/</guid>
 			<dc:creator>Anthony Nelzin-Santos</dc:creator>
 			
 			
 				
-				<category domain="https://archityp.es/de/lyon-fr/">Lyon 🇫🇷</category>
+				<category domain="http://localhost:1313/de/geneve-ch/">Genève 🇨🇭</category>
 			
 			
-			<description><![CDATA[Photo prise en octobre 2021. Qui a dit qu&rsquo;il ne fallait jamais utiliser plus de deux polices ?
+			<description><![CDATA[Photo prise en mars 2022. L’enseigne a disparu, mais l’incroyable liaison entre le « r » et le « z » a laissé des traces.
 ]]></description>
 			
 			<content:encoded><![CDATA[
-			<p><img src="https://archityp.es/brocante-lyon/feature_hu_b7d5cd35ca1d7d02.jpg" alt="Brocante (Lyon)" /></p>
-			<p>Photo prise en octobre 2021. Qui a dit qu&rsquo;il ne fallait jamais utiliser plus de deux polices ?</p>
+			<p><img src="http://localhost:1313/parzini-fourrures-geneve/feature_hu_7e5cf29651d2985e.jpg" alt="Parzini Fourrures (Genève)" /></p>
+			<p>Photo prise en mars 2022. L’enseigne a disparu, mais l’incroyable liaison entre le « r » et le « z » a laissé des traces.</p>
 
-			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fbrocante-lyon%2f" alt="" style="width:1px;height:1px;border:0;" />
+			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fparzini-fourrures-geneve%2f" alt="" style="width:1px;height:1px;border:0;" />
 			]]></content:encoded>
 			
 			
-			<enclosure url="https://archityp.es/brocante-lyon/feature_hu_b7d5cd35ca1d7d02.jpg" type="image/jpeg" length="0" />
-			<media:content url="https://archityp.es/brocante-lyon/feature_hu_b7d5cd35ca1d7d02.jpg" medium="image" type="image/jpeg">
-			<media:title type="plain">Brocante (Lyon)</media:title>
+			<enclosure url="http://localhost:1313/parzini-fourrures-geneve/feature_hu_7e5cf29651d2985e.jpg" type="image/jpeg" length="0" />
+			<media:content url="http://localhost:1313/parzini-fourrures-geneve/feature_hu_7e5cf29651d2985e.jpg" medium="image" type="image/jpeg">
+			<media:title type="plain">Parzini Fourrures (Genève)</media:title>
 			
 			</media:content>
-			<media:thumbnail url="https://archityp.es/brocante-lyon/feature_hu_c7fa4d65a6d6a73.jpg" />
+			<media:thumbnail url="http://localhost:1313/parzini-fourrures-geneve/feature_hu_9da3ff302384a77.jpg" />
 			
 		</item>
 		
@@ -614,34 +578,34 @@
 		
 		
 		<item>
-			<title>Sous le caillou (Lyon)</title>
-			<link>https://archityp.es/sous-le-caillou-lyon/</link>
-			<pubDate>Sat, 09 May 2026 15:00:29 +0000</pubDate>
-			<guid isPermaLink="true">https://archityp.es/sous-le-caillou-lyon/</guid>
+			<title>Usine Landont (Virieu-le-Grand)</title>
+			<link>http://localhost:1313/usine-landont-virieu-le-grand/</link>
+			<pubDate>Sun, 16 Aug 2026 15:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/usine-landont-virieu-le-grand/</guid>
 			<dc:creator>Anthony Nelzin-Santos</dc:creator>
 			
 			
 				
-				<category domain="https://archityp.es/de/lyon-fr/">Lyon 🇫🇷</category>
+				<category domain="http://localhost:1313/de/virieu-le-grand-fr/">Virieu-le-Grand 🇫🇷</category>
 			
 			
-			<description><![CDATA[Photo prise en septembre 2021. Soûl le caillou ?
+			<description><![CDATA[Photo prise en mars 2022. Une devanture que j’ai raté lors de mes précédents passages par la gare de Virieu-le-Grand, mais cette fois, j’avais préparé mon appareil à l’avance.
 ]]></description>
 			
 			<content:encoded><![CDATA[
-			<p><img src="https://archityp.es/sous-le-caillou-lyon/feature_hu_69fceea716ab310.jpg" alt="Sous le caillou (Lyon)" /></p>
-			<p>Photo prise en septembre 2021. Soûl le caillou ?</p>
+			<p><img src="http://localhost:1313/usine-landont-virieu-le-grand/feature_hu_d0b4b5e665cac6f.jpg" alt="Usine Landont (Virieu-le-Grand)" /></p>
+			<p>Photo prise en mars 2022. Une devanture que j’ai raté lors de mes précédents passages par la gare de Virieu-le-Grand, mais cette fois, j’avais préparé mon appareil à l’avance.</p>
 
-			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fsous-le-caillou-lyon%2f" alt="" style="width:1px;height:1px;border:0;" />
+			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fusine-landont-virieu-le-grand%2f" alt="" style="width:1px;height:1px;border:0;" />
 			]]></content:encoded>
 			
 			
-			<enclosure url="https://archityp.es/sous-le-caillou-lyon/feature_hu_69fceea716ab310.jpg" type="image/jpeg" length="0" />
-			<media:content url="https://archityp.es/sous-le-caillou-lyon/feature_hu_69fceea716ab310.jpg" medium="image" type="image/jpeg">
-			<media:title type="plain">Sous le caillou (Lyon)</media:title>
+			<enclosure url="http://localhost:1313/usine-landont-virieu-le-grand/feature_hu_d0b4b5e665cac6f.jpg" type="image/jpeg" length="0" />
+			<media:content url="http://localhost:1313/usine-landont-virieu-le-grand/feature_hu_d0b4b5e665cac6f.jpg" medium="image" type="image/jpeg">
+			<media:title type="plain">Usine Landont (Virieu-le-Grand)</media:title>
 			
 			</media:content>
-			<media:thumbnail url="https://archityp.es/sous-le-caillou-lyon/feature_hu_a3ebc1e487446b14.jpg" />
+			<media:thumbnail url="http://localhost:1313/usine-landont-virieu-le-grand/feature_hu_1dac06cdc924653d.jpg" />
 			
 		</item>
 		
@@ -651,34 +615,34 @@
 		
 		
 		<item>
-			<title>L’atelier du temps (Lyon)</title>
-			<link>https://archityp.es/latelier-du-temps-lyon/</link>
-			<pubDate>Wed, 06 May 2026 15:00:41 +0000</pubDate>
-			<guid isPermaLink="true">https://archityp.es/latelier-du-temps-lyon/</guid>
+			<title>Hôtel de la paix (Aix-les-Bains)</title>
+			<link>http://localhost:1313/hotel-de-la-paix-aix-les-bains/</link>
+			<pubDate>Thu, 13 Aug 2026 15:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/hotel-de-la-paix-aix-les-bains/</guid>
 			<dc:creator>Anthony Nelzin-Santos</dc:creator>
 			
 			
 				
-				<category domain="https://archityp.es/de/lyon-fr/">Lyon 🇫🇷</category>
+				<category domain="http://localhost:1313/de/aix-les-bains-fr/">Aix-les-Bains 🇫🇷</category>
 			
 			
-			<description><![CDATA[Photo prise en aout 2021. Avec le temps, va, tout s&rsquo;en va, y compris cette horlogerie d&rsquo;art.
+			<description><![CDATA[Photo prise en mars 2022. Cette italique inversée pour suivre la pente du toit valait bien que je brise mes règles habituelles de composition.
 ]]></description>
 			
 			<content:encoded><![CDATA[
-			<p><img src="https://archityp.es/latelier-du-temps-lyon/feature_hu_35e114541320550.jpg" alt="L’atelier du temps (Lyon)" /></p>
-			<p>Photo prise en aout 2021. Avec le temps, va, tout s&rsquo;en va, y compris cette horlogerie d&rsquo;art.</p>
+			<p><img src="http://localhost:1313/hotel-de-la-paix-aix-les-bains/feature_hu_a30eb8e732e5f9d1.jpg" alt="Hôtel de la paix (Aix-les-Bains)" /></p>
+			<p>Photo prise en mars 2022. Cette italique inversée pour suivre la pente du toit valait bien que je brise mes règles habituelles de composition.</p>
 
-			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2flatelier-du-temps-lyon%2f" alt="" style="width:1px;height:1px;border:0;" />
+			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fhotel-de-la-paix-aix-les-bains%2f" alt="" style="width:1px;height:1px;border:0;" />
 			]]></content:encoded>
 			
 			
-			<enclosure url="https://archityp.es/latelier-du-temps-lyon/feature_hu_35e114541320550.jpg" type="image/jpeg" length="0" />
-			<media:content url="https://archityp.es/latelier-du-temps-lyon/feature_hu_35e114541320550.jpg" medium="image" type="image/jpeg">
-			<media:title type="plain">L’atelier du temps (Lyon)</media:title>
+			<enclosure url="http://localhost:1313/hotel-de-la-paix-aix-les-bains/feature_hu_a30eb8e732e5f9d1.jpg" type="image/jpeg" length="0" />
+			<media:content url="http://localhost:1313/hotel-de-la-paix-aix-les-bains/feature_hu_a30eb8e732e5f9d1.jpg" medium="image" type="image/jpeg">
+			<media:title type="plain">Hôtel de la paix (Aix-les-Bains)</media:title>
 			
 			</media:content>
-			<media:thumbnail url="https://archityp.es/latelier-du-temps-lyon/feature_hu_ceb134521834634b.jpg" />
+			<media:thumbnail url="http://localhost:1313/hotel-de-la-paix-aix-les-bains/feature_hu_ab485e942d306e14.jpg" />
 			
 		</item>
 		
@@ -688,34 +652,34 @@
 		
 		
 		<item>
-			<title>Laverie automatique (Lyon)</title>
-			<link>https://archityp.es/laverie-automatique-lyon/</link>
-			<pubDate>Sun, 03 May 2026 15:00:40 +0000</pubDate>
-			<guid isPermaLink="true">https://archityp.es/laverie-automatique-lyon/</guid>
+			<title>Le point basque (Aix-les-Bains)</title>
+			<link>http://localhost:1313/le-point-basque-aix-les-bains/</link>
+			<pubDate>Mon, 10 Aug 2026 15:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/le-point-basque-aix-les-bains/</guid>
 			<dc:creator>Anthony Nelzin-Santos</dc:creator>
 			
 			
 				
-				<category domain="https://archityp.es/de/lyon-fr/">Lyon 🇫🇷</category>
+				<category domain="http://localhost:1313/de/aix-les-bains-fr/">Aix-les-Bains 🇫🇷</category>
 			
 			
-			<description><![CDATA[Photo prise en juillet 2021. Une devanture qui donne la banane.
+			<description><![CDATA[Photo prise en mars 2022. Pourquoi choisir entre deux polices quand on peut en utiliser cinq ? (Dont Banco.) L’hôtel voisin n’est pas mal non plus.
 ]]></description>
 			
 			<content:encoded><![CDATA[
-			<p><img src="https://archityp.es/laverie-automatique-lyon/feature_hu_44b9074e45106e92.jpg" alt="Laverie automatique (Lyon)" /></p>
-			<p>Photo prise en juillet 2021. Une devanture qui donne la banane.</p>
+			<p><img src="http://localhost:1313/le-point-basque-aix-les-bains/feature_hu_d36ee93cf80b5722.jpg" alt="Le point basque (Aix-les-Bains)" /></p>
+			<p>Photo prise en mars 2022. Pourquoi choisir entre deux polices quand on peut en utiliser cinq ? (Dont <a href="https://fr.wikipedia.org/wiki/Banco_(police_de_caract%C3%A8res)">Banco</a>.) L’hôtel voisin n’est pas mal non plus.</p>
 
-			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2flaverie-automatique-lyon%2f" alt="" style="width:1px;height:1px;border:0;" />
+			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fle-point-basque-aix-les-bains%2f" alt="" style="width:1px;height:1px;border:0;" />
 			]]></content:encoded>
 			
 			
-			<enclosure url="https://archityp.es/laverie-automatique-lyon/feature_hu_44b9074e45106e92.jpg" type="image/jpeg" length="0" />
-			<media:content url="https://archityp.es/laverie-automatique-lyon/feature_hu_44b9074e45106e92.jpg" medium="image" type="image/jpeg">
-			<media:title type="plain">Laverie automatique (Lyon)</media:title>
+			<enclosure url="http://localhost:1313/le-point-basque-aix-les-bains/feature_hu_d36ee93cf80b5722.jpg" type="image/jpeg" length="0" />
+			<media:content url="http://localhost:1313/le-point-basque-aix-les-bains/feature_hu_d36ee93cf80b5722.jpg" medium="image" type="image/jpeg">
+			<media:title type="plain">Le point basque (Aix-les-Bains)</media:title>
 			
 			</media:content>
-			<media:thumbnail url="https://archityp.es/laverie-automatique-lyon/feature_hu_dc4c92c25b3ec54.jpg" />
+			<media:thumbnail url="http://localhost:1313/le-point-basque-aix-les-bains/feature_hu_2e684e0bf650e523.jpg" />
 			
 		</item>
 		
@@ -725,34 +689,34 @@
 		
 		
 		<item>
-			<title>Boucherie Jeandel (Lyon)</title>
-			<link>https://archityp.es/boucherie-jeandel-lyon/</link>
-			<pubDate>Thu, 30 Apr 2026 15:00:31 +0000</pubDate>
-			<guid isPermaLink="true">https://archityp.es/boucherie-jeandel-lyon/</guid>
+			<title>Modes (Aix-les-Bains)</title>
+			<link>http://localhost:1313/modes-aix-les-bains/</link>
+			<pubDate>Fri, 07 Aug 2026 15:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/modes-aix-les-bains/</guid>
 			<dc:creator>Anthony Nelzin-Santos</dc:creator>
 			
 			
 				
-				<category domain="https://archityp.es/de/lyon-fr/">Lyon 🇫🇷</category>
+				<category domain="http://localhost:1313/de/aix-les-bains-fr/">Aix-les-Bains 🇫🇷</category>
 			
 			
-			<description><![CDATA[Photo prise en juillet 2021. Il y a quelques années, la porte était encore surmontée du mot « triperie » en lettres rouges, composé en Avant Garde Gothic. Qu&rsquo;importe, cela reste la meilleure boucherie de Lyon.
+			<description><![CDATA[Photo prise en mars 2022. Le fronton ne correspond plus à la boutique, mais la boutique a gardé l’esprit du fronton.
 ]]></description>
 			
 			<content:encoded><![CDATA[
-			<p><img src="https://archityp.es/boucherie-jeandel-lyon/feature_hu_e3486fe64194164d.jpg" alt="Boucherie Jeandel (Lyon)" /></p>
-			<p>Photo prise en juillet 2021. Il y a quelques années, la porte était encore surmontée du mot « triperie » en lettres rouges, composé en <a href="https://fontsinuse.com/typefaces/1143/itc-avant-garde-gothic">Avant Garde Gothic</a>. Qu&rsquo;importe, cela reste la meilleure boucherie de Lyon.</p>
+			<p><img src="http://localhost:1313/modes-aix-les-bains/feature_hu_4cd0437e08389e8d.jpg" alt="Modes (Aix-les-Bains)" /></p>
+			<p>Photo prise en mars 2022. Le fronton ne correspond plus à la boutique, mais la boutique a gardé l’esprit du fronton.</p>
 
-			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fboucherie-jeandel-lyon%2f" alt="" style="width:1px;height:1px;border:0;" />
+			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fmodes-aix-les-bains%2f" alt="" style="width:1px;height:1px;border:0;" />
 			]]></content:encoded>
 			
 			
-			<enclosure url="https://archityp.es/boucherie-jeandel-lyon/feature_hu_e3486fe64194164d.jpg" type="image/jpeg" length="0" />
-			<media:content url="https://archityp.es/boucherie-jeandel-lyon/feature_hu_e3486fe64194164d.jpg" medium="image" type="image/jpeg">
-			<media:title type="plain">Boucherie Jeandel (Lyon)</media:title>
+			<enclosure url="http://localhost:1313/modes-aix-les-bains/feature_hu_4cd0437e08389e8d.jpg" type="image/jpeg" length="0" />
+			<media:content url="http://localhost:1313/modes-aix-les-bains/feature_hu_4cd0437e08389e8d.jpg" medium="image" type="image/jpeg">
+			<media:title type="plain">Modes (Aix-les-Bains)</media:title>
 			
 			</media:content>
-			<media:thumbnail url="https://archityp.es/boucherie-jeandel-lyon/feature_hu_ee390240732da339.jpg" />
+			<media:thumbnail url="http://localhost:1313/modes-aix-les-bains/feature_hu_239847868e94f407.jpg" />
 			
 		</item>
 		
@@ -762,34 +726,34 @@
 		
 		
 		<item>
-			<title>Le point de repère (Lyon)</title>
-			<link>https://archityp.es/le-point-de-repere-lyon/</link>
-			<pubDate>Mon, 27 Apr 2026 15:00:04 +0000</pubDate>
-			<guid isPermaLink="true">https://archityp.es/le-point-de-repere-lyon/</guid>
+			<title>Pompes funèbres Sedran (Aix-les-Bains)</title>
+			<link>http://localhost:1313/pompes-funebres-sedran-aix-les-bains/</link>
+			<pubDate>Tue, 04 Aug 2026 15:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/pompes-funebres-sedran-aix-les-bains/</guid>
 			<dc:creator>Anthony Nelzin-Santos</dc:creator>
 			
 			
 				
-				<category domain="https://archityp.es/de/lyon-fr/">Lyon 🇫🇷</category>
+				<category domain="http://localhost:1313/de/aix-les-bains-fr/">Aix-les-Bains 🇫🇷</category>
 			
 			
-			<description><![CDATA[Photo prise en juillet 2021. Un repère qui a malheureusement disparu.
+			<description><![CDATA[Photo prise en mars 2022. Tout en sobriété.
 ]]></description>
 			
 			<content:encoded><![CDATA[
-			<p><img src="https://archityp.es/le-point-de-repere-lyon/feature_hu_98ae43ff982810f6.jpg" alt="Le point de repère (Lyon)" /></p>
-			<p>Photo prise en juillet 2021. Un repère qui a malheureusement disparu.</p>
+			<p><img src="http://localhost:1313/pompes-funebres-sedran-aix-les-bains/feature_hu_738c38a7b943cf13.jpg" alt="Pompes funèbres Sedran (Aix-les-Bains)" /></p>
+			<p>Photo prise en mars 2022. Tout en sobriété.</p>
 
-			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fle-point-de-repere-lyon%2f" alt="" style="width:1px;height:1px;border:0;" />
+			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fpompes-funebres-sedran-aix-les-bains%2f" alt="" style="width:1px;height:1px;border:0;" />
 			]]></content:encoded>
 			
 			
-			<enclosure url="https://archityp.es/le-point-de-repere-lyon/feature_hu_98ae43ff982810f6.jpg" type="image/jpeg" length="0" />
-			<media:content url="https://archityp.es/le-point-de-repere-lyon/feature_hu_98ae43ff982810f6.jpg" medium="image" type="image/jpeg">
-			<media:title type="plain">Le point de repère (Lyon)</media:title>
+			<enclosure url="http://localhost:1313/pompes-funebres-sedran-aix-les-bains/feature_hu_738c38a7b943cf13.jpg" type="image/jpeg" length="0" />
+			<media:content url="http://localhost:1313/pompes-funebres-sedran-aix-les-bains/feature_hu_738c38a7b943cf13.jpg" medium="image" type="image/jpeg">
+			<media:title type="plain">Pompes funèbres Sedran (Aix-les-Bains)</media:title>
 			
 			</media:content>
-			<media:thumbnail url="https://archityp.es/le-point-de-repere-lyon/feature_hu_d64a841ab4f9106e.jpg" />
+			<media:thumbnail url="http://localhost:1313/pompes-funebres-sedran-aix-les-bains/feature_hu_732f8a90e58609dd.jpg" />
 			
 		</item>
 		
@@ -799,34 +763,34 @@
 		
 		
 		<item>
-			<title>Le petit train bleu (Lyon)</title>
-			<link>https://archityp.es/le-petit-train-bleu-lyon/</link>
-			<pubDate>Fri, 24 Apr 2026 15:00:25 +0000</pubDate>
-			<guid isPermaLink="true">https://archityp.es/le-petit-train-bleu-lyon/</guid>
+			<title>Ponton Rossignoli (Aix-les-Bains)</title>
+			<link>http://localhost:1313/ponton-rossignoli-aix-les-bains/</link>
+			<pubDate>Sat, 01 Aug 2026 15:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/ponton-rossignoli-aix-les-bains/</guid>
 			<dc:creator>Anthony Nelzin-Santos</dc:creator>
 			
 			
 				
-				<category domain="https://archityp.es/de/lyon-fr/">Lyon 🇫🇷</category>
+				<category domain="http://localhost:1313/de/aix-les-bains-fr/">Aix-les-Bains 🇫🇷</category>
 			
 			
-			<description><![CDATA[Photo prise en juillet 2021. J&rsquo;entends siffler l&rsquo;italique.
+			<description><![CDATA[Photo prise en mars 2022. Certain(e)s n’ont visiblement pas lu les avertissements.
 ]]></description>
 			
 			<content:encoded><![CDATA[
-			<p><img src="https://archityp.es/le-petit-train-bleu-lyon/feature_hu_b9d280510596b812.jpg" alt="Le petit train bleu (Lyon)" /></p>
-			<p>Photo prise en juillet 2021. J&rsquo;entends siffler l&rsquo;italique.</p>
+			<p><img src="http://localhost:1313/ponton-rossignoli-aix-les-bains/feature_hu_3bc61cb22e1008f6.jpg" alt="Ponton Rossignoli (Aix-les-Bains)" /></p>
+			<p>Photo prise en mars 2022. Certain(e)s n’ont visiblement pas lu les avertissements.</p>
 
-			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fle-petit-train-bleu-lyon%2f" alt="" style="width:1px;height:1px;border:0;" />
+			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fponton-rossignoli-aix-les-bains%2f" alt="" style="width:1px;height:1px;border:0;" />
 			]]></content:encoded>
 			
 			
-			<enclosure url="https://archityp.es/le-petit-train-bleu-lyon/feature_hu_b9d280510596b812.jpg" type="image/jpeg" length="0" />
-			<media:content url="https://archityp.es/le-petit-train-bleu-lyon/feature_hu_b9d280510596b812.jpg" medium="image" type="image/jpeg">
-			<media:title type="plain">Le petit train bleu (Lyon)</media:title>
+			<enclosure url="http://localhost:1313/ponton-rossignoli-aix-les-bains/feature_hu_3bc61cb22e1008f6.jpg" type="image/jpeg" length="0" />
+			<media:content url="http://localhost:1313/ponton-rossignoli-aix-les-bains/feature_hu_3bc61cb22e1008f6.jpg" medium="image" type="image/jpeg">
+			<media:title type="plain">Ponton Rossignoli (Aix-les-Bains)</media:title>
 			
 			</media:content>
-			<media:thumbnail url="https://archityp.es/le-petit-train-bleu-lyon/feature_hu_65abd2e73f7fa5c1.jpg" />
+			<media:thumbnail url="http://localhost:1313/ponton-rossignoli-aix-les-bains/feature_hu_a792876c1117d9a4.jpg" />
 			
 		</item>
 		
@@ -836,70 +800,108 @@
 		
 		
 		<item>
-			<title>Pipes J. Nicolas (Lyon)</title>
-			<link>https://archityp.es/pipes-j-nicolas-lyon/</link>
-			<pubDate>Tue, 21 Apr 2026 15:00:55 +0000</pubDate>
-			<guid isPermaLink="true">https://archityp.es/pipes-j-nicolas-lyon/</guid>
+			<title>Piscine (Aix-les-Bains)</title>
+			<link>http://localhost:1313/piscine-aix-les-bains/</link>
+			<pubDate>Wed, 29 Jul 2026 15:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/piscine-aix-les-bains/</guid>
 			<dc:creator>Anthony Nelzin-Santos</dc:creator>
 			
 			
 				
-				<category domain="https://archityp.es/de/lyon-fr/">Lyon 🇫🇷</category>
+				<category domain="http://localhost:1313/de/aix-les-bains-fr/">Aix-les-Bains 🇫🇷</category>
 			
 			
-			<description><![CDATA[Photo prise en juillet 2021. Une maison fondée par Jean Nicolas en 1885, reprise par Jean Nicolas en 1922, qui laissé la main à Jean Nicolas en 1950, rejoint par Jean Nicolas dans les années 1960. L&rsquo;atelier est visible depuis la rue, c&rsquo;est peut-être la meilleure …]]></description>
-			
-			<content:encoded><![CDATA[
-			<p><img src="https://archityp.es/pipes-j-nicolas-lyon/feature_hu_331fe019025a1173.jpg" alt="Pipes J. Nicolas (Lyon)" /></p>
-			<p>Photo prise en juillet 2021. Une maison fondée par Jean Nicolas en 1885, reprise par Jean Nicolas en 1922, qui laissé la main à Jean Nicolas en 1950, rejoint par Jean Nicolas dans les années 1960. L&rsquo;atelier est visible depuis la rue, c&rsquo;est peut-être la meilleure attraction du quartier.</p>
-
-			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fpipes-j-nicolas-lyon%2f" alt="" style="width:1px;height:1px;border:0;" />
-			]]></content:encoded>
-			
-			
-			<enclosure url="https://archityp.es/pipes-j-nicolas-lyon/feature_hu_331fe019025a1173.jpg" type="image/jpeg" length="0" />
-			<media:content url="https://archityp.es/pipes-j-nicolas-lyon/feature_hu_331fe019025a1173.jpg" medium="image" type="image/jpeg">
-			<media:title type="plain">Pipes J. Nicolas (Lyon)</media:title>
-			
-			</media:content>
-			<media:thumbnail url="https://archityp.es/pipes-j-nicolas-lyon/feature_hu_d65d33eb8b1bc7d1.jpg" />
-			
-		</item>
-		
-		
-		
-		
-		
-		
-		<item>
-			<title>Mille et une pages (Lyon)</title>
-			<link>https://archityp.es/mille-et-une-pages-lyon/</link>
-			<pubDate>Sat, 18 Apr 2026 15:00:27 +0000</pubDate>
-			<guid isPermaLink="true">https://archityp.es/mille-et-une-pages-lyon/</guid>
-			<dc:creator>Anthony Nelzin-Santos</dc:creator>
-			
-			
-				
-				<category domain="https://archityp.es/de/lyon-fr/">Lyon 🇫🇷</category>
-			
-			
-			<description><![CDATA[Photo prise en février 2021. Une librairie fermée à deux pas d’une autre librairie fermée – mille et une pages d&rsquo;un bouquin fort triste.
+			<description><![CDATA[Photo prise en mars 2022. Quand la piscine est un musée.
 ]]></description>
 			
 			<content:encoded><![CDATA[
-			<p><img src="https://archityp.es/mille-et-une-pages-lyon/feature_hu_6e7f2461e55a2331.jpg" alt="Mille et une pages (Lyon)" /></p>
-			<p>Photo prise en février 2021. Une librairie fermée à deux pas <a href="/au-trait-dunion-lyon/">d’une autre librairie fermée</a> – mille et une pages d&rsquo;un bouquin fort triste.</p>
+			<p><img src="http://localhost:1313/piscine-aix-les-bains/feature_hu_e33ed0d31801243c.jpg" alt="Piscine (Aix-les-Bains)" /></p>
+			<p>Photo prise en mars 2022. Quand la piscine est un musée.</p>
 
-			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fmille-et-une-pages-lyon%2f" alt="" style="width:1px;height:1px;border:0;" />
+			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fpiscine-aix-les-bains%2f" alt="" style="width:1px;height:1px;border:0;" />
 			]]></content:encoded>
 			
 			
-			<enclosure url="https://archityp.es/mille-et-une-pages-lyon/feature_hu_6e7f2461e55a2331.jpg" type="image/jpeg" length="0" />
-			<media:content url="https://archityp.es/mille-et-une-pages-lyon/feature_hu_6e7f2461e55a2331.jpg" medium="image" type="image/jpeg">
-			<media:title type="plain">Mille et une pages (Lyon)</media:title>
+			<enclosure url="http://localhost:1313/piscine-aix-les-bains/feature_hu_e33ed0d31801243c.jpg" type="image/jpeg" length="0" />
+			<media:content url="http://localhost:1313/piscine-aix-les-bains/feature_hu_e33ed0d31801243c.jpg" medium="image" type="image/jpeg">
+			<media:title type="plain">Piscine (Aix-les-Bains)</media:title>
 			
 			</media:content>
-			<media:thumbnail url="https://archityp.es/mille-et-une-pages-lyon/feature_hu_bf18c6e87f027fcd.jpg" />
+			<media:thumbnail url="http://localhost:1313/piscine-aix-les-bains/feature_hu_eae62e7be41eec12.jpg" />
+			
+		</item>
+		
+		
+		
+		
+		
+		
+		<item>
+			<title>Bijouterie Numigem (Aix-les-Bains)</title>
+			<link>http://localhost:1313/bijouterie-numigem-aix-les-bains/</link>
+			<pubDate>Sun, 26 Jul 2026 15:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/bijouterie-numigem-aix-les-bains/</guid>
+			<dc:creator>Anthony Nelzin-Santos</dc:creator>
+			
+			
+				
+				<category domain="http://localhost:1313/de/aix-les-bains-fr/">Aix-les-Bains 🇫🇷</category>
+			
+			
+			<description><![CDATA[Photo prise en mars 2022. Une police qui vaut son pesant d’or.
+]]></description>
+			
+			<content:encoded><![CDATA[
+			<p><img src="http://localhost:1313/bijouterie-numigem-aix-les-bains/feature_hu_49f235d69e194f82.jpg" alt="Bijouterie Numigem (Aix-les-Bains)" /></p>
+			<p>Photo prise en mars 2022. Une police qui vaut son pesant d’or.</p>
+
+			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fbijouterie-numigem-aix-les-bains%2f" alt="" style="width:1px;height:1px;border:0;" />
+			]]></content:encoded>
+			
+			
+			<enclosure url="http://localhost:1313/bijouterie-numigem-aix-les-bains/feature_hu_49f235d69e194f82.jpg" type="image/jpeg" length="0" />
+			<media:content url="http://localhost:1313/bijouterie-numigem-aix-les-bains/feature_hu_49f235d69e194f82.jpg" medium="image" type="image/jpeg">
+			<media:title type="plain">Bijouterie Numigem (Aix-les-Bains)</media:title>
+			
+			</media:content>
+			<media:thumbnail url="http://localhost:1313/bijouterie-numigem-aix-les-bains/feature_hu_370621e712f63b3b.jpg" />
+			
+		</item>
+		
+		
+		
+		
+		
+		
+		<item>
+			<title>Hôtel Savoy (Aix-les-Bains)</title>
+			<link>http://localhost:1313/hotel-savoy-aix-les-bains/</link>
+			<pubDate>Thu, 23 Jul 2026 15:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/hotel-savoy-aix-les-bains/</guid>
+			<dc:creator>Anthony Nelzin-Santos</dc:creator>
+			
+			
+				
+				<category domain="http://localhost:1313/de/aix-les-bains-fr/">Aix-les-Bains 🇫🇷</category>
+			
+			
+			<description><![CDATA[Photo prise en mars 2022. La force tranquille du luxe discret.
+]]></description>
+			
+			<content:encoded><![CDATA[
+			<p><img src="http://localhost:1313/hotel-savoy-aix-les-bains/feature_hu_ac25172091cf7780.jpg" alt="Hôtel Savoy (Aix-les-Bains)" /></p>
+			<p>Photo prise en mars 2022. La force tranquille du luxe discret.</p>
+
+			<img src="https://tinylytics.app/pixel/bUqbbv9aC4svM35xagZs.gif?path=%2fhotel-savoy-aix-les-bains%2f" alt="" style="width:1px;height:1px;border:0;" />
+			]]></content:encoded>
+			
+			
+			<enclosure url="http://localhost:1313/hotel-savoy-aix-les-bains/feature_hu_ac25172091cf7780.jpg" type="image/jpeg" length="0" />
+			<media:content url="http://localhost:1313/hotel-savoy-aix-les-bains/feature_hu_ac25172091cf7780.jpg" medium="image" type="image/jpeg">
+			<media:title type="plain">Hôtel Savoy (Aix-les-Bains)</media:title>
+			
+			</media:content>
+			<media:thumbnail url="http://localhost:1313/hotel-savoy-aix-les-bains/feature_hu_d0578d7201179111.jpg" />
 			
 		</item>
 		
