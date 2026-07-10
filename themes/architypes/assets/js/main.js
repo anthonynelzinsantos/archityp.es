@@ -87,6 +87,21 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     });
 
+    // Le libellé du bouton de filtre suit l'état de la palette
+    (function () {
+        const filterButton = document.querySelector('.filter');
+        const filterPalette = document.getElementById('filter-palette');
+        if (!filterButton || !filterPalette) return;
+
+        filterPalette.addEventListener('toggle', function (e) {
+            const title = e.newState === 'open'
+                ? 'Fermer le filtre'
+                : 'Filtrer les architypes';
+            filterButton.title = title;
+            filterButton.setAttribute('aria-label', title);
+        });
+    })();
+
     // Popover
     (function () {
         const dialog = document.querySelector('.article-popover');

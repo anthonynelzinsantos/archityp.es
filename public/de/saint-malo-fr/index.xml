@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saint-Malo 🇫🇷 on Architypes</title>
-    <link>http://localhost:1313/de/saint-malo-fr/</link>
+    <link>https://archityp.es/de/saint-malo-fr/</link>
     <description>Recent content in Saint-Malo 🇫🇷 on Architypes</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
     <lastBuildDate>Thu, 31 Jul 2025 15:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/de/saint-malo-fr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://archityp.es/de/saint-malo-fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coiffeur (Saint-Malo)</title>
-      <link>http://localhost:1313/coiffeur-saint-malo/</link>
+      <link>https://archityp.es/coiffeur-saint-malo/</link>
       <pubDate>Thu, 31 Jul 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/coiffeur-saint-malo/</guid>
+      <guid>https://archityp.es/coiffeur-saint-malo/</guid>
       <description>&lt;p&gt;Photo prise en février 2018. Pour un peu, ce « R » tomberait la tête la première.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Librairie Septentrion (Saint-Malo)</title>
-      <link>http://localhost:1313/librairie-septentrion-saint-malo/</link>
+      <link>https://archityp.es/librairie-septentrion-saint-malo/</link>
       <pubDate>Tue, 29 Jul 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/librairie-septentrion-saint-malo/</guid>
+      <guid>https://archityp.es/librairie-septentrion-saint-malo/</guid>
       <description>&lt;p&gt;Photo prise en février 2018. Est-ce un « a », ou une pantoufle ?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bistrot du rocher (Saint-Malo)</title>
-      <link>http://localhost:1313/bistrot-du-rocher-saint-malo/</link>
+      <link>https://archityp.es/bistrot-du-rocher-saint-malo/</link>
       <pubDate>Sat, 26 Jul 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bistrot-du-rocher-saint-malo/</guid>
+      <guid>https://archityp.es/bistrot-du-rocher-saint-malo/</guid>
       <description>&lt;p&gt;Photo prise en février 2018. Breton de l&amp;rsquo;O en bas.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Les chiens du guet (Saint-Malo)</title>
-      <link>http://localhost:1313/les-chiens-du-guet-saint-malo/</link>
+      <link>https://archityp.es/les-chiens-du-guet-saint-malo/</link>
       <pubDate>Thu, 24 Jul 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/les-chiens-du-guet-saint-malo/</guid>
+      <guid>https://archityp.es/les-chiens-du-guet-saint-malo/</guid>
       <description>&lt;p&gt;Photo prise en février 2018. Voilà une devanture qui a du chien !&lt;/p&gt;</description>
     </item>
     <item>
       <title>Café de l’Ouest (Saint-Malo)</title>
-      <link>http://localhost:1313/cafe-de-louest-saint-malo/</link>
+      <link>https://archityp.es/cafe-de-louest-saint-malo/</link>
       <pubDate>Tue, 22 Jul 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cafe-de-louest-saint-malo/</guid>
+      <guid>https://archityp.es/cafe-de-louest-saint-malo/</guid>
       <description>&lt;p&gt;Photo prise en février 2018. La crème brûlée était aussi prétentieuse que le reste de la carte, preuve qu&amp;rsquo;en matière de typographie aussi, ce café est à l&amp;rsquo;ouest.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Émeraude Palace (Saint-Malo)</title>
-      <link>http://localhost:1313/emeraude-palace-saint-malo/</link>
+      <link>https://archityp.es/emeraude-palace-saint-malo/</link>
       <pubDate>Sat, 19 Jul 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/emeraude-palace-saint-malo/</guid>
+      <guid>https://archityp.es/emeraude-palace-saint-malo/</guid>
       <description>&lt;p&gt;Photo prise en février 2018. Pas lace.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,53 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Genève 🇨🇭 on Architypes</title>
-    <link>http://localhost:1313/de/geneve-ch/</link>
+    <link>https://archityp.es/de/geneve-ch/</link>
     <description>Recent content in Genève 🇨🇭 on Architypes</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 03 Sep 2026 15:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/de/geneve-ch/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Art Vidéo (Genève)</title>
-      <link>http://localhost:1313/art-video-geneve/</link>
-      <pubDate>Thu, 03 Sep 2026 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art-video-geneve/</guid>
-      <description>&lt;p&gt;Photo pris en mars 2022. Une publicité de 1996, un logo de 1985, &lt;a href=&#34;https://en.wikipedia.org/wiki/Cooper_Black&#34;&gt;une police de 1922&lt;/a&gt;… C’est pratiquement de l’art (vidéo).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Café lyrique (Genève)</title>
-      <link>http://localhost:1313/cafe-lyrique-geneve/</link>
-      <pubDate>Mon, 31 Aug 2026 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cafe-lyrique-geneve/</guid>
-      <description>&lt;p&gt;Photo prise en mars 2022. Lyrique jusque dans les choix typographiques.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ciné 17 (Genève)</title>
-      <link>http://localhost:1313/cine-17-geneve/</link>
-      <pubDate>Fri, 28 Aug 2026 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cine-17-geneve/</guid>
-      <description>&lt;p&gt;Photo prise en mars 2022. Qui l’eût cru ? Un « n » n’est jamais qu’une succession de « i ».&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Choitel Opticien (Genève)</title>
-      <link>http://localhost:1313/choitel-opticien-geneve/</link>
-      <pubDate>Tue, 25 Aug 2026 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/choitel-opticien-geneve/</guid>
-      <description>&lt;p&gt;Photo prise en mars 2022. Du neuf avec des yeux.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Papèterie Brachard (Genève)</title>
-      <link>http://localhost:1313/papeterie-brachard-geneve/</link>
-      <pubDate>Sat, 22 Aug 2026 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papeterie-brachard-geneve/</guid>
-      <description>&lt;p&gt;Photo prise en mars 2022. Heureusement que j’étais en reportage, j’aurais pu repartir ruiné…&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Parzini Fourrures (Genève)</title>
-      <link>http://localhost:1313/parzini-fourrures-geneve/</link>
-      <pubDate>Wed, 19 Aug 2026 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/parzini-fourrures-geneve/</guid>
-      <description>&lt;p&gt;Photo prise en mars 2022. L’enseigne a disparu, mais l’incroyable liaison entre le « r » et le « z » a laissé des traces.&lt;/p&gt;</description>
-    </item>
+    <atom:link href="https://archityp.es/de/geneve-ch/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

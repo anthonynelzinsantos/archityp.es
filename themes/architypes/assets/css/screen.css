@@ -19,6 +19,7 @@
 	--shadow-article: hsl(275 5% 5% / 90%);
 	--shadow-glass: hsl(275 15% 25% / 50%);
     
+    --button-size: 48px;
     --font: "Forma Mono", monospace;
     --size: clamp(1rem, 0.9375rem + 0.3125vw, 1.125rem);
     --space-3xs: clamp(0.25rem, 0.2188rem + 0.1563vw, 0.3125rem);
@@ -112,12 +113,12 @@ body.tag-template {
 		display: flex;
 			align-items: center;
 			justify-content: center;
-		height: 48px;
+		height: var(--button-size);
 		line-height: 0;
 		position: fixed;
 			bottom: var(--space-l);
 			left: var(--space-m);
-		width: 48px;
+		width: var(--button-size);
 		z-index: 2;
 		
 		&:focus, &:hover {
@@ -130,9 +131,9 @@ body.tag-template {
 		display: flex;
 			align-items: center;
 			justify-content: center;
-		height: 48px;
+		height: var(--button-size);
 		line-height: 1;
-		padding: 0 var(--space-xs) 0 calc(var(--space-xs) + 48px);
+		padding: 0 var(--space-xs) 0 calc(var(--space-xs) + var(--button-size));
 		position: fixed;
 			bottom: var(--space-l);
 			left: var(--space-m);
@@ -149,13 +150,13 @@ body.tag-template {
 		display: flex;
 			align-items: center;
 			justify-content: center;
-		height: 48px;
+		height: var(--button-size);
 		line-height: 0;
 		padding: 0;
 		position: fixed;
 			top: var(--space-l);
 			right: var(--space-m);
-		width: 48px;
+		width: var(--button-size);
 		z-index: 2;
 
 		&:focus-visible, &:hover {
@@ -187,15 +188,16 @@ body.tag-template {
 		font-size: small;
 		inset: auto;
 		margin: 0;
-		max-height: calc(100dvh - 2 * var(--space-l) - 48px);
+		max-height: calc(100dvh - 2 * var(--space-l) - var(--button-size) - var(--space-2xs));
 		max-width: calc(100vw - 2 * var(--space-m));
 		opacity: 0;
 		overflow-y: auto;
 		padding: var(--space-2xs);
 		position: fixed;
-			top: calc(var(--space-l) + 48px + var(--space-2xs));
+			top: calc(var(--space-l) + var(--button-size) + var(--space-2xs));
 			right: var(--space-m);
 		scale: 0.85;
+		scrollbar-gutter: stable;
 		transform-origin: top right;
 		transition:
 			opacity 200ms ease-out,
@@ -249,12 +251,12 @@ body.tag-template {
 		display: flex;
 			align-items: center;
 			justify-content: center;
-		height: 48px;
+		height: var(--button-size);
 		line-height: 0;
 		position: fixed;
 			bottom: var(--space-l);
 			right: var(--space-m);
-		width: 48px;
+		width: var(--button-size);
 		z-index: 2;
 
 		&:focus, &:hover {
@@ -408,13 +410,13 @@ body.tag-template {
 			align-items: center;
 			justify-content: center;
 		float: right;
-		height: 48px;
+		height: var(--button-size);
 		line-height: 0;
 		position: sticky;
         	top: var(--space-s);
         	right: var(--space-s);
 		transition: scale 250ms ease-out;
-		width: 48px;
+		width: var(--button-size);
 
         &:focus, &:hover {
             scale: 1.2;
