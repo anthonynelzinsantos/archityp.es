@@ -33,10 +33,11 @@
 			{{ if eq .Kind "term" }}<div class="tag glass">{{ .Title }}</div>{{ end }}
 
 			<button class="filter glass" type="button" popovertarget="filter-palette" title="Filtrer les architypes">
-				<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 256 256"><path d="M200,136a8,8,0,0,1-8,8H64a8,8,0,0,1,0-16H192A8,8,0,0,1,200,136Zm32-56H24a8,8,0,0,0,0,16H232a8,8,0,0,0,0-16Zm-80,96H104a8,8,0,0,0,0,16h48a8,8,0,0,0,0-16Z"></path></svg>
+				<svg class="filter__icon filter__icon--open" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 256 256"><path d="M200,136a8,8,0,0,1-8,8H64a8,8,0,0,1,0-16H192A8,8,0,0,1,200,136Zm32-56H24a8,8,0,0,0,0,16H232a8,8,0,0,0,0-16Zm-80,96H104a8,8,0,0,0,0,16h48a8,8,0,0,0,0-16Z"></path></svg>
+				<svg class="filter__icon filter__icon--close" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 256 256"><path d="M205.66,194.34a8,8,0,0,1-11.32,11.32L128,139.31,61.66,205.66a8,8,0,0,1-11.32-11.32L116.69,128,50.34,61.66A8,8,0,0,1,61.66,50.34L128,116.69l66.34-66.35a8,8,0,0,1,11.32,11.32L139.31,128Z"></path></svg>
 			</button>
 			<div id="filter-palette" class="filter-palette glass" popover>
-				<p class="filter-palette__title">Filtrer par localisation <button class="filter-palette__close" type="button" popovertarget="filter-palette" popovertargetaction="hide" title="Fermer" aria-label="Fermer">&times;</button></p>
+				<p class="filter-palette__title">Localisation</p>
 				<ul>
 					{{ range site.Taxonomies.de.Alphabetical }}
 						<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>

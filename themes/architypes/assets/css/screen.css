@@ -161,21 +161,39 @@ body.tag-template {
 		&:focus-visible, &:hover {
 			scale: 1.2;
 		}
+
+		.filter__icon--open {
+			display: block;
+		}
+
+		.filter__icon--close {
+			display: none;
+		}
+	}
+
+	&:has(.filter-palette:popover-open) .filter {
+		.filter__icon--open {
+			display: none;
+		}
+
+		.filter__icon--close {
+			display: block;
+		}
 	}
 
 	.filter-palette {
 		backdrop-filter: blur(10px);
-		border-radius: var(--space-s);
+		border-radius: var(--space-xs);
 		font-size: small;
 		inset: auto;
 		margin: 0;
-		max-height: calc(100dvh - 2 * var(--space-l));
-		max-width: min(80vw, 640px);
+		max-height: calc(100dvh - 2 * var(--space-l) - 48px);
+		max-width: calc(100vw - 2 * var(--space-m));
 		opacity: 0;
 		overflow-y: auto;
-		padding: var(--space-xs);
+		padding: var(--space-2xs);
 		position: fixed;
-			top: var(--space-l);
+			top: calc(var(--space-l) + 48px + var(--space-2xs));
 			right: var(--space-m);
 		scale: 0.85;
 		transform-origin: top right;
@@ -184,6 +202,7 @@ body.tag-template {
 			scale 200ms ease-out,
 			display 200ms ease-out allow-discrete,
 			overlay 200ms ease-out allow-discrete;
+		width: max-content;
 		z-index: 2;
 
 		&:popover-open {
@@ -197,47 +216,31 @@ body.tag-template {
 		}
 
 		.filter-palette__title {
+			font-size: x-small;
 			font-variation-settings: "wght" 600;
-			margin: 0 0 var(--space-2xs) 0;
+			letter-spacing: 0.05em;
+			margin: 0 0 var(--space-3xs) 0;
+			opacity: 0.7;
+			padding: 0 var(--space-2xs);
 			text-align: center;
 			text-transform: uppercase;
 		}
 
-		.filter-palette__close {
-			appearance: none;
-			background: none;
-			border: none;
-			color: inherit;
-			cursor: pointer;
-			font: inherit;
-			line-height: 1;
-			opacity: 0.5;
-			padding: 0 var(--space-3xs);
-
-			&:focus, &:hover {
-				opacity: 1;
-			}
-		}
-
 		ul {
-			columns: 2;
-			column-gap: var(--space-m);
 			list-style: none;
 			margin: 0;
 			padding: 0;
 		}
 
-		li {
-			break-inside: avoid;
-		}
-
 		a {
+			border-radius: var(--space-3xs);
 			display: block;
-			padding: var(--space-3xs) 0;
+			padding: var(--space-3xs) var(--space-2xs);
 			text-decoration: none;
+			transition: background 150ms ease-out;
 
 			&:focus, &:hover {
-				text-decoration: underline;
+				background: color-mix(in srgb, currentColor 14%, transparent);
 			}
 		}
 	}
