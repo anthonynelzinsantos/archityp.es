@@ -1,12 +1,12 @@
-{{- $classes := slice -}}
-{{- if .IsHome -}}
-	{{- $classes = $classes | append "home-template" -}}
-{{- else if eq .Kind "term" -}}
-	{{- $classes = $classes | append "tag-template" -}}
-	{{- $classes = $classes | append (printf "tag-%s" (.Title | anchorize)) -}}
-{{- else if eq .Type "about" -}}
-	{{- $classes = $classes | append "page-template" -}}
-{{- else if eq .Kind "page" -}}
-	{{- $classes = $classes | append "post-template" -}}
-{{- end -}}
-{{- delimit $classes " " -}}
+{{ $classes := slice }}
+{{ if .IsHome }}
+	{{ $classes = $classes | append "home-template" }}
+{{ else if eq .Kind "term" }}
+	{{ $classes = $classes | append "tag-template" }}
+	{{ $classes = $classes | append (printf "tag-%s" (.Title | anchorize)) }}
+{{ else if eq .Type "about" }}
+	{{ $classes = $classes | append "page-template" }}
+{{ else if eq .Kind "page" }}
+	{{ $classes = $classes | append "post-template" }}
+{{ end }}
+{{ delimit $classes " " }}
