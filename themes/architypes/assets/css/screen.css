@@ -322,7 +322,7 @@ body.tag-template {
 	.grid {
 		display: grid;
 			grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-			gap: 1px;
+			gap: 3px;
 
 		.post {
 			margin: 0;
@@ -380,15 +380,44 @@ body.tag-template {
 			margin: 0 0 var(--space-3xs) 0;
 			text-transform: uppercase;
 		}
-		
+
+		h2 {
+			font-size: var(--size);
+			line-height: 1.4;
+			margin: var(--space-l) 0 var(--space-3xs) 0;
+		}
+
 		p {
 			margin: 0 0 var(--space-s) 0;
-			
+
 			&:last-of-type {
 				margin: 0 0 0 0;
 			}
 		}
-		
+
+		ul {
+			list-style: none;
+			margin: 0 0 var(--space-s) 0;
+			padding: 0;
+		}
+
+		li {
+			&::before {
+				content: "✲";
+				margin: 0 1ch 0 0;
+			}
+		}
+
+		hr {
+			border: none;
+			margin: var(--space-l) 0;
+			text-align: center;
+
+			&::before {
+				content: "✲ ✲ ✲";
+			}
+		}
+
 		.meta {
 			display: flex;
 				align-items: center;
@@ -440,7 +469,7 @@ body.tag-template {
     .article-popover__inner {
         --x: 0px;
         background: var(--background-body);
-        border: 1px solid var(--border-article);
+        border: 3px solid var(--border-article);
         box-shadow: 0 0 var(--space-3xl) var(--shadow-article);
         height: auto;
         left: 50%;

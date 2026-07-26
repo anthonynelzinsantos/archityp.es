@@ -8,7 +8,7 @@ url: /about/
 
 Bonjour ! Je m'appelle [Anthony Nelzin-Santos](https://anthonynelzinsantos.com/). Au fil des années et de mes voyages, j'ai photographié des milliers de devantures pour documenter une tradition typographique en voie de disparition. Ce sont mes « architypes », les mémoires d'un passé (pas si) lointain qui alimentent ma pratique artistique.
 
-**Naviguer sur Architypes**
+## Naviguer sur Architypes
 
 Vous pouvez passer d'une photo à l'autre :
 
@@ -21,7 +21,7 @@ Vous pouvez revenir à la page d'accueil :
 - en cliquant en dehors de l'article ;
 - avec la touche **␛** de votre clavier.
 
-**Suivre Architypes**
+## Suivre Architypes
 
 Vous pouvez être informé de la publication de nouveaux architypes :
 
@@ -29,9 +29,7 @@ Vous pouvez être informé de la publication de nouveaux architypes :
 - en suivant *Architypes* [sur Mastodon](https://mastodon.social/@architypes) ;
 - en suivant *Architypes* [sur Threads](https://www.threads.com/@archityp.es).
 
----
-
-**Droit d'auteur**
+## Droit d'auteur
 
 Les contenus publiés sur *Architypes* sont mis à disposition selon les termes de [la licence Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr). Cela signifie que vous pouvez partager et adapter les contenus publiés sur *Architypes* à condition :
 
@@ -41,7 +39,7 @@ Les contenus publiés sur *Architypes* sont mis à disposition selon les termes 
 
 En cas de doute sur les conditions d'utilisation de la licence Creative Commons BY-NC-SA 4.0, n'hésitez pas à [me contacter par e-mail](mailto:bonjour@archityp.es).
 
-**Hébergement**
+## Hébergement
 
 *Architypes* est [hébergé par Infomaniak](https://www.infomaniak.com/goto/fr/hosting.web?utm_term=5fd3bff1d1501) dans un centre de données alimenté par des sources d'énergie renouvelables.
 
@@ -50,6 +48,6 @@ Rue Eugène Marziano 25
 1227 Les Acacias (GE)   
 Suisse
 
-**Vie privée**
+## Vie privée
 
 *Architypes* ne collecte aucune donnée personnelle et n'est pas soumis au RGPD.
