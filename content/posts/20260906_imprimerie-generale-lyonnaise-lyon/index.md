@@ -6,4 +6,4 @@ de:
 slug: "imprimerie-generale-lyonnaise-lyon"
 ---
 
-Photo prise en avril 2022. Une imprime d’[avant-garde](https://en.wikipedia.org/wiki/ITC_Avant_Garde).
+Photo prise en avril 2022. Une imprimerie d’[avant-garde](https://en.wikipedia.org/wiki/ITC_Avant_Garde).
