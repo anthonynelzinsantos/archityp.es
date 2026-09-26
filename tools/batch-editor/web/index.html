@@ -1,0 +1,564 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Architypes</title>
+<style>
+  :root {
+    --bg: #eceae3;
+    --fg: #27202c;
+    --muted: #6f6673;
+    --border: #d5cfd6;
+    --accent: #5d1239;
+    --on-accent: #f6f5f1;
+    --panel: color-mix(in srgb, var(--accent) 6%, var(--bg));
+    --danger: #d51044;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #17121b;
+      --fg: #ebe4ee;
+      --muted: #968b9b;
+      --border: #332b38;
+      --accent: #d06299;
+      --on-accent: #17121b;
+      --panel: color-mix(in srgb, var(--accent) 10%, var(--bg));
+      --danger: #ff4d70;
+    }
+  }
+  * { box-sizing: border-box; }
+  [hidden] { display: none !important; }
+  html { height: 100%; }
+  body {
+    background: var(--bg);
+    color: var(--fg);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    margin: 0;
+    padding: 0 16px 16px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  header {
+    padding: 20px 0 12px;
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+    flex-wrap: wrap;
+    flex: 0 0 auto;
+  }
+  h1 { font-size: 20px; margin: 0; }
+  h2 { font-size: 14px; text-transform: uppercase; letter-spacing: 0.04em; margin: 0 0 10px; }
+  .muted { color: var(--muted); font-size: 13px; }
+  main {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+    align-items: start;
+    flex: 1 1 auto;
+  }
+  .left-col { display: contents; }
+  @media (min-width: 900px) {
+    main {
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: 1fr;
+      align-items: stretch;
+      min-height: 0;
+    }
+    .left-col {
+      display: grid;
+      grid-template-rows: 2fr 1fr;
+      gap: 20px;
+      min-height: 0;
+    }
+    .inbox-panel, .history-panel { max-height: none; min-height: 0; }
+    .form-panel { overflow-y: auto; min-height: 0; }
+  }
+  section {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 16px;
+    min-width: 0;
+  }
+  .inbox-panel { max-height: 80vh; overflow-y: auto; }
+  .history-panel { max-height: 33vh; overflow-y: auto; }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+    gap: 8px;
+  }
+  .thumb {
+    background: none;
+    border: 2px solid transparent;
+    border-radius: 6px;
+    padding: 4px;
+    cursor: pointer;
+    text-align: left;
+    color: inherit;
+    font: inherit;
+  }
+  .thumb:hover { border-color: var(--border); }
+  .thumb.selected { border-color: var(--accent); }
+  .thumb img {
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+    display: block;
+    border-radius: 4px;
+    background: var(--border);
+  }
+  .thumb span {
+    display: block;
+    font-size: 10px;
+    color: var(--muted);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-top: 4px;
+  }
+  .history-list { display: flex; flex-direction: column; gap: 2px; }
+  .history-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 10px;
+    width: 100%;
+    text-align: left;
+    background: none;
+    border: none;
+    border-radius: 6px;
+    padding: 6px 8px;
+    cursor: pointer;
+    color: inherit;
+    font: inherit;
+  }
+  .history-item:hover { background: var(--bg); }
+  .history-item.selected { background: var(--bg); box-shadow: inset 0 0 0 2px var(--accent); }
+  .history-title { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .history-date { flex-shrink: 0; font-size: 12px; color: var(--muted); }
+  #preview-wrap { margin-bottom: 14px; }
+  #preview {
+    width: 100%;
+    aspect-ratio: 4/3;
+    object-fit: contain;
+    background: var(--border);
+    border-radius: 6px;
+    display: block;
+  }
+  .edit-banner {
+    margin: 0 0 14px;
+    font-size: 13px;
+    color: var(--muted);
+  }
+  .edit-banner strong { color: var(--fg); }
+  .edit-banner button {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    color: var(--accent);
+    text-decoration: underline;
+    cursor: pointer;
+    font: inherit;
+    font-size: inherit;
+  }
+  form { display: flex; flex-direction: column; gap: 12px; }
+  label { display: flex; flex-direction: column; gap: 4px; font-size: 13px; }
+  .row { display: flex; gap: 10px; }
+  .row > label { flex: 1; }
+  .title-field { display: flex; align-items: center; gap: 8px; }
+  .title-field input { flex: 1; min-width: 0; }
+  .title-field .muted { white-space: nowrap; }
+  input, select, textarea {
+    background: var(--bg);
+    color: var(--fg);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 7px 8px;
+    font: inherit;
+    font-size: 14px;
+  }
+  textarea { resize: vertical; }
+  button {
+    cursor: pointer;
+    border-radius: 6px;
+    border: 1px solid var(--border);
+    background: var(--bg);
+    color: var(--fg);
+    padding: 6px 10px;
+    font: inherit;
+    font-size: 13px;
+  }
+  #submit-btn {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: var(--on-accent);
+    padding: 10px;
+    font-size: 14px;
+  }
+  #submit-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+  .error {
+    color: var(--danger);
+    font-size: 13px;
+    margin: 0;
+  }
+  .empty { color: var(--muted); font-size: 13px; }
+</style>
+</head>
+<body>
+  <header>
+    <h1>Architypes</h1>
+    <p id="stats" class="muted"></p>
+  </header>
+  <main>
+    <div class="left-col">
+      <section class="inbox-panel">
+        <h2>File d’attente<span id="inbox-count" class="muted"></span></h2>
+        <div id="inbox" class="grid"></div>
+        <p id="inbox-empty" class="empty" hidden>Aucun architype en attente dans <code id="inbox-path"></code>.</p>
+      </section>
+
+      <section class="history-panel">
+        <h2>Publiés<span id="history-count" class="muted"></span></h2>
+        <div id="history" class="history-list"></div>
+      </section>
+    </div>
+
+    <section class="form-panel">
+      <div id="preview-wrap">
+        <img id="preview" alt="">
+      </div>
+      <p id="edit-banner" class="edit-banner" hidden>
+        Modification de <strong id="edit-banner-title"></strong> — <button id="cancel-edit-btn" type="button">annuler</button>
+      </p>
+      <form id="post-form">
+        <label>Localisation
+          <select id="location"></select>
+        </label>
+        <div id="new-location" class="row" hidden>
+          <label>Ville
+            <input type="text" id="new-city" autocomplete="off" placeholder="Lyon">
+          </label>
+          <label>Pays (2 lettres)
+            <input type="text" id="new-cc" maxlength="2" autocomplete="off" placeholder="fr">
+          </label>
+        </div>
+        <label>Titre
+          <div class="title-field">
+            <input type="text" id="title" autocomplete="off" placeholder="Imprimerie">
+            <span id="title-hint" class="muted"></span>
+          </div>
+        </label>
+        <label>Slug
+          <input type="text" id="slug" autocomplete="off" placeholder="imprimerie-lyon">
+        </label>
+        <div class="row">
+          <label>Date
+            <input type="date" id="date" required>
+          </label>
+          <label>Heure
+            <input type="time" id="time" value="15:00" required>
+          </label>
+        </div>
+        <label>Texte
+          <textarea id="caption" rows="5" placeholder="Photo prise en…"></textarea>
+        </label>
+        <p id="error" class="error" hidden></p>
+        <button type="submit" id="submit-btn" disabled>⌘⏎ Créer l’architype</button>
+      </form>
+    </section>
+  </main>
+
+<script>
+  const state = { inbox: [], locations: [], history: [], selected: null, editing: null, slugDirty: false, nextDate: '' };
+
+  function slugify(input) {
+    return input
+      .normalize('NFKD')
+      .replace(/[̀-ͯ]/g, '')
+      .toLowerCase()
+      .replace(/['’]/g, '')
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-+|-+$/g, '');
+  }
+
+  function escapeHtml(s) {
+    return s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  }
+
+  async function fetchState() {
+    const res = await fetch('/api/state');
+    const data = await res.json();
+    state.inbox = data.inbox;
+    state.locations = data.locations;
+    state.history = data.history;
+    state.nextDate = data.nextDate;
+    document.getElementById('stats').textContent =
+      `${data.postCount} architypes publiés · ${data.inbox.length} en attente`;
+    document.getElementById('inbox-path').textContent = data.inboxDir;
+    if (!state.editing) document.getElementById('date').value = data.nextDate;
+    renderInbox();
+    renderLocations();
+    renderHistory();
+  }
+
+  function renderInbox() {
+    const el = document.getElementById('inbox');
+    el.innerHTML = '';
+    document.getElementById('inbox-count').textContent = `(${state.inbox.length})`;
+    document.getElementById('inbox-empty').hidden = state.inbox.length > 0;
+    for (const item of state.inbox) {
+      const btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'thumb' + (state.selected === item.filename ? ' selected' : '');
+      btn.innerHTML = `<img src="/api/thumb/${encodeURIComponent(item.filename)}" alt=""><span>${escapeHtml(item.filename)}</span>`;
+      btn.addEventListener('click', () => selectPhoto(item.filename));
+      el.appendChild(btn);
+    }
+  }
+
+  function renderHistory() {
+    const el = document.getElementById('history');
+    el.innerHTML = '';
+    document.getElementById('history-count').textContent = `(${state.history.length})`;
+    for (const item of state.history) {
+      const btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'history-item' + (state.editing === item.dirName ? ' selected' : '');
+      btn.innerHTML = `<span class="history-title">${escapeHtml(item.title)}</span><span class="history-date">${escapeHtml(item.date)}</span>`;
+      btn.addEventListener('click', () => loadPostForEdit(item.dirName));
+      el.appendChild(btn);
+    }
+  }
+
+  function selectPhoto(filename) {
+    state.selected = filename;
+    state.editing = null;
+    state.slugDirty = false;
+    renderInbox();
+    renderHistory();
+    document.getElementById('preview').src = `/api/thumb/${encodeURIComponent(filename)}`;
+    document.getElementById('title').value = '';
+    document.getElementById('slug').value = '';
+    document.getElementById('caption').value = '';
+    updateFormMode();
+    updateSubmitEnabled();
+    fillCaptionHint(filename);
+  }
+
+  // Prefills "Photo prise en <mois> <année>." from the photo's own capture date, but
+  // only into an empty caption — never overwrites something already being written.
+  async function fillCaptionHint(filename) {
+    const captionEl = document.getElementById('caption');
+    if (captionEl.value.trim()) return;
+    let data;
+    try {
+      const res = await fetch(`/api/caption-hint/${encodeURIComponent(filename)}`);
+      data = await res.json();
+    } catch {
+      return;
+    }
+    if (data.text && state.selected === filename && !captionEl.value.trim()) {
+      captionEl.value = data.text;
+    }
+  }
+
+  async function loadPostForEdit(dirName) {
+    const errEl = document.getElementById('error');
+    errEl.hidden = true;
+    let data;
+    try {
+      const res = await fetch(`/api/post/${encodeURIComponent(dirName)}`);
+      data = await res.json();
+      if (!res.ok) throw new Error(data.error || 'Erreur inconnue.');
+    } catch (err) {
+      errEl.textContent = err.message;
+      errEl.hidden = false;
+      return;
+    }
+
+    state.selected = null;
+    state.editing = dirName;
+    renderInbox();
+    renderHistory();
+
+    document.getElementById('preview').src = `/api/post-thumb/${encodeURIComponent(dirName)}`;
+    document.getElementById('location').value = data.de || '';
+    document.getElementById('new-location').hidden = true;
+    document.getElementById('title').value = data.venue;
+    document.getElementById('slug').value = dirName.replace(/^\d{8}_/, '');
+    state.slugDirty = true;
+    document.getElementById('date').value = data.date;
+    document.getElementById('time').value = data.time;
+    document.getElementById('caption').value = data.caption;
+
+    updateTitleHint();
+    updateFormMode();
+    updateSubmitEnabled();
+  }
+
+  function renderLocations() {
+    const sel = document.getElementById('location');
+    const current = sel.value;
+    sel.innerHTML = '<option value="">— aucune —</option>';
+    for (const loc of state.locations) {
+      const opt = document.createElement('option');
+      opt.value = loc.slug;
+      opt.textContent = loc.title;
+      sel.appendChild(opt);
+    }
+    const newOpt = document.createElement('option');
+    newOpt.value = '__new__';
+    newOpt.textContent = '+ Nouvelle localisation…';
+    sel.appendChild(newOpt);
+    sel.value = current || '';
+  }
+
+  function updateSubmitEnabled() {
+    const title = document.getElementById('title').value.trim();
+    const hasSource = state.selected || state.editing;
+    document.getElementById('submit-btn').disabled = !(hasSource && title);
+  }
+
+  function updateFormMode() {
+    const editing = !!state.editing;
+    document.getElementById('edit-banner').hidden = !editing;
+    document.getElementById('submit-btn').textContent = editing ? '⌘⏎ Enregistrer' : '⌘⏎ Créer l’architype';
+    if (editing) {
+      const item = state.history.find((h) => h.dirName === state.editing);
+      document.getElementById('edit-banner-title').textContent = item ? item.title : state.editing;
+    }
+  }
+
+  // The city to pair with the title, straight from whatever the user picked —
+  // no GPS/EXIF guessing needed, it's already sitting in the form.
+  function currentCityName() {
+    const locVal = document.getElementById('location').value;
+    if (locVal === '__new__') return document.getElementById('new-city').value.trim() || null;
+    const loc = state.locations.find((l) => l.slug === locVal);
+    return loc ? loc.city : null;
+  }
+
+  // The title actually sent on submit: venue name (the only thing typed into #title)
+  // plus the city, read fresh from the location field every time. The city never
+  // lives inside the input itself, so there's nothing to overwrite by typing.
+  function fullTitle() {
+    const venue = document.getElementById('title').value.trim();
+    const city = currentCityName();
+    if (!venue) return '';
+    return city ? `${venue} (${city})` : venue;
+  }
+
+  function updateTitleHint() {
+    const city = currentCityName();
+    document.getElementById('title-hint').textContent = city ? `(${city})` : '';
+  }
+
+  function updateSlugFromTitle() {
+    if (!state.slugDirty) document.getElementById('slug').value = slugify(fullTitle());
+    updateSubmitEnabled();
+  }
+
+  document.getElementById('title').addEventListener('input', updateSlugFromTitle);
+  document.getElementById('slug').addEventListener('input', () => { state.slugDirty = true; });
+
+  document.getElementById('location').addEventListener('change', (e) => {
+    document.getElementById('new-location').hidden = e.target.value !== '__new__';
+    updateTitleHint();
+    updateSlugFromTitle();
+  });
+  document.getElementById('new-city').addEventListener('input', () => {
+    updateTitleHint();
+    updateSlugFromTitle();
+  });
+
+  document.getElementById('post-form').addEventListener('submit', (e) => {
+    e.preventDefault();
+    submitPost();
+  });
+
+  document.addEventListener('keydown', (e) => {
+    if ((e.metaKey || e.ctrlKey) && e.key === 'Enter') {
+      e.preventDefault();
+      submitPost();
+    }
+  });
+
+  function resetFormToBlank() {
+    document.getElementById('title').value = '';
+    document.getElementById('slug').value = '';
+    document.getElementById('caption').value = '';
+    document.getElementById('new-city').value = '';
+    document.getElementById('new-cc').value = '';
+    document.getElementById('new-location').hidden = true;
+    document.getElementById('preview').src = '';
+    state.slugDirty = false;
+    state.selected = null;
+    state.editing = null;
+    updateTitleHint();
+    updateFormMode();
+    updateSubmitEnabled();
+  }
+
+  document.getElementById('cancel-edit-btn').addEventListener('click', () => {
+    resetFormToBlank();
+    document.getElementById('location').value = '';
+    document.getElementById('date').value = state.nextDate;
+    updateTitleHint();
+    renderHistory();
+  });
+
+  async function submitPost() {
+    if (document.getElementById('submit-btn').disabled) return;
+    const errEl = document.getElementById('error');
+    errEl.hidden = true;
+
+    const locVal = document.getElementById('location').value;
+    const payload = {
+      title: fullTitle(),
+      slug: document.getElementById('slug').value.trim(),
+      date: document.getElementById('date').value,
+      time: document.getElementById('time').value,
+      caption: document.getElementById('caption').value,
+      deSlug: locVal === '__new__' ? '' : locVal,
+      newLocation: locVal === '__new__'
+        ? { city: document.getElementById('new-city').value.trim(), countryCode: document.getElementById('new-cc').value.trim() }
+        : null,
+    };
+
+    const editingDirName = state.editing;
+
+    try {
+      const res = editingDirName
+        ? await fetch(`/api/post/${encodeURIComponent(editingDirName)}`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(payload),
+          })
+        : await fetch('/api/posts', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ ...payload, photoFilename: state.selected }),
+          });
+      const data = await res.json();
+      if (!res.ok) throw new Error(data.error || 'Erreur inconnue.');
+
+      const keepLocation = data.deSlug || locVal;
+      resetFormToBlank();
+      await fetchState();
+      document.getElementById('location').value = keepLocation;
+      document.getElementById('date').value = state.nextDate;
+      updateTitleHint();
+      document.getElementById('title').focus();
+    } catch (err) {
+      errEl.textContent = err.message;
+      errEl.hidden = false;
+    }
+  }
+
+  fetchState();
+</script>
+</body>
+</html>
